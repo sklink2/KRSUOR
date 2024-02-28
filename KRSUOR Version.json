@@ -1,8 +1,8 @@
 [
  {
-   "Version#": 1.3,
+   "Version#": 1.4,
    "VersionTitle": "Database Update",
-   "VersionSubtitle": "Would you like to update the KRS database?",
+   "VersionSubtitle": "A new update is available. Would you like to update?",
    "NotifyUser": "Yes"
  }
 ]
