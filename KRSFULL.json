@@ -1,20 +1,4 @@
 [
-  {
-   "UOR": "'10021'",
-   "Name": "KRSFile Update 1.0",
-   "KRS": "'530.040'",
-   "MissOrFelony": "D",
-   "TypesOfCharge": "Felony",
-   "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=19998",
-   "Category": "Abuse",
-   "Elements": "",
-   "Arrestable": "YES",
-   "isFavorite": false,
-   "DCategory": "",
-   "DTraffic": "",
-   "CanCite": "YES",
-   "PCArrest": "YES"
- },
  {
    "UOR": "'38200'",
    "Name": "ABANDONMENT OF MINOR",
