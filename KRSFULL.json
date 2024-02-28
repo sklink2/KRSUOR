@@ -37338,4 +37338,9 @@
    "Elements": "",
    "Arrestable": "NO",
    "isFavorite": false,
-   "
+   "DCategory": "",
+   "DTraffic": "",
+   "CanCite": "NO",
+   "PCArrest": "NO"
+ }
+]
