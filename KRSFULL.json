@@ -37337,4 +37337,10 @@
    "Category": "Drug",
    "Elements": "",
    "Arrestable": "NO",
-   "isFavo
+   "isFavorite": false,
+   "DCategory": "",
+   "DTraffic": "",
+   "CanCite": "NO",
+   "PCArrest": "NO"
+ }
+ ]
