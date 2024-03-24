@@ -1,4 +1,20 @@
 [
+ {
+   "UOR": "'38200'",
+   "Name": "TEST OF REMOTE UPDATE 2.02",
+   "KRS": "'530.040'",
+   "MissOrFelony": "D",
+   "TypesOfCharge": "Felony",
+   "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=19998",
+   "Category": "Abuse",
+   "Elements": "",
+   "Arrestable": "YES",
+   "isFavorite": false,
+   "DCategory": "",
+   "DTraffic": "",
+   "CanCite": "YES",
+   "PCArrest": "YES"
+ },
 
  {
    "UOR": "'38200'",
