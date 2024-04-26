@@ -1,0 +1,129 @@
+{
+  "cities": [
+    {
+      "name": "Lexington",
+      "websites": [
+        {
+          "name": "Lexington Fire Status",
+          "url": "https://fire.lexingtonky.gov//open/status/status.htm",
+          "symbol": "flame"
+        },
+        {
+          "name": "Power Outage Map",
+          "url": "https://stormcenter.lge-ku.com",
+          "symbol": "bolt"
+        },
+        {
+          "name": "Traffic Cameras",
+          "url": "https://trafficvid.lexingtonky.gov/publicmap/",
+          "symbol": "camera"
+        },
+        {
+          "name": "Snow Plow Tracker",
+          "url": "https://www.arcgis.com/apps/webappviewer/index.html?id=d87761ab529e433db660e6fc0a15b0eb",
+          "symbol": "snowflake"
+        },
+        {
+          "name": "City Ordinances",
+          "url": "https://codelibrary.amlegal.com/codes/lexingtonfayettecoky/latest/overview",
+          "symbol": "books.vertical"
+        },
+        {
+          "name": "Pill Identifier Link",
+          "url": "https://www.drugs.com/imprints.php",
+          "symbol": "pills"
+        },
+        {
+          "name": "FCDC Website",
+          "url": "https://jail.lexingtonky.gov/recentlybooked",
+          "symbol": "lock"
+        },
+        {
+          "name": "CourtNet",
+          "url": "https://kcoj.kycourts.net/kyecourts/Login",
+          "symbol": "folder.badge.person.crop"
+        },
+        {
+          "name": "EWarrants",
+          "url": "https://ewarrants.ky.gov/Public/Login.aspx?ReturnUrl=%2f",
+          "symbol": "w.square"
+        }
+      ]
+    },
+    {
+      "name": "Louisville",
+      "websites": [
+        {
+          "name": "Power Outage Map",
+          "url": "https://stormcenter.lge-ku.com",
+          "symbol": "bolt"
+        },
+        {
+          "name": "Traffic Cameras",
+          "url": "https://maps.kytc.ky.gov/trafficcameras/?xmin=-9450477.801928485&xmax=-9383289.654065905&ymin=4696826.35185232&ymax=4742421.039224366",
+          "symbol": "camera"
+        },
+        {
+          "name": "City Ordinances",
+          "url": "https://codelibrary.amlegal.com/codes/louisvillemetro/latest/loukymetro/0-0-0-1",
+          "symbol": "books.vertical"
+        },
+        {
+          "name": "Jail Website",
+          "url": "https://mugshots.louisvilleky.gov/Default.aspx",
+          "symbol": "lock"
+        },
+        {
+          "name": "CourtNet",
+          "url": "https://kcoj.kycourts.net/kyecourts/Login",
+          "symbol": "folder.badge.person.crop"
+        },
+        {
+          "name": "EWarrants",
+          "url": "https://ewarrants.ky.gov/Public/Login.aspx?ReturnUrl=%2f",
+          "symbol": "w.square"
+        }
+      ]
+    },
+    {
+      "name": "Nicholasville",
+      "websites": [
+        {
+          "name": "Power Outage Map",
+          "url": "https://stormcenter.lge-ku.com",
+          "symbol": "bolt"
+        },
+        {
+          "name": "Nicholasville PVA",
+          "url": "https://qpublic.schneidercorp.com/Application.aspx?AppID=864&LayerID=16311&PageTypeID=2&PageID=7209",
+          "symbol": "ruler"
+        },
+        {
+          "name": "City Ordinances",
+          "url": "https://codelibrary.amlegal.com/codes/nicholasville/latest/overview",
+          "symbol": "books.vertical"
+        },
+        {
+          "name": "Pill Identifier Link",
+          "url": "https://www.drugs.com/imprints.php",
+          "symbol": "pills"
+        },
+        {
+          "name": "Jail Website",
+          "url": "http://www.jessaminedetention.com/InmateRoster/JCDC_inmatelist.html",
+          "symbol": "lock"
+        },
+        {
+          "name": "CourtNet",
+          "url": "https://kcoj.kycourts.net/kyecourts/Login",
+          "symbol": "folder.badge.person.crop"
+        },
+        {
+          "name": "EWarrants",
+          "url": "https://ewarrants.ky.gov/Public/Login.aspx?ReturnUrl=%2f",
+          "symbol": "w.square"
+        }
+      ]
+    }
+  ]
+}
