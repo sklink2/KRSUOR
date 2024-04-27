@@ -354,7 +354,7 @@
 				},
 				{
 					"name": "City Ordinances",
-					"url": "https://library.municode.com/ky/lexington-fayette_county/codes/code_of_ordinances",
+					"url": "https://codelibrary.amlegal.com/codes/lexingtonfayettecoky/latest/overview",
 					"symbol": "books.vertical"
 				},
 				{
@@ -383,7 +383,7 @@
 				},
 				{
 					"name": "City Ordinances",
-					"url": "https://laserfiche.owensboro.org/WebLink/Browse.aspx?id=31826&dbid=1&repo=Owensboro&cr=1",
+					"url": "https://library.municode.com/ky/owensboro/codes/code_of_ordinances",
 					"symbol": "books.vertical"
 				},
 				{
@@ -485,7 +485,7 @@
 				},
 				{
 					"name": "Jail Website",
-					"url": "http://www.madisoncountydetention.com/InmateRoster/Madison_Inmatelist.html",
+					"url": "https://madisoncountyky.gov/inmate-search/#single/0",
 					"symbol": "lock"
 				},
 				{
@@ -514,7 +514,7 @@
 				},
 				{
 					"name": "Jail Website",
-					"url": "http://www.madisoncountydetention.com/InmateRoster/Madison_Inmatelist.html",
+					"url": "https://madisoncountyky.gov/inmate-search/#single/0",
 					"symbol": "lock"
 				},
 				{
@@ -605,7 +605,43 @@
 					"symbol": "w.square"
 				}
 			]
-		}
+		},
+{
+    "name": "KSP Resources",
+    "websites": [
+        {
+            "name": "Highway Traffic Cameras",
+            "url": "https://goky.ky.gov",
+            "symbol": "camera"
+        },
+        {
+            "name": "Pill Identifier Link",
+            "url": "https://www.drugs.com/imprints.php",
+            "symbol": "pills"
+        },
+        {
+            "name": "Power Outage Map",
+            "url": "https://stormcenter.lge-ku.com",
+            "symbol": "bolt"
+        },
+        {
+            "name": "Post Locations",
+            "url": "https://kentuckystatepolice.org/post-locations/",
+            "symbol": "map"
+        },
+        {
+            "name": "CourtNet",
+            "url": "https://kcoj.kycourts.net/kyecourts/Login",
+            "symbol": "folder.badge.person.crop"
+        },
+        {
+            "name": "EWarrants",
+            "url": "https://ewarrants.ky.gov/Public/Login.aspx?ReturnUrl=%2f",
+            "symbol": "w.square"
+        }
+    ]
+}
+
 
 	]
 }
