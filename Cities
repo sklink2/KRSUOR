@@ -66,6 +66,11 @@
 					"symbol": "books.vertical"
 				},
 				{
+					"name": "Pill Identifier Link",
+					"url": "https://www.drugs.com/imprints.php",
+					"symbol": "pills"
+				},
+				{
 					"name": "Jail Website",
 					"url": "https://mugshots.louisvilleky.gov/Default.aspx",
 					"symbol": "lock"
@@ -453,6 +458,16 @@
 					"name": "Jail Website",
 					"url": "http://www.callowaycountyjail.com/callowaycounty_inmatelist.html",
 					"symbol": "lock"
+				},
+				{
+					"name": "CourtNet",
+					"url": "https://kcoj.kycourts.net/kyecourts/Login",
+					"symbol": "folder.badge.person.crop"
+				},
+				{
+					"name": "EWarrants",
+					"url": "https://ewarrants.ky.gov/Public/Login.aspx?ReturnUrl=%2f",
+					"symbol": "w.square"
 				}
 			]
 		},
@@ -472,6 +487,16 @@
 					"name": "Jail Website",
 					"url": "http://www.madisoncountydetention.com/InmateRoster/Madison_Inmatelist.html",
 					"symbol": "lock"
+				},
+				{
+					"name": "CourtNet",
+					"url": "https://kcoj.kycourts.net/kyecourts/Login",
+					"symbol": "folder.badge.person.crop"
+				},
+				{
+					"name": "EWarrants",
+					"url": "https://ewarrants.ky.gov/Public/Login.aspx?ReturnUrl=%2f",
+					"symbol": "w.square"
 				}
 			]
 		},
@@ -491,6 +516,16 @@
 					"name": "Jail Website",
 					"url": "http://www.madisoncountydetention.com/InmateRoster/Madison_Inmatelist.html",
 					"symbol": "lock"
+				},
+				{
+					"name": "CourtNet",
+					"url": "https://kcoj.kycourts.net/kyecourts/Login",
+					"symbol": "folder.badge.person.crop"
+				},
+				{
+					"name": "EWarrants",
+					"url": "https://ewarrants.ky.gov/Public/Login.aspx?ReturnUrl=%2f",
+					"symbol": "w.square"
 				}
 			]
 		},
@@ -510,6 +545,16 @@
 					"name": "Jail Website",
 					"url": "http://www.allencountydetention.com/allen_inmate_list.html",
 					"symbol": "lock"
+				},
+				{
+					"name": "CourtNet",
+					"url": "https://kcoj.kycourts.net/kyecourts/Login",
+					"symbol": "folder.badge.person.crop"
+				},
+				{
+					"name": "EWarrants",
+					"url": "https://ewarrants.ky.gov/Public/Login.aspx?ReturnUrl=%2f",
+					"symbol": "w.square"
 				}
 			]
 		},
@@ -524,6 +569,40 @@
 					"name": "Jail Website",
 					"url": "http://www.logancojail.com/Logan_inmate_list.html",
 					"symbol": "lock"
+				},
+				{
+					"name": "CourtNet",
+					"url": "https://kcoj.kycourts.net/kyecourts/Login",
+					"symbol": "folder.badge.person.crop"
+				},
+				{
+					"name": "EWarrants",
+					"url": "https://ewarrants.ky.gov/Public/Login.aspx?ReturnUrl=%2f",
+					"symbol": "w.square"
+				}
+			]
+		},
+		{
+			"name": "Corbin",
+			"websites": [{
+					"name": "Power Outage Map",
+					"url": "https://outages.tcemc.org",
+					"symbol": "bolt"
+				},
+				{
+					"name": "Jail Website",
+					"url": "http://www.whitleycountydetention.com/whitleycountydetention_inmatelist.html",
+					"symbol": "lock"
+				},
+				{
+					"name": "CourtNet",
+					"url": "https://kcoj.kycourts.net/kyecourts/Login",
+					"symbol": "folder.badge.person.crop"
+				},
+				{
+					"name": "EWarrants",
+					"url": "https://ewarrants.ky.gov/Public/Login.aspx?ReturnUrl=%2f",
+					"symbol": "w.square"
 				}
 			]
 		}
