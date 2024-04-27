@@ -586,7 +586,7 @@
 			"name": "Corbin",
 			"websites": [{
 					"name": "Power Outage Map",
-					"url": "https://outages.tcemc.org",
+					"url": "https://stormcenter.lge-ku.com",
 					"symbol": "bolt"
 				},
 				{
