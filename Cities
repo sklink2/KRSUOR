@@ -11,6 +11,11 @@
 					"url": "https://stormcenter.lge-ku.com",
 					"symbol": "bolt"
 				},
+{
+					"name": "Power Outage Map 2",
+					"url": "https://stormcenter.lge-ku.com",
+					"symbol": "bolt"
+				},
 				{
 					"name": "Traffic Cameras",
 					"url": "https://trafficvid.lexingtonky.gov/publicmap/",
@@ -607,7 +612,7 @@
 			]
 		},
 {
-    "name": "KSP Resources",
+    "name": "KSP",
     "websites": [
         {
             "name": "Highway Traffic Cameras",
