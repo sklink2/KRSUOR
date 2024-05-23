@@ -6,6 +6,11 @@
 					"url": "https://fire.lexingtonky.gov//open/status/status.htm",
 					"symbol": "flame"
 				},
+{
+					"name": "Lexington Fire Status",
+					"url": "https://fire.lexingtonky.gov//open/status/status.htm",
+					"symbol": "flame"
+				},
 				{
 					"name": "Power Outage Map",
 					"url": "https://stormcenter.lge-ku.com",
