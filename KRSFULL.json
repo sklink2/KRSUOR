@@ -8433,7 +8433,7 @@
   },
   {
     "UOR": "'00542'",
-    "Name": "EVIDENCE OF OWNERSHIP - EA VIOLATION SEP OFF*NOTE1",
+    "Name": "EVIDENCE OF OWNERSHIP - EA VIOLATION SEP OFF NOTE1",
     "KRS": "'189.228'",
     "MissOrFelony": "O",
     "TypesOfCharge": "Misdemeanor",
@@ -16273,7 +16273,7 @@
   },
   {
     "UOR": "'41963'",
-    "Name": "INTENTIONAL DISCLOSURE OF TRANS DATA FROM CHS TO UNAUTH PERSON, 2ND OR>*OBS",
+    "Name": "INTENTIONAL DISCLOSURE OF TRANS DATA FROM CHS TO UNAUTH PERSON, 2ND OR> OBS",
     "KRS": "'218A.202'",
     "MissOrFelony": "C",
     "TypesOfCharge": "Felony",
