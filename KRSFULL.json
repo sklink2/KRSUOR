@@ -39704,7 +39704,7 @@
     "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=44792",
     "Category": "Custody",
     "Elements": "",
-    "Arrestable": "NO",
+    "Arrestable": "YES",
     "isFavorite": false,
     "DCategory": "",
     "DTraffic": "",
