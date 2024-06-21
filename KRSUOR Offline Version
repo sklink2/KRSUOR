@@ -1,8 +1,8 @@
 [
  {
-   "Version#": 1.01,
-   "VersionTitle": "KRS Offline Database Update 1.0",
-   "VersionSubtitle": "A small update to the list of laws is available. Would you like to update now?",
+   "Version#": 1.02,
+   "VersionTitle": "KRS Offline Database Update 1.02",
+   "VersionSubtitle": "A update for the charges to be viewed offline is available. Would you like to update now?",
    "NotifyUser": "Yes"
  }
 ]
