@@ -32,6 +32,11 @@
 					"symbol": "pills"
 				},
 				{
+					"name": "Mopeds, Golf Carts, and Scooters",
+					"url": "https://www.lexingtonky.gov/mopeds-go-carts-and-scooters#:~:text=Because%20mopeds%20are%20considered%20vehicles,(30)%20mph%20are%20enforced",
+					"symbol": "moped.fill"
+				},
+				{
 					"name": "FCDC Website",
 					"url": "https://jail.lexingtonky.gov/recentlybooked",
 					"symbol": "lock"
