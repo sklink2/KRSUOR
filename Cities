@@ -93,6 +93,41 @@
 			]
 		},
 		{
+			"name": "Elizabethtown",
+			"websites": [
+				{
+					"name": "Traffic Cameras",
+					"url": "https://maps.kytc.ky.gov/trafficcameras/?xmin=-9599873.973711979&xmax=-9517169.109107386&ymin=4519052.93331796&ymax=4550544.988971465",
+					"symbol": "camera"
+				},
+				{
+					"name": "City Ordinances",
+					"url": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2",
+					"symbol": "books.vertical"
+				},
+				{
+					"name": "Pill Identifier Link",
+					"url": "https://www.drugs.com/imprints.php",
+					"symbol": "pills"
+				},
+				{
+					"name": "Jail Website",
+					"url": "http://www.hcdetention.com/hardin_inmatelist.html",
+					"symbol": "lock"
+				},
+				{
+					"name": "CourtNet",
+					"url": "https://kcoj.kycourts.net/kyecourts/Login",
+					"symbol": "folder.badge.person.crop"
+				},
+				{
+					"name": "EWarrants",
+					"url": "https://ewarrants.ky.gov/Public/Login.aspx?ReturnUrl=%2f",
+					"symbol": "w.square"
+				}
+			]
+		},
+		{
 			"name": "Nicholasville",
 			"websites": [{
 					"name": "Power Outage Map",
