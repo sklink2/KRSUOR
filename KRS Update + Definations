@@ -2,7 +2,7 @@
  {
    "Version#": 2.10,
    "VersionTitle": "KRS Database Update 2.10",
-   "VersionSubtitle": "Update for chapter definitions",
+   "VersionSubtitle": "Small update to fix links",
    "NotifyUser": "Yes"
  }
 ]
