@@ -92,6 +92,45 @@
 				}
 			]
 		},
+{
+			"name": "Florence",
+			"websites": [{
+					"name": "Power Outage Map",
+					"url": "https://stormcenter.lge-ku.com",
+					"symbol": "bolt"
+				},
+				{
+					"name": "Traffic Cameras",
+					"url": "https://maps.kytc.ky.gov/trafficcameras/?xmin=-9450477.801928485&xmax=-9383289.654065905&ymin=4696826.35185232&ymax=4742421.039224366",
+					"symbol": "camera"
+				},
+				{
+					"name": "City Ordinances",
+					"url": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-1",
+					"symbol": "books.vertical"
+				},
+				{
+					"name": "Pill Identifier Link",
+					"url": "https://www.drugs.com/imprints.php",
+					"symbol": "pills"
+				},
+				{
+					"name": "Jail Website",
+					"url": "https://www.boonecountyky.org/government_administration/county_government/jailer/inmates.php",
+					"symbol": "lock"
+				},
+				{
+					"name": "CourtNet",
+					"url": "https://kcoj.kycourts.net/kyecourts/Login",
+					"symbol": "folder.badge.person.crop"
+				},
+				{
+					"name": "EWarrants",
+					"url": "https://ewarrants.ky.gov/Public/Login.aspx?ReturnUrl=%2f",
+					"symbol": "w.square"
+				}
+			]
+		},
 		{
 			"name": "Elizabethtown",
 			"websites": [
