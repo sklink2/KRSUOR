@@ -54,6 +54,40 @@
 			]
 		},
 		{
+			"name": "Hopkinsville",
+			"websites": [{
+					"name": "Power Outage Map",
+					"url": "https://outage.precc.com",
+					"symbol": "bolt"
+				},
+				{
+					"name": "Pill Identifier Link",
+					"url": "https://www.drugs.com/imprints.php",
+					"symbol": "pills"
+				},
+				{
+					"name": "City Ordinances",
+					"url": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/overview",
+					"symbol": "books.vertical"
+				},
+				{
+					"name": "Jail Website",
+					"url": "http://inmates.bluhorse.com/default.aspx?ID=CCJAIL",
+					"symbol": "lock"
+				},
+				{
+					"name": "CourtNet",
+					"url": "https://kcoj.kycourts.net/kyecourts/Login",
+					"symbol": "folder.badge.person.crop"
+				},
+				{
+					"name": "EWarrants",
+					"url": "https://ewarrants.ky.gov/Public/Login.aspx?ReturnUrl=%2f",
+					"symbol": "w.square"
+				}
+			]
+		},
+		{
 			"name": "Louisville",
 			"websites": [{
 					"name": "Power Outage Map",
