@@ -1,8 +1,8 @@
 [
  {
-   "Version#": 2.11,
-   "VersionTitle": "KRS Database Update 2.11",
-   "VersionSubtitle": "Small update to fix links",
+   "Version#": 2.20,
+   "VersionTitle": "KRS Database Update 2.20",
+   "VersionSubtitle": "New KY laws update.",
    "NotifyUser": "Yes"
  }
 ]
