@@ -1,8 +1,8 @@
 [
  {
-   "Version#": 1.05,
-   "VersionTitle": "KRS Offline Database Update 1.05",
-   "VersionSubtitle": "This update allows for viewing KRS text Offline.",
+   "Version#": 1.10,
+   "VersionTitle": "KRS Offline Database Update 1.10",
+   "VersionSubtitle": "This update allows for viewing of the new KRS text Offline.",
    "NotifyUser": "Yes"
  }
 ]
