@@ -17,9 +17,9 @@
 					"symbol": "camera"
 				},
 				{
-					"name": "Snow Plow Tracker",
-					"url": "https://www.arcgis.com/apps/webappviewer/index.html?id=d87761ab529e433db660e6fc0a15b0eb",
-					"symbol": "snowflake"
+					"name": "Urban Service Boundry",
+					"url": "https://arcg.is/1HLvvr5",
+					"symbol": "mappin.and.ellipse"
 				},
 				{
 					"name": "City Ordinances",
