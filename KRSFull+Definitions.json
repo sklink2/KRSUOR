@@ -861,10 +861,10 @@
     "Elements": "",
     "DCategory": "",
     "KRS": "'222.202(1)'",
-    "PCArrest": "NO",
+    "PCArrest": "YES",
     "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=48988",
     "UOR": "'02304'",
-    "CanCite": "NO"
+    "CanCite": "YES"
   },
   {
     "Arrestable": "YES",
@@ -878,7 +878,7 @@
     "Elements": "",
     "DCategory": "",
     "KRS": "'222.202(1)'",
-    "PCArrest": "NO",
+    "PCArrest": "YES",
     "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=48988",
     "UOR": "'02301'",
     "CanCite": "YES"
@@ -41379,7 +41379,7 @@
   },
   {
     "Arrestable": "YES",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=19964",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=19965",
     "Category": "Weapon",
     "isFavorite": false,
     "DTraffic": "",
