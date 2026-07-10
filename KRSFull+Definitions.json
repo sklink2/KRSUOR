@@ -2908,7 +2908,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=1972",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=150.180&statuteRsn=56840",
     "Category": "Hunting/Fishing",
     "isFavorite": false,
     "DTraffic": "",
@@ -2925,7 +2925,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=1972",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=150.180&statuteRsn=56840",
     "Category": "Hunting/Fishing",
     "isFavorite": false,
     "DTraffic": "",
@@ -2942,7 +2942,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=1972",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=150.180&statuteRsn=56840",
     "Category": "Hunting/Fishing",
     "isFavorite": false,
     "DTraffic": "",
@@ -2970,7 +2970,7 @@
     "DCategory": "",
     "KRS": "'190.120'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=53605",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=190.010&statuteRsn=57063",
     "UOR": "'00553'",
     "CanCite": "YES"
   },
@@ -3520,7 +3520,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=11075",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=235.280&statuteRsn=56845",
     "Category": "Boats",
     "isFavorite": false,
     "DTraffic": "",
@@ -3922,7 +3922,7 @@
     "DCategory": "",
     "KRS": "'190.140'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=53605",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=190.010&statuteRsn=57063",
     "UOR": "'00555'",
     "CanCite": "YES"
   },
@@ -3939,7 +3939,7 @@
     "DCategory": "",
     "KRS": "'118.305(4)'",
     "PCArrest": "YES",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52143",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=118.015&statuteRsn=56999",
     "UOR": "'60098'",
     "CanCite": "YES"
   },
@@ -3979,7 +3979,7 @@
   },
   {
     "Arrestable": "YES",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=27721",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=119.015&statuteRsn=57006",
     "Category": "Voting",
     "isFavorite": false,
     "DTraffic": "",
@@ -4676,7 +4676,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=54570",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=367.990&statuteRsn=57152",
     "Category": "Business",
     "isFavorite": false,
     "DTraffic": "",
@@ -4693,7 +4693,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=54570",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=367.990&statuteRsn=57152",
     "Category": "Business",
     "isFavorite": false,
     "DTraffic": "",
@@ -4710,7 +4710,7 @@
   },
   {
     "Arrestable": "YES",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=54570",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=367.990&statuteRsn=57152",
     "Category": "Business",
     "isFavorite": false,
     "DTraffic": "",
@@ -4727,7 +4727,7 @@
   },
   {
     "Arrestable": "YES",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=54570",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=367.990&statuteRsn=57152",
     "Category": "Business",
     "isFavorite": false,
     "DTraffic": "",
@@ -4744,7 +4744,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=54570",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=367.990&statuteRsn=57152",
     "Category": "Business",
     "isFavorite": false,
     "DTraffic": "",
@@ -6665,7 +6665,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=48919",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=150.360&statuteRsn=56841",
     "Category": "Hunting/Fishing",
     "isFavorite": false,
     "DTraffic": "",
@@ -6744,7 +6744,7 @@
     "DCategory": "",
     "KRS": "'190.300'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=53605",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=190.010&statuteRsn=57063",
     "UOR": "'00584'",
     "CanCite": "NO"
   },
@@ -7430,7 +7430,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=11075",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=235.280&statuteRsn=56845",
     "Category": "Boats",
     "isFavorite": false,
     "DTraffic": "",
@@ -7583,7 +7583,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55366",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=150.390&statuteRsn=56989",
     "Category": "Hunting/Fishing",
     "isFavorite": false,
     "DTraffic": "",
@@ -8314,7 +8314,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=49060",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=313.080&statuteRsn=56884",
     "Category": "Medical",
     "isFavorite": false,
     "DTraffic": "",
@@ -8325,13 +8325,13 @@
     "DCategory": "",
     "KRS": "'313.080(1)(c)'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=30806",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=313.010&statuteRsn=56872",
     "UOR": "'60447'",
     "CanCite": "YES"
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=49060",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=313.080&statuteRsn=56884",
     "Category": "Medical",
     "isFavorite": false,
     "DTraffic": "",
@@ -8342,7 +8342,7 @@
     "DCategory": "",
     "KRS": "'313.080(1)(c)'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=30806",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=313.010&statuteRsn=56872",
     "UOR": "'60446'",
     "CanCite": "YES"
   },
@@ -9487,7 +9487,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=11075",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=235.280&statuteRsn=56845",
     "Category": "Boats",
     "isFavorite": false,
     "DTraffic": "",
@@ -9572,7 +9572,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=11075",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=235.280&statuteRsn=56845",
     "Category": "Boats",
     "isFavorite": false,
     "DTraffic": "",
@@ -9589,7 +9589,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=11075",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=235.280&statuteRsn=56845",
     "Category": "Boats",
     "isFavorite": false,
     "DTraffic": "",
@@ -9606,7 +9606,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=11075",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=235.280&statuteRsn=56845",
     "Category": "Boats",
     "isFavorite": false,
     "DTraffic": "",
@@ -9623,7 +9623,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=11075",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=235.280&statuteRsn=56845",
     "Category": "Boats",
     "isFavorite": false,
     "DTraffic": "",
@@ -9742,7 +9742,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=11075",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=235.280&statuteRsn=56845",
     "Category": "Boats",
     "isFavorite": false,
     "DTraffic": "",
@@ -9793,7 +9793,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=11075",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=235.280&statuteRsn=56845",
     "Category": "Boats",
     "isFavorite": false,
     "DTraffic": "",
@@ -10881,7 +10881,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=11075",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=235.280&statuteRsn=56845",
     "Category": "Boats",
     "isFavorite": false,
     "DTraffic": "",
@@ -10915,7 +10915,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52803",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=433.892&statuteRsn=57060",
     "Category": "Business",
     "isFavorite": false,
     "DTraffic": "",
@@ -10926,7 +10926,7 @@
     "DCategory": "",
     "KRS": "'433.892'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=45681",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=433.900&statuteRsn=57047",
     "UOR": "'02576'",
     "CanCite": "YES"
   },
@@ -11136,7 +11136,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52143",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=118.015&statuteRsn=56999",
     "Category": "Public Servant / Officer",
     "isFavorite": false,
     "DTraffic": "",
@@ -11147,7 +11147,7 @@
     "DCategory": "",
     "KRS": "‘118.212(5)’",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56457",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=118.212&statuteRsn=57013",
     "UOR": "60396",
     "CanCite": "NO"
   },
@@ -11867,7 +11867,7 @@
   },
   {
     "Arrestable": "YES",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56463",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=119.165&statuteRsn=57007",
     "Category": "Voting",
     "isFavorite": false,
     "DTraffic": "",
@@ -12904,7 +12904,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52143",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=118.015&statuteRsn=56999",
     "Category": "Public Servant / Officer",
     "isFavorite": false,
     "DTraffic": "",
@@ -12966,7 +12966,7 @@
     "DCategory": "",
     "KRS": "'190.110'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=53605",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=190.010&statuteRsn=57063",
     "UOR": "'00552'",
     "CanCite": "YES"
   },
@@ -13816,7 +13816,7 @@
     "DCategory": "",
     "KRS": "'433.896'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=45681",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=433.900&statuteRsn=57047",
     "UOR": "'02578'",
     "CanCite": "YES"
   },
@@ -14876,7 +14876,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=48919",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=150.360&statuteRsn=56841",
     "Category": "Hunting/Fishing",
     "isFavorite": false,
     "DTraffic": "",
@@ -14944,7 +14944,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=48919",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=150.360&statuteRsn=56841",
     "Category": "Hunting/Fishing",
     "isFavorite": false,
     "DTraffic": "",
@@ -15420,7 +15420,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55366",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=150.390&statuteRsn=56989",
     "Category": "Hunting/Fishing",
     "isFavorite": false,
     "DTraffic": "",
@@ -15437,7 +15437,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55366",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=150.390&statuteRsn=56989",
     "Category": "Hunting/Fishing",
     "isFavorite": false,
     "DTraffic": "",
@@ -15454,7 +15454,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55366",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=150.390&statuteRsn=56989",
     "Category": "Hunting/Fishing",
     "isFavorite": false,
     "DTraffic": "",
@@ -15471,7 +15471,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=48919",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=150.360&statuteRsn=56841",
     "Category": "Hunting/Fishing",
     "isFavorite": false,
     "DTraffic": "",
@@ -15930,7 +15930,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52143",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=118.015&statuteRsn=56999",
     "Category": "Public Servant / Officer",
     "isFavorite": false,
     "DTraffic": "",
@@ -16100,7 +16100,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=5389",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=177.915&statuteRsn=",
     "Category": "Commercial Vehicle",
     "isFavorite": false,
     "DTraffic": "",
@@ -17097,7 +17097,7 @@
     "DCategory": "",
     "KRS": "'190.100'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=53605",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=190.010&statuteRsn=57063",
     "UOR": "'00551'",
     "CanCite": "YES"
   },
@@ -17188,7 +17188,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=54622",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=218A.202&statuteRsn=56988",
     "Category": "Drug",
     "isFavorite": false,
     "DTraffic": "",
@@ -17205,7 +17205,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=54622",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=218A.202&statuteRsn=56988",
     "Category": "Drug",
     "isFavorite": false,
     "DTraffic": "",
@@ -17290,7 +17290,7 @@
   },
   {
     "Arrestable": "YES",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=54622",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=218A.202&statuteRsn=56988",
     "Category": "Drug",
     "isFavorite": false,
     "DTraffic": "",
@@ -17307,7 +17307,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=54622",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=218A.202&statuteRsn=56988",
     "Category": "Drug",
     "isFavorite": false,
     "DTraffic": "",
@@ -17324,7 +17324,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=54622",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=218A.202&statuteRsn=56988",
     "Category": "Drug",
     "isFavorite": false,
     "DTraffic": "",
@@ -18599,7 +18599,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56463",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=119.165&statuteRsn=57007",
     "Category": "Voting",
     "isFavorite": false,
     "DTraffic": "",
@@ -18633,7 +18633,7 @@
   },
   {
     "Arrestable": "YES",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=54570",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=367.990&statuteRsn=57152",
     "Category": "Computer",
     "isFavorite": false,
     "DTraffic": "",
@@ -20214,7 +20214,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=49060",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=313.080&statuteRsn=56884",
     "Category": "Medical",
     "isFavorite": false,
     "DTraffic": "",
@@ -20225,13 +20225,13 @@
     "DCategory": "",
     "KRS": "'313.080(1)(d)'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=30806",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=313.010&statuteRsn=56872",
     "UOR": "'60449'",
     "CanCite": "YES"
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=49060",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=313.080&statuteRsn=56884",
     "Category": "Medical",
     "isFavorite": false,
     "DTraffic": "",
@@ -20242,7 +20242,7 @@
     "DCategory": "",
     "KRS": "'313.080(1)(d)'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=30806",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=313.010&statuteRsn=56872",
     "UOR": "'60448'",
     "CanCite": "YES"
   },
@@ -20650,7 +20650,7 @@
     "DCategory": "",
     "KRS": "'190.070'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=53605",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=190.010&statuteRsn=57063",
     "UOR": "'00577'",
     "CanCite": "YES"
   },
@@ -21149,7 +21149,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=11075",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=235.280&statuteRsn=56845",
     "Category": "Boats",
     "isFavorite": false,
     "DTraffic": "",
@@ -21279,7 +21279,7 @@
     "DCategory": "",
     "KRS": "'190.038'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=53605",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=190.010&statuteRsn=57063",
     "UOR": "'00560'",
     "CanCite": "YES"
   },
@@ -21296,13 +21296,13 @@
     "DCategory": "",
     "KRS": "'190.080'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=53605",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=190.010&statuteRsn=57063",
     "UOR": "'00562'",
     "CanCite": "YES"
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=43565",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=190.035&statuteRsn=57082",
     "Category": "Vehicles",
     "isFavorite": false,
     "DTraffic": "",
@@ -21313,7 +21313,7 @@
     "DCategory": "",
     "KRS": "'190.035'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=53605",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=190.010&statuteRsn=57063",
     "UOR": "'00585'",
     "CanCite": "YES"
   },
@@ -21330,13 +21330,13 @@
     "DCategory": "",
     "KRS": "'190.033'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=53605",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=190.010&statuteRsn=57063",
     "UOR": "'00586'",
     "CanCite": "YES"
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52626",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=190.030&statuteRsn=57064",
     "Category": "Vehicles",
     "isFavorite": false,
     "DTraffic": "",
@@ -21347,7 +21347,7 @@
     "DCategory": "",
     "KRS": "'190.030'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=53605",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=190.010&statuteRsn=57063",
     "UOR": "'00587'",
     "CanCite": "YES"
   },
@@ -21364,7 +21364,7 @@
     "DCategory": "",
     "KRS": "'190.071'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=53605",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=190.010&statuteRsn=57063",
     "UOR": "'00588'",
     "CanCite": "YES"
   },
@@ -21421,7 +21421,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=11075",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=235.280&statuteRsn=56845",
     "Category": "Boats",
     "isFavorite": false,
     "DTraffic": "",
@@ -21438,7 +21438,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=11075",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=235.280&statuteRsn=56845",
     "Category": "Boats",
     "isFavorite": false,
     "DTraffic": "",
@@ -23308,7 +23308,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=11075",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=235.280&statuteRsn=56845",
     "Category": "Boats",
     "isFavorite": false,
     "DTraffic": "",
@@ -24175,7 +24175,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=49060",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=313.080&statuteRsn=56884",
     "Category": "Medical",
     "isFavorite": false,
     "DTraffic": "",
@@ -24186,13 +24186,13 @@
     "DCategory": "",
     "KRS": "'313.080(1)(b)'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=30806",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=313.010&statuteRsn=56872",
     "UOR": "'60445'",
     "CanCite": "YES"
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=49060",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=313.080&statuteRsn=56884",
     "Category": "Medical",
     "isFavorite": false,
     "DTraffic": "",
@@ -24203,7 +24203,7 @@
     "DCategory": "",
     "KRS": "'313.080(1)(b)'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=30806",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=313.010&statuteRsn=56872",
     "UOR": "'60444'",
     "CanCite": "YES"
   },
@@ -24277,7 +24277,7 @@
   },
   {
     "Arrestable": "YES",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=54470",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=156.990&statuteRsn=56683",
     "Category": "Schools",
     "isFavorite": false,
     "DTraffic": "",
@@ -24294,7 +24294,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=11075",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=235.280&statuteRsn=56845",
     "Category": "Boats",
     "isFavorite": false,
     "DTraffic": "",
@@ -24311,7 +24311,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=11075",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=235.280&statuteRsn=56845",
     "Category": "Boats",
     "isFavorite": false,
     "DTraffic": "",
@@ -28323,7 +28323,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=30816",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=313.070&statuteRsn=56882",
     "Category": "Medical",
     "isFavorite": false,
     "DTraffic": "",
@@ -28334,13 +28334,13 @@
     "DCategory": "",
     "KRS": "'313.070(1)'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=30806",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=313.010&statuteRsn=56872",
     "UOR": "'60441'",
     "CanCite": "YES"
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=30816",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=313.070&statuteRsn=56882",
     "Category": "Medical",
     "isFavorite": false,
     "DTraffic": "",
@@ -28351,7 +28351,7 @@
     "DCategory": "",
     "KRS": "'313.070(1)'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=30806",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=313.010&statuteRsn=56872",
     "UOR": "'60440'",
     "CanCite": "YES"
   },
@@ -30329,7 +30329,7 @@
   },
   {
     "Arrestable": "YES",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52950",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=514.110&statuteRsn=57061",
     "Category": "Receiving Stolen Property",
     "isFavorite": false,
     "DTraffic": "",
@@ -30346,7 +30346,7 @@
   },
   {
     "Arrestable": "YES",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52950",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=514.110&statuteRsn=57061",
     "Category": "Receiving Stolen Property",
     "isFavorite": false,
     "DTraffic": "",
@@ -30363,7 +30363,7 @@
   },
   {
     "Arrestable": "YES",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52950",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=514.110&statuteRsn=57061",
     "Category": "Receiving Stolen Property",
     "isFavorite": false,
     "DTraffic": "",
@@ -30380,7 +30380,7 @@
   },
   {
     "Arrestable": "YES",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52950",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=514.110&statuteRsn=57061",
     "Category": "Receiving Stolen Property",
     "isFavorite": false,
     "DTraffic": "",
@@ -30397,7 +30397,7 @@
   },
   {
     "Arrestable": "YES",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52950",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=514.110&statuteRsn=57061",
     "Category": "Receiving Stolen Property",
     "isFavorite": false,
     "DTraffic": "",
@@ -30414,7 +30414,7 @@
   },
   {
     "Arrestable": "YES",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52950",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=514.110&statuteRsn=57061",
     "Category": "Receiving Stolen Property",
     "isFavorite": false,
     "DTraffic": "",
@@ -30431,7 +30431,7 @@
   },
   {
     "Arrestable": "YES",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52950",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=514.110&statuteRsn=57061",
     "Category": "Receiving Stolen Property",
     "isFavorite": false,
     "DTraffic": "",
@@ -30448,7 +30448,7 @@
   },
   {
     "Arrestable": "YES",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52950",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=514.110&statuteRsn=57061",
     "Category": "Receiving Stolen Property",
     "isFavorite": false,
     "DTraffic": "",
@@ -30465,7 +30465,7 @@
   },
   {
     "Arrestable": "YES",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52950",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=514.110&statuteRsn=57061",
     "Category": "Receiving Stolen Property",
     "isFavorite": false,
     "DTraffic": "",
@@ -31332,7 +31332,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55362",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=150.170&statuteRsn=56839",
     "Category": "Hunting/Fishing",
     "isFavorite": false,
     "DTraffic": "",
@@ -31349,7 +31349,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55362",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=150.170&statuteRsn=56839",
     "Category": "Hunting/Fishing",
     "isFavorite": false,
     "DTraffic": "",
@@ -31366,7 +31366,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=55362",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=150.170&statuteRsn=56839",
     "Category": "Hunting/Fishing",
     "isFavorite": false,
     "DTraffic": "",
@@ -31706,7 +31706,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=11075",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=235.280&statuteRsn=56845",
     "Category": "Boats",
     "isFavorite": false,
     "DTraffic": "",
@@ -31723,7 +31723,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=11075",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=235.280&statuteRsn=56845",
     "Category": "Boats",
     "isFavorite": false,
     "DTraffic": "",
@@ -32244,7 +32244,7 @@
     "DCategory": "",
     "KRS": "'118.215(4)'",
     "PCArrest": "YES",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52143",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=118.015&statuteRsn=56999",
     "UOR": "'60096'",
     "CanCite": "YES"
   },
@@ -32346,7 +32346,7 @@
     "DCategory": "",
     "KRS": "‘438.3061'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56653",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=438.3061&statuteRsn=56791",
     "UOR": "02324",
     "CanCite": "YES"
   },
@@ -32363,7 +32363,7 @@
     "DCategory": "",
     "KRS": "‘438.3061’",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56653",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=438.3061&statuteRsn=56791",
     "UOR": "02325",
     "CanCite": "YES"
   },
@@ -32380,7 +32380,7 @@
     "DCategory": "",
     "KRS": "‘438.3061’",
     "PCArrest": "YES",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56653",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=438.3061&statuteRsn=56791",
     "UOR": "02326",
     "CanCite": "YES"
   },
@@ -33406,7 +33406,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=11075",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=235.280&statuteRsn=56845",
     "Category": "Boats",
     "isFavorite": false,
     "DTraffic": "",
@@ -33423,7 +33423,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=11075",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=235.280&statuteRsn=56845",
     "Category": "Boats",
     "isFavorite": false,
     "DTraffic": "",
@@ -34613,7 +34613,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=11075",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=235.280&statuteRsn=56845",
     "Category": "Boats",
     "isFavorite": false,
     "DTraffic": "",
@@ -34681,7 +34681,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=48919",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=150.360&statuteRsn=56841",
     "Category": "Hunting/Fishing",
     "isFavorite": false,
     "DTraffic": "",
@@ -34879,7 +34879,7 @@
     "DCategory": "",
     "KRS": "'190.270'",
     "PCArrest": "YES",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=53605",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=190.010&statuteRsn=57063",
     "UOR": "'00579'",
     "CanCite": "YES"
   },
@@ -40138,7 +40138,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=5387",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=177.910&statuteRsn=",
     "Category": "Commercial Vehicle",
     "isFavorite": false,
     "DTraffic": "",
@@ -40988,7 +40988,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=52804",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=433.894&statuteRsn=57062",
     "Category": "",
     "isFavorite": false,
     "DTraffic": "",
@@ -40999,7 +40999,7 @@
     "DCategory": "",
     "KRS": "'433.894'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=45681",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=433.900&statuteRsn=57047",
     "UOR": "'02577'",
     "CanCite": "YES"
   },
@@ -41583,7 +41583,7 @@
   },
   {
     "Arrestable": "YES",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56463",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=119.165&statuteRsn=57007",
     "Category": "Voting",
     "isFavorite": false,
     "DTraffic": "",
@@ -41991,7 +41991,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=54570",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=367.990&statuteRsn=57152",
     "Category": "",
     "isFavorite": false,
     "DTraffic": "",
@@ -42025,7 +42025,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=49060",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=313.080&statuteRsn=56884",
     "Category": "Medical",
     "isFavorite": false,
     "DTraffic": "",
@@ -42036,13 +42036,13 @@
     "DCategory": "",
     "KRS": "'313.080(1)(a)'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=30806",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=313.010&statuteRsn=56872",
     "UOR": "'60443'",
     "CanCite": "YES"
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=49060",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=313.080&statuteRsn=56884",
     "Category": "Medical",
     "isFavorite": false,
     "DTraffic": "",
@@ -42053,7 +42053,7 @@
     "DCategory": "",
     "KRS": "'313.080(1)(a)'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=30806",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=313.010&statuteRsn=56872",
     "UOR": "'60442'",
     "CanCite": "YES"
   },
@@ -42382,7 +42382,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=11075",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=235.280&statuteRsn=56845",
     "Category": "Boats",
     "isFavorite": false,
     "DTraffic": "",
@@ -44235,7 +44235,7 @@
   },
   {
     "Arrestable": "YES",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56463",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=119.165&statuteRsn=57007",
     "Category": "Voting",
     "isFavorite": false,
     "DTraffic": "",
@@ -44439,7 +44439,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=11075",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=235.280&statuteRsn=56845",
     "Category": "Boats",
     "isFavorite": false,
     "DTraffic": "",
@@ -44456,7 +44456,7 @@
   },
   {
     "Arrestable": "NO",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=11075",
+    "Website": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=235.280&statuteRsn=56845",
     "Category": "Boats",
     "isFavorite": false,
     "DTraffic": "",
@@ -44484,7 +44484,7 @@
     "DCategory": "",
     "KRS": "'190.130'",
     "PCArrest": "NO",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=53605",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/InvalidStatute.aspx?statute=190.010&statuteRsn=57063",
     "UOR": "'00554'",
     "CanCite": "YES"
   },
