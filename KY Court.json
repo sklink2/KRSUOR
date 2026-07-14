@@ -1,0 +1,2739 @@
+{
+  "state": "Kentucky",
+  "recordCount": 120,
+  "lastUpdated": "2026-07-14",
+  "notes": "All 120 Kentucky counties are included. Court facility names, physical addresses, and primary clerk phone numbers were checked against the official Kentucky Court of Justice county information pages. Where separate circuit and district numbers are listed, phoneNumber contains the primary or circuit clerk number.",
+  "counties": [
+    {
+      "county": "Adair",
+      "facilityName": "Adair County Judicial Center",
+      "address": "201 Campbellsville St., Suite 101, Columbia, KY 42728",
+      "phoneNumber": "270-384-2626",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Adair.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Allen",
+      "facilityName": "Allen County Judicial Center",
+      "address": "200 W. Main St., Scottsville, KY 42164",
+      "phoneNumber": "270-237-3561",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Allen.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Anderson",
+      "facilityName": "Anderson County Courthouse",
+      "address": "151 S. Main St., Lawrenceburg, KY 40342",
+      "phoneNumber": "502-839-5445",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Anderson.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Ballard",
+      "facilityName": "Ballard County Courthouse",
+      "address": "132 N. Fourth St., Wickliffe, KY 42087",
+      "phoneNumber": "270-335-5123",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Ballard.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Barren",
+      "facilityName": "Barren County Courthouse",
+      "address": "100 Courthouse Square, Glasgow, KY 42141",
+      "phoneNumber": "270-651-3763",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Barren.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Bath",
+      "facilityName": "Bath County Judicial Center",
+      "address": "65 Water St., Owingsville, KY 40360",
+      "phoneNumber": "606-674-2186",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Bath.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Bell",
+      "facilityName": "Farmer Helton Judicial Center",
+      "address": "101 W. Park Ave., Pineville, KY 40977",
+      "phoneNumber": "606-337-9900",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Bell.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Boone",
+      "facilityName": "Boone County Justice Center",
+      "address": "6025 Rogers Lane, Room 141, Burlington, KY 41005",
+      "phoneNumber": "859-448-2900",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Boone.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "Florence",
+        "status": "known",
+        "traffic": {
+          "hour": 9,
+          "minute": 30,
+          "weekdays": [
+            2,
+            3,
+            5,
+            6
+          ]
+        },
+        "criminal": {
+          "hour": 9,
+          "minute": 30,
+          "weekdays": [
+            2,
+            3,
+            5,
+            6
+          ]
+        }
+      }
+    },
+    {
+      "county": "Bourbon",
+      "facilityName": "Bourbon County Judicial Center",
+      "address": "310 Main St., Paris, KY 40361",
+      "phoneNumber": "859-987-2624",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Bourbon.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Boyd",
+      "facilityName": "Boyd County Judicial Center",
+      "address": "2805 Louisa St., Catlettsburg, KY 41129",
+      "phoneNumber": "606-739-4131",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Boyd.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Boyle",
+      "facilityName": "Boyle County Courthouse",
+      "address": "321 W. Main St., Danville, KY 40422",
+      "phoneNumber": "859-239-7362",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Boyle.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Bracken",
+      "facilityName": "Bracken County Judicial Center",
+      "address": "132 W. Miami St., Brooksville, KY 41004",
+      "phoneNumber": "606-735-2522",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Bracken.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Breathitt",
+      "facilityName": "Breathitt County Justice Center",
+      "address": "1131 Main St., Jackson, KY 41339",
+      "phoneNumber": "606-666-5768",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Breathitt.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Breckinridge",
+      "facilityName": "Breckinridge County Justice Center",
+      "address": "111 W. 2nd St., Hardinsburg, KY 40143",
+      "phoneNumber": "270-756-2239",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Breckinridge.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Bullitt",
+      "facilityName": "Bullitt County Judicial Center",
+      "address": "250 Frank E. Simon Ave., Shepherdsville, KY 40165",
+      "phoneNumber": "502-543-7104",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Bullitt.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Butler",
+      "facilityName": "Butler County Courthouse",
+      "address": "110 N. Main St., Morgantown, KY 42261",
+      "phoneNumber": "270-526-5631",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Butler.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Caldwell",
+      "facilityName": "Caldwell County Courthouse Annex",
+      "address": "105 W. Court Square, Princeton, KY 42445",
+      "phoneNumber": "270-365-6884",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Caldwell.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Calloway",
+      "facilityName": "Calloway County Judicial Building",
+      "address": "312 N. 4th St., Murray, KY 42071",
+      "phoneNumber": "270-753-0060",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Calloway.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Campbell",
+      "facilityName": "Campbell County Courthouse",
+      "address": "330 York St., Newport, KY 41071",
+      "phoneNumber": "859-292-6314",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Campbell.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Carlisle",
+      "facilityName": "Carlisle County Courthouse",
+      "address": "985 U.S. Highway 62, Bardwell, KY 42023",
+      "phoneNumber": "270-628-5425",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Carlisle.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Carroll",
+      "facilityName": "William L. Wheeler Hall of Justice",
+      "address": "802 Clay St., Carrollton, KY 41008",
+      "phoneNumber": "502-732-4305",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Carroll.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Carter",
+      "facilityName": "Carter County Justice Center",
+      "address": "100 E. Main St., Grayson, KY 41143",
+      "phoneNumber": "606-474-6572",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Carter.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Casey",
+      "facilityName": "Casey County Judicial Center",
+      "address": "231 Courthouse Square, Liberty, KY 42539",
+      "phoneNumber": "606-787-6761",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Casey.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Christian",
+      "facilityName": "Christian County Justice Center",
+      "address": "100 Justice Way, Hopkinsville, KY 42240",
+      "phoneNumber": "270-889-6539",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Christian.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Clark",
+      "facilityName": "Governor James Clark Judicial Center",
+      "address": "17 Cleveland Ave., Winchester, KY 40392",
+      "phoneNumber": "859-737-7141",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Clark.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "Winchester",
+        "status": "known",
+        "traffic": {
+          "hour": 14,
+          "minute": 0,
+          "weekdays": [
+            3,
+            5
+          ]
+        },
+        "criminal": {
+          "hour": 10,
+          "minute": 0,
+          "weekdays": [
+            3,
+            5
+          ]
+        }
+      }
+    },
+    {
+      "county": "Clay",
+      "facilityName": "Clay County Justice Center",
+      "address": "316 Main St., Suite 108, Manchester, KY 40962",
+      "phoneNumber": "606-598-3663",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Clay.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Clinton",
+      "facilityName": "Clinton County Courthouse",
+      "address": "100 S. Cross St., Albany, KY 42602",
+      "phoneNumber": "606-387-6424",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Clinton.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Crittenden",
+      "facilityName": "Temporary Circuit Court Clerk Location",
+      "address": "208 S. Main St., Marion, KY 42064",
+      "phoneNumber": "270-965-4200",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Crittenden.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Cumberland",
+      "facilityName": "Cumberland County Justice Center",
+      "address": "112 Courthouse Square, Burkesville, KY 42717",
+      "phoneNumber": "270-864-2611",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Cumberland.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Daviess",
+      "facilityName": "Holbrook Judicial Center",
+      "address": "100 E. 2nd St., Owensboro, KY 42302",
+      "phoneNumber": "270-687-7200",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Daviess.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Edmonson",
+      "facilityName": "Edmonson County Courthouse Annex",
+      "address": "110 E. Main Cross St., Brownsville, KY 42210",
+      "phoneNumber": "270-597-2584",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Edmonson.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Elliott",
+      "facilityName": "Elliott County Courthouse Annex",
+      "address": "100 Main and Jane Caudill Sts., Sandy Hook, KY 41171",
+      "phoneNumber": "606-738-5232",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Elliott.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Estill",
+      "facilityName": "Estill County Courthouse",
+      "address": "130 Main St., Suite 207, Irvine, KY 40336",
+      "phoneNumber": "606-723-3970",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Estill.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Fayette",
+      "facilityName": "Robert F. Stephens District Courthouse",
+      "address": "150 N. Limestone, Lexington, KY 40507",
+      "phoneNumber": "859-246-2228",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Fayette.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "Lexington",
+        "status": "known",
+        "traffic": {
+          "hour": 16,
+          "minute": 30,
+          "weekdays": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        "criminal": {
+          "hour": 13,
+          "minute": 0,
+          "weekdays": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      }
+    },
+    {
+      "county": "Fleming",
+      "facilityName": "Fleming County Judicial Center",
+      "address": "101 N. Main Cross St., Flemingsburg, KY 41041",
+      "phoneNumber": "606-845-8571",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Fleming.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Floyd",
+      "facilityName": "Floyd County Justice Center",
+      "address": "127 S. Lake Drive, Prestonsburg, KY 41653",
+      "phoneNumber": "606-889-1672",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Floyd.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Franklin",
+      "facilityName": "Franklin County Courthouse",
+      "address": "222 Saint Clair St., Frankfort, KY 40601",
+      "phoneNumber": "502-564-7013",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Franklin.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Fulton",
+      "facilityName": "Fulton County Courthouse",
+      "address": "114 E. Wellington St., Hickman, KY 42050",
+      "phoneNumber": "270-236-3944",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Fulton.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Gallatin",
+      "facilityName": "Gallatin County Courthouse",
+      "address": "100 Main St., Warsaw, KY 41095",
+      "phoneNumber": "859-567-5241",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Gallatin.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Garrard",
+      "facilityName": "Garrard County Justice Center",
+      "address": "54 Stanford St., Lancaster, KY 40444",
+      "phoneNumber": "859-792-2961",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Garrard.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Grant",
+      "facilityName": "Grant County Judicial Center",
+      "address": "224 S. Main St., Williamstown, KY 41097",
+      "phoneNumber": "859-823-5251",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Grant.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Graves",
+      "facilityName": "Graves County Courthouse (Temporary)",
+      "address": "1102 Paris Road, Suite 21, Mayfield, KY 42066",
+      "phoneNumber": "270-247-1733",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Graves.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Grayson",
+      "facilityName": "Grayson County Judicial Center",
+      "address": "500 Carroll Gibson Blvd., Leitchfield, KY 42754",
+      "phoneNumber": "270-259-3040",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Grayson.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Green",
+      "facilityName": "Green County Judicial Center",
+      "address": "200 W. Court St., Greensburg, KY 42743",
+      "phoneNumber": "270-932-5631",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Green.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Greenup",
+      "facilityName": "Greenup County Courthouse Annex",
+      "address": "101 Harrison St., Greenup, KY 41144",
+      "phoneNumber": "606-473-9869",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Greenup.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Hancock",
+      "facilityName": "Hancock County Judicial Center",
+      "address": "310 Hawesville School Drive, Hawesville, KY 42348",
+      "phoneNumber": "270-927-8144",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Hancock.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Hardin",
+      "facilityName": "Hardin County Justice Center",
+      "address": "120 E. Dixie Ave., Elizabethtown, KY 42701",
+      "phoneNumber": "270-766-5000",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Hardin.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "Elizabethtown",
+        "status": "known",
+        "traffic": {
+          "hour": 13,
+          "minute": 0,
+          "weekdays": [
+            2,
+            4
+          ]
+        },
+        "criminal": {
+          "hour": 9,
+          "minute": 0,
+          "weekdays": [
+            2,
+            4
+          ]
+        }
+      }
+    },
+    {
+      "county": "Harlan",
+      "facilityName": "Harlan County Justice Center",
+      "address": "129 S. 1st St., Harlan, KY 40831",
+      "phoneNumber": "606-573-7114",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Harlan.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Harrison",
+      "facilityName": "Harrison County Justice Center",
+      "address": "115 Court St., Cynthiana, KY 41031",
+      "phoneNumber": "859-234-1914",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Harrison.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Hart",
+      "facilityName": "Hart County Judicial Center",
+      "address": "117 E. South St., Munfordville, KY 42765",
+      "phoneNumber": "270-524-5181",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Hart.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Henderson",
+      "facilityName": "Henderson County Judicial Center",
+      "address": "5 N. Main St., Henderson, KY 42419",
+      "phoneNumber": "270-826-2405",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Henderson.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Henry",
+      "facilityName": "Henry County Courthouse",
+      "address": "30 N. Main St., New Castle, KY 40050",
+      "phoneNumber": "502-845-7551",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Henry.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Hickman",
+      "facilityName": "Hickman County Courthouse Annex",
+      "address": "109 S. Washington St., Clinton, KY 42031",
+      "phoneNumber": "270-653-3901",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Hickman.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Hopkins",
+      "facilityName": "Hopkins County Justice Center",
+      "address": "120 E. Center St., Madisonville, KY 42431",
+      "phoneNumber": "270-824-7502",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Hopkins.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Jackson",
+      "facilityName": "Jackson County Judicial Center",
+      "address": "100 First St., McKee, KY 40447",
+      "phoneNumber": "606-287-7783",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Jackson.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Jefferson",
+      "facilityName": "Louis D. Brandeis Hall of Justice",
+      "address": "600 W. Jefferson St., Louisville, KY 40202",
+      "phoneNumber": "502-595-3060",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Jefferson.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "Louisville",
+        "status": "known",
+        "traffic": {
+          "hour": 9,
+          "minute": 0,
+          "weekdays": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        },
+        "criminal": {
+          "hour": 10,
+          "minute": 30,
+          "weekdays": [
+            2,
+            3,
+            4,
+            5,
+            6
+          ]
+        }
+      }
+    },
+    {
+      "county": "Jessamine",
+      "facilityName": "Jessamine County Courthouse",
+      "address": "107 N. Main St., Nicholasville, KY 40356",
+      "phoneNumber": "859-887-1005",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Jessamine.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "Nicholasville",
+        "status": "known",
+        "traffic": {
+          "hour": 13,
+          "minute": 30,
+          "weekdays": [
+            2,
+            5
+          ]
+        },
+        "criminal": {
+          "hour": 9,
+          "minute": 0,
+          "weekdays": [
+            2,
+            5
+          ]
+        }
+      }
+    },
+    {
+      "county": "Johnson",
+      "facilityName": "Johnson County Judicial Center",
+      "address": "908 3rd St., Suite 109, Paintsville, KY 41240",
+      "phoneNumber": "606-297-9567",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Johnson.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Kenton",
+      "facilityName": "Kenton County Justice Center",
+      "address": "230 Madison Ave., Covington, KY 41011",
+      "phoneNumber": "859-292-6521",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Kenton.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Knott",
+      "facilityName": "Knott County Judicial Center",
+      "address": "53 W. Main St., Hindman, KY 41822",
+      "phoneNumber": "606-785-5021",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Knott.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Knox",
+      "facilityName": "Knox County Courthouse Annex",
+      "address": "401 Court Square, Barbourville, KY 40906",
+      "phoneNumber": "606-546-3075",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Knox.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "LaRue",
+      "facilityName": "LaRue County Courthouse Annex",
+      "address": "209 W. High St., Hodgenville, KY 42748",
+      "phoneNumber": "270-358-3421",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/LaRue.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Laurel",
+      "facilityName": "Laurel County Judicial Center",
+      "address": "305 S. Main St., London, KY 40741",
+      "phoneNumber": "606-330-2078",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Laurel.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Lawrence",
+      "facilityName": "Lawrence County Judicial Center",
+      "address": "29 River Bend Road, Louisa, KY 41230",
+      "phoneNumber": "606-638-4215",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Lawrence.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Lee",
+      "facilityName": "Lee County Courthouse",
+      "address": "256 Main St., Beattyville, KY 41311",
+      "phoneNumber": "606-464-8400",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Lee.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Leslie",
+      "facilityName": "Leslie County Courthouse",
+      "address": "22010 Main St., Unit 1, Hyden, KY 41749",
+      "phoneNumber": "606-672-2505",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Leslie.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Letcher",
+      "facilityName": "Letcher County Courthouse",
+      "address": "156 Main St., Suite 201, Whitesburg, KY 41858",
+      "phoneNumber": "606-633-7559",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Letcher.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Lewis",
+      "facilityName": "Lewis County Justice Center",
+      "address": "94 Second St., Vanceburg, KY 41179",
+      "phoneNumber": "606-796-3053",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Lewis.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Lincoln",
+      "facilityName": "Lincoln County Judicial Center",
+      "address": "101 E. Main St., Stanford, KY 40484",
+      "phoneNumber": "606-365-2535",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Lincoln.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Livingston",
+      "facilityName": "Livingston County Justice Center",
+      "address": "122 W. Adair St., Smithland, KY 42081",
+      "phoneNumber": "270-928-2172",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Livingston.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Logan",
+      "facilityName": "Logan County Court of Justice",
+      "address": "329 W. 4th St., Russellville, KY 42276",
+      "phoneNumber": "270-726-2424",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Logan.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Lyon",
+      "facilityName": "Lyon County Judicial Center",
+      "address": "500 W. Dale Ave., Eddyville, KY 42038",
+      "phoneNumber": "270-388-7231",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Lyon.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "McCracken",
+      "facilityName": "McCracken County Courthouse",
+      "address": "300 Clarence Gaines St., Paducah, KY 42003",
+      "phoneNumber": "270-575-7270",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/McCracken.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "McCreary",
+      "facilityName": "McCreary County Courthouse",
+      "address": "1 N. Main St., Whitley City, KY 42653",
+      "phoneNumber": "606-376-5041",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/McCreary.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "Whitley City",
+        "status": "known",
+        "traffic": {
+          "hour": 9,
+          "minute": 0,
+          "weekdays": [
+            5
+          ]
+        },
+        "criminal": {
+          "hour": 9,
+          "minute": 0,
+          "weekdays": [
+            5
+          ]
+        }
+      }
+    },
+    {
+      "county": "McLean",
+      "facilityName": "McLean County Courthouse Annex",
+      "address": "210 E. Main St., Calhoun, KY 42327",
+      "phoneNumber": "270-273-3966",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/McLean.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Madison",
+      "facilityName": "Madison County Hall of Justice",
+      "address": "351 W. Main St., Richmond, KY 40475",
+      "phoneNumber": "859-624-4722",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Madison.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "Richmond",
+        "status": "known",
+        "traffic": {
+          "hour": 13,
+          "minute": 0,
+          "weekdays": [
+            3,
+            5
+          ]
+        },
+        "criminal": {
+          "hour": 9,
+          "minute": 0,
+          "weekdays": [
+            3,
+            5
+          ]
+        }
+      }
+    },
+    {
+      "county": "Magoffin",
+      "facilityName": "Magoffin County Justice Center",
+      "address": "100 E. Maple St., Salyersville, KY 41465",
+      "phoneNumber": "606-349-2215",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Magoffin.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Marion",
+      "facilityName": "Marion County Judicial Center",
+      "address": "121 N. Spalding Ave., Lebanon, KY 40033",
+      "phoneNumber": "270-692-2681",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Marion.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Marshall",
+      "facilityName": "Marshall County Judicial Building",
+      "address": "80 Judicial Drive, Unit 101, Benton, KY 42025",
+      "phoneNumber": "270-527-3883",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Marshall.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Martin",
+      "facilityName": "Martin County Courthouse",
+      "address": "14 Court St., Inez, KY 41224",
+      "phoneNumber": "606-298-3508",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Martin.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Mason",
+      "facilityName": "Mason County Justice Center",
+      "address": "100 W. 3rd St., Maysville, KY 41056",
+      "phoneNumber": "606-564-4340",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Mason.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Meade",
+      "facilityName": "Meade County Courthouse",
+      "address": "516 Hillcrest Drive, Suite 4, Brandenburg, KY 40108",
+      "phoneNumber": "270-422-4961",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Meade.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Menifee",
+      "facilityName": "Menifee County Courthouse",
+      "address": "12 Main St., Frenchburg, KY 40322",
+      "phoneNumber": "606-768-2461",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Menifee.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Mercer",
+      "facilityName": "Mercer County Judicial Center",
+      "address": "224 S. Main St., Harrodsburg, KY 40330",
+      "phoneNumber": "859-734-8452",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Mercer.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Metcalfe",
+      "facilityName": "Tom Emberton Metcalfe County Courthouse",
+      "address": "201 E. Stockton St., Edmonton, KY 42129",
+      "phoneNumber": "270-432-3663",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Metcalfe.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Monroe",
+      "facilityName": "Monroe County Justice Center",
+      "address": "300 N. Main St., Tompkinsville, KY 42167",
+      "phoneNumber": "270-487-5480",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Monroe.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Montgomery",
+      "facilityName": "Montgomery County Courthouse",
+      "address": "One Court St., Mt. Sterling, KY 40353",
+      "phoneNumber": "859-498-5966",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Montgomery.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Morgan",
+      "facilityName": "Morgan County Judicial Center",
+      "address": "261 Court St., West Liberty, KY 41472",
+      "phoneNumber": "606-743-3763",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Morgan.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Muhlenberg",
+      "facilityName": "Muhlenberg County Judicial Building",
+      "address": "136 S. Main St., Greenville, KY 42345",
+      "phoneNumber": "270-338-4850",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Muhlenberg.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Nelson",
+      "facilityName": "Nelson County Justice Center",
+      "address": "200 Nelson County Plaza, Bardstown, KY 40004",
+      "phoneNumber": "502-348-3648",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Nelson.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Nicholas",
+      "facilityName": "Nicholas County Judicial Center",
+      "address": "217 N. Broadway St., Carlisle, KY 40311",
+      "phoneNumber": "859-289-2336",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Nicholas.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Ohio",
+      "facilityName": "Ohio County Community Center",
+      "address": "130 E. Washington St., Hartford, KY 42347",
+      "phoneNumber": "270-298-3671",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Ohio.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Oldham",
+      "facilityName": "Oldham County Judicial Center",
+      "address": "100 W. Main St., La Grange, KY 40031",
+      "phoneNumber": "502-222-9837",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Oldham.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Owen",
+      "facilityName": "Owen County Judicial Center",
+      "address": "401 S. Main St., Owenton, KY 40359",
+      "phoneNumber": "502-484-2232",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Owen.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Owsley",
+      "facilityName": "Owsley County Courthouse",
+      "address": "20 Main St., Booneville, KY 41314",
+      "phoneNumber": "606-593-6226",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Owsley.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Pendleton",
+      "facilityName": "Pendleton County Judicial Center",
+      "address": "120 Ridgeway Ave., Falmouth, KY 41040",
+      "phoneNumber": "859-654-3347",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Pendleton.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Perry",
+      "facilityName": "Perry County Hall of Justice",
+      "address": "545 Main St., Hazard, KY 41702",
+      "phoneNumber": "606-435-6000",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Perry.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Pike",
+      "facilityName": "Pike County Judicial Center",
+      "address": "175 Main St., Pikeville, KY 41502",
+      "phoneNumber": "606-433-7557",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Pike.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Powell",
+      "facilityName": "Powell County Courthouse",
+      "address": "525 Washington St., Stanton, KY 40380",
+      "phoneNumber": "606-663-4141",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Powell.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Pulaski",
+      "facilityName": "Pulaski County Court of Justice",
+      "address": "50 Public Square, Somerset, KY 42502",
+      "phoneNumber": "606-677-4029",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Pulaski.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Robertson",
+      "facilityName": "Robertson County Judicial Center",
+      "address": "127 E. Walnut St., Mt. Olivet, KY 41064",
+      "phoneNumber": "606-724-5993",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Robertson.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Rockcastle",
+      "facilityName": "Rockcastle County Courthouse Annex",
+      "address": "205 E. Main St., Room 102, Mt. Vernon, KY 40456",
+      "phoneNumber": "606-256-2581",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Rockcastle.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Rowan",
+      "facilityName": "Rowan County Judicial Center",
+      "address": "700 W. Main St., Morehead, KY 40351",
+      "phoneNumber": "606-783-8505",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Rowan.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Russell",
+      "facilityName": "Russell County Judicial Center",
+      "address": "202 Monument Square, Suite 106, Jamestown, KY 42629",
+      "phoneNumber": "270-343-2185",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Russell.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Scott",
+      "facilityName": "Scott County Justice Center",
+      "address": "119 N. Hamilton St., Georgetown, KY 40324",
+      "phoneNumber": "502-863-0474",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Scott.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "Georgetown",
+        "status": "known",
+        "traffic": {
+          "hour": 8,
+          "minute": 30,
+          "weekdays": [
+            3,
+            4
+          ]
+        },
+        "criminal": {
+          "hour": 13,
+          "minute": 0,
+          "weekdays": [
+            3,
+            4
+          ]
+        }
+      }
+    },
+    {
+      "county": "Shelby",
+      "facilityName": "Shelby County Judicial Center",
+      "address": "401 Main St., Suite 101, Shelbyville, KY 40065",
+      "phoneNumber": "502-633-1287",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Shelby.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Simpson",
+      "facilityName": "Simpson County Justice Center",
+      "address": "101 N. Court St., Franklin, KY 42134",
+      "phoneNumber": "270-586-4241",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Simpson.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Spencer",
+      "facilityName": "Spencer County Courthouse Annex",
+      "address": "27 E. Main St., Taylorsville, KY 40071",
+      "phoneNumber": "502-477-3220",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Spencer.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Taylor",
+      "facilityName": "Taylor County Judicial Center",
+      "address": "300 E. Main St., Campbellsville, KY 42718",
+      "phoneNumber": "270-465-6686",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Taylor.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Todd",
+      "facilityName": "Todd County Court of Justice",
+      "address": "204 W. Main St., Elkton, KY 42220",
+      "phoneNumber": "270-265-5631",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Todd.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Trigg",
+      "facilityName": "Trigg County Justice Center",
+      "address": "41 Main St., Cadiz, KY 42211",
+      "phoneNumber": "270-522-6270",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Trigg.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Trimble",
+      "facilityName": "Trimble County Courthouse",
+      "address": "30 Highway 42 East, Bedford, KY 40006",
+      "phoneNumber": "502-255-3213",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Trimble.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Union",
+      "facilityName": "Union County Courthouse Annex",
+      "address": "121 S. Morgan St., Morganfield, KY 42437",
+      "phoneNumber": "270-389-1811",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Union.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Warren",
+      "facilityName": "Warren County Justice Center",
+      "address": "1001 Center St., Suite 102, Bowling Green, KY 42101",
+      "phoneNumber": "270-746-7400",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Warren.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "Bowling Green",
+        "status": "known",
+        "traffic": {
+          "hour": 8,
+          "minute": 30,
+          "weekdays": [
+            2,
+            3,
+            4,
+            5
+          ]
+        },
+        "criminal": {
+          "hour": 10,
+          "minute": 0,
+          "weekdays": [
+            2,
+            3,
+            4,
+            5
+          ]
+        }
+      }
+    },
+    {
+      "county": "Washington",
+      "facilityName": "Washington County Judicial Center",
+      "address": "100 E. Main St., Suite 100, Springfield, KY 40069",
+      "phoneNumber": "859-336-3761",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Washington.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Wayne",
+      "facilityName": "Wayne County Justice Center",
+      "address": "100 W. Columbia Ave., Suite 101, Monticello, KY 42633",
+      "phoneNumber": "606-348-5841",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Wayne.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Webster",
+      "facilityName": "Webster County Judicial Center",
+      "address": "35 U.S. Highway 41A South, Dixon, KY 42409",
+      "phoneNumber": "270-639-9160",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Webster.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Whitley",
+      "facilityName": "Whitley County Judicial Center",
+      "address": "100 Main St., Williamsburg, KY 40769",
+      "phoneNumber": "606-549-2973",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Whitley.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Wolfe",
+      "facilityName": "Wolfe County Judicial Center",
+      "address": "133 Main St., Campton, KY 41301",
+      "phoneNumber": "606-668-3736",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Wolfe.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    },
+    {
+      "county": "Woodford",
+      "facilityName": "Woodford County Courthouse Annex",
+      "address": "130 Court St., Versailles, KY 40383",
+      "phoneNumber": "859-873-3711",
+      "officialCourtPage": "https://www.kycourts.gov/Courts/County-Information/Pages/Woodford.aspx",
+      "verified": true,
+      "courtSchedule": {
+        "courtCity": "",
+        "status": "unknown",
+        "traffic": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        },
+        "criminal": {
+          "hour": null,
+          "minute": null,
+          "weekdays": []
+        }
+      }
+    }
+  ],
+  "weekdayNumbering": {
+    "system": "Swift Calendar weekday",
+    "values": {
+      "1": "Sunday",
+      "2": "Monday",
+      "3": "Tuesday",
+      "4": "Wednesday",
+      "5": "Thursday",
+      "6": "Friday",
+      "7": "Saturday"
+    }
+  },
+  "scheduleNotes": "Court schedules marked known were populated from the user-provided CourtScheduleManager rules. Schedules marked unknown contain null hour/minute values and empty weekday arrays so they can be updated later."
+}
