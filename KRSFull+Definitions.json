@@ -5614,7 +5614,7 @@
     "CanCite": "YES",
     "Category": "Criminal Mischief",
     "DCategory": "",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56194",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56193",
     "DTraffic": "",
     "Elements": "",
     "isFavorite": false,
@@ -5624,14 +5624,14 @@
     "PCArrest": "YES",
     "TypesOfCharge": "Felony",
     "UOR": "01422",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56193"
+    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=57397"
   },
   {
     "Arrestable": "NO",
     "CanCite": "YES",
     "Category": "Criminal Mischief",
     "DCategory": "",
-    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56195",
+    "Definitions": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56193",
     "DTraffic": "",
     "Elements": "",
     "isFavorite": false,
@@ -5641,7 +5641,7 @@
     "PCArrest": "NO",
     "TypesOfCharge": "Misdemeanor",
     "UOR": "01423",
-    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56193"
+    "Website": "https://apps.legislature.ky.gov/law/statutes/statute.aspx?id=56195"
   },
   {
     "Arrestable": "NO",
