@@ -1,6 +1,6 @@
 [
  {
-   "Version#": 1.20,
+   "Version#": 1.30,
    "VersionTitle": "KRS Offline Database Update 1.30",
    "VersionSubtitle": "This update is for reading the laws when the website is offline or you have no internet connection.",
    "NotifyUser": "Yes"
