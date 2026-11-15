@@ -1,20 +1,192 @@
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+38
+39
+40
+41
+42
+43
+44
+45
+46
+47
+48
+49
+50
+51
+52
+53
+54
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+66
+67
+68
+69
+70
+71
+72
+73
+74
+75
+76
+77
+78
+79
+80
+81
+82
+83
+84
+85
+86
+87
+88
+89
+90
+91
+92
+93
+94
+95
+96
 [
   {
-    "OrdinanceNumber": "Ord. 09-004",
-    "OrdinanceName": "Animal ordinance: rabies tags; bite reporting; barking and roaming nuisances",
+    "OrdinanceNumber": "09-004 § 1(A)",
+    "OrdinanceName": "Keeping or harboring an animal without a current rabies vaccination tag",
     "OrdinanceURL": "https://cms4files1.revize.com/williamsburg/document_center/Animal_Ordinance.pdf",
-    "Category": "Animals"
+    "Category": "Animals",
+    "Chapter": "Animal Registration and Rabies Vaccination"
   },
   {
-    "OrdinanceNumber": "Ord. 12-005",
-    "OrdinanceName": "Amended alcohol ordinance (disorderly licensed premises)",
-    "OrdinanceURL": "https://cms4files1.revize.com/williamsburg/document_center/12_005_Amended_Alcohol_Ordinance_10_14.pdf",
-    "Category": "Alcohol"
+    "OrdinanceNumber": "09-004 § 1(B)",
+    "OrdinanceName": "Failure to have an animal vaccinated for rabies by an approved veterinarian",
+    "OrdinanceURL": "https://cms4files1.revize.com/williamsburg/document_center/Animal_Ordinance.pdf",
+    "Category": "Animals",
+    "Chapter": "Animal Registration and Rabies Vaccination"
   },
   {
-    "OrdinanceNumber": "Ord. 16-007",
-    "OrdinanceName": "Alcoholic beverage control ordinance (sidewalk cafés; amplified sound)",
-    "OrdinanceURL": "https://cms4files1.revize.com/williamsburg/document_center/Ordinance%20NO%20%2016-007.pdf",
-    "Category": "Alcohol"
-  }
-]
+    "OrdinanceNumber": "09-004 § 2(B)(1)",
+    "OrdinanceName": "Dog nuisance — incessant barking, howling, yelping, or whining",
+    "OrdinanceURL": "https://cms4files1.revize.com/williamsburg/document_center/Animal_Ordinance.pdf",
+    "Category": "Animals",
+    "Chapter": "Animal Public Nuisances"
+  },
+  {
+    "OrdinanceNumber": "09-004 § 2(B)(2)",
+    "OrdinanceName": "Dog nuisance — habitual entry onto another person’s property",
+    "OrdinanceURL": "https://cms4files1.revize.com/williamsburg/document_center/Animal_Ordinance.pdf",
+    "Category": "Animals",
+    "Chapter": "Animal Public Nuisances"
+  },
+  {
+    "OrdinanceNumber": "09-004 § 2(B)(3)",
+    "OrdinanceName": "Dog nuisance — habitual garbage disturbance or property damage",
+    "OrdinanceURL": "https://cms4files1.revize.com/williamsburg/document_center/Animal_Ordinance.pdf",
+    "Category": "Animals",
+    "Chapter": "Animal Public Nuisances"
+  },
+  {
+    "OrdinanceNumber": "09-004 § 2(B)(4)",
+    "OrdinanceName": "Dog nuisance — habitual chasing, jumping at, or frightening people",
+    "OrdinanceURL": "https://cms4files1.revize.com/williamsburg/document_center/Animal_Ordinance.pdf",
+    "Category": "Animals",
+    "Chapter": "Animal Public Nuisances"
+  },
+  {
+    "OrdinanceNumber": "09-004 § 2(B)(5)",
+    "OrdinanceName": "Dog nuisance — chasing, attacking, or killing another animal or livestock",
+    "OrdinanceURL": "https://cms4files1.revize.com/williamsburg/document_center/Animal_Ordinance.pdf",
+    "Category": "Animals",
+    "Chapter": "Animal Public Nuisances"
+  },
+  {
+    "OrdinanceNumber": "09-004 § 2(B)(6)",
+    "OrdinanceName": "Dog nuisance — biting a person off the keeper’s or owner’s property",
+    "OrdinanceURL": "https://cms4files1.revize.com/williamsburg/document_center/Animal_Ordinance.pdf",
+    "Category": "Animals",
+    "Chapter": "Animal Public Nuisances"
+  },
+  {
+    "OrdinanceNumber": "09-004 § 3",
+    "OrdinanceName": "Unrestrained dog / dog running at large",
+    "OrdinanceURL": "https://cms4files1.revize.com/williamsburg/document_center/Animal_Ordinance.pdf",
+    "Category": "Animals",
+    "Chapter": "Dog Restraint"
+  },
+  {
+    "OrdinanceNumber": "09-004 § 4",
+    "OrdinanceName": "Animal impoundment and citation authority (enforcement reference)",
+    "OrdinanceURL": "https://cms4files1.revize.com/williamsburg/document_center/Animal_Ordinance.pdf",
+    "Category": "Animals",
+    "Chapter": "Animal Impoundment"
+  },
+  {
+    "OrdinanceNumber": "09-004 § 6(A)",
+    "OrdinanceName": "Enticing an animal from its owner’s yard or enclosure causing impoundment",
+    "OrdinanceURL": "https://cms4files1.revize.com/williamsburg/document_center/Animal_Ordinance.pdf",
+    "Category": "Animals",
+    "Chapter": "Animal Control Offenses"
+  },
+  {
+    "OrdinanceNumber": "09-004 § 7(A)",
+    "OrdinanceName": "Unsanitary animal enclosure or preventable offensive odors",
+    "OrdinanceURL": "https://cms4files1.revize.com/williamsburg/document_center/Animal_Ordinance.pdf",
+    "Category": "Animals",
+    "Chapter": "Animal Waste and Sanitation"
+  },
+  {
+    "OrdinanceNumber": "09-004 § 7(B)",
+    "OrdinanceName": "Failure to immediately remove animal waste from public or another’s property",
+    "OrdinanceURL": "https://cms4files1.revize.com/williamsburg/document_center/Animal_Ordinance.pdf",
+    "Category": "Animals",
+    "Chapter": "Animal Waste and Sanitation"
+  },
+  {
+    "OrdinanceNumber": "24-001 § 1 (amending 09-004 § 8)",
+    "OrdinanceName": "Animal ordinance penalties — $100 per offense; each day a separate violation",
+    "OrdinanceURL": "https://cms4files1.revize.com/williamsburg/24-001%20Ordinance%20amend%20section%208%20of%2009-004%20to%20increase%20fines%20for%20animal%20nuisance.pdf",
