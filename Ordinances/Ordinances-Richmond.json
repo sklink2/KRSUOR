@@ -1,0 +1,954 @@
+[
+  {
+    "OrdinanceNumber": "90.01–90.06",
+    "OrdinanceName": "Animals and fowl: confinement required; running at large prohibited; abandonment",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18257",
+    "Category": "Animals",
+    "Chapter": "Animals and Fowl"
+  },
+  {
+    "OrdinanceNumber": "90.29",
+    "OrdinanceName": "Restrained dogs",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18357",
+    "Category": "Animals",
+    "Chapter": "Animals and Fowl"
+  },
+  {
+    "OrdinanceNumber": "90.31",
+    "OrdinanceName": "Impounding of dogs",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18371",
+    "Category": "Animals",
+    "Chapter": "Animals and Fowl"
+  },
+  {
+    "OrdinanceNumber": "Ch. 94",
+    "OrdinanceName": "Nuisances",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18899",
+    "Category": "Housing",
+    "Chapter": "Nuisances"
+  },
+  {
+    "OrdinanceNumber": "130.01–130.08",
+    "OrdinanceName": "General offenses: air rifles; false fire alarms; disturbing or trespassing on churches and schools; vagrancy; fire hydrants",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20861",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General Offenses"
+  },
+  {
+    "OrdinanceNumber": "130.50–130.54",
+    "OrdinanceName": "Curfew for minors",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20924",
+    "Category": "Minors",
+    "Chapter": "General Offenses"
+  },
+  {
+    "OrdinanceNumber": "98.01–98.09",
+    "OrdinanceName": "Noise disturbances",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-19233",
+    "Category": "Noise",
+    "Chapter": "Noise"
+  },
+  {
+    "OrdinanceNumber": "71.04",
+    "OrdinanceName": "Prohibited parking acts generally",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18004",
+    "Category": "Parking",
+    "Chapter": "Parking, Standing and Stopping"
+  },
+  {
+    "OrdinanceNumber": "71.14",
+    "OrdinanceName": "Parking of watercraft, recreational vehicles, commercial vehicles and utility trailers in residential zoning districts",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18089",
+    "Category": "Parking",
+    "Chapter": "Parking, Standing and Stopping"
+  },
+  {
+    "OrdinanceNumber": "70.01",
+    "OrdinanceName": "Traffic-control devices",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17741",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.02",
+    "OrdinanceName": "Designation of boulevards",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17749",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.03",
+    "OrdinanceName": "Driving of stock on streets",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17757",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.04",
+    "OrdinanceName": "One-way streets generally",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17760",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.05",
+    "OrdinanceName": "Routing of traffic; wellington place",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17764",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.06",
+    "OrdinanceName": "Marking of traffic lanes",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17767",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.07",
+    "OrdinanceName": "Play streets",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17774",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.08",
+    "OrdinanceName": "Through streets",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17782",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.09",
+    "OrdinanceName": "Injuring or disfiguring traffic signs",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17789",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.10",
+    "OrdinanceName": "Bicycles, roller skates and sleds; prohibited acts",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17792",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.11",
+    "OrdinanceName": "Crossing lancaster avenue on foot restricted",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17797",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.20",
+    "OrdinanceName": "Speed limits established",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17803",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.21",
+    "OrdinanceName": "Traffic-control devices to regulate traffic flow; turning",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17807",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.22",
+    "OrdinanceName": "Meeting and passing of vehicles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17812",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.23",
+    "OrdinanceName": "Impeding traffic unlawful",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17815",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.24",
+    "OrdinanceName": "All passengers must ride in seats; only three in front seat",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17818",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.25",
+    "OrdinanceName": "Vehicles to have two headlights burning",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17821",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.26",
+    "OrdinanceName": "Vehicles with lugs or cleats forbidden",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17824",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.27",
+    "OrdinanceName": "Vehicles with wheels locked forbidden",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17827",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.28",
+    "OrdinanceName": "Emergency vehicles; speed limit",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17830",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.29",
+    "OrdinanceName": "Traction engines; tractors on streets",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17833",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.45",
+    "OrdinanceName": "Obstruction of fire trucks",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17837",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.46",
+    "OrdinanceName": "Following fire trucks",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17840",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.47",
+    "OrdinanceName": "Driving over fire hose",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17843",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.56",
+    "OrdinanceName": "Prohibited activities",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17852",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.59",
+    "OrdinanceName": "Contents of permit",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17875",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.61",
+    "OrdinanceName": "Officials to be notified",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17899",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.62",
+    "OrdinanceName": "Revocation of permit",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17907",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.76",
+    "OrdinanceName": "Designated truck routes",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17917",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "70.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17927",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic regulations"
+  },
+  {
+    "OrdinanceNumber": "71.02",
+    "OrdinanceName": "Vehicles to stop before entering boulevards",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-17997",
+    "Category": "Parking",
+    "Chapter": "Parking, standing and stopping"
+  },
+  {
+    "OrdinanceNumber": "71.03",
+    "OrdinanceName": "Leaking vehicles prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18001",
+    "Category": "Parking",
+    "Chapter": "Parking, standing and stopping"
+  },
+  {
+    "OrdinanceNumber": "71.06",
+    "OrdinanceName": "Funerals",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18054",
+    "Category": "Parking",
+    "Chapter": "Parking, standing and stopping"
+  },
+  {
+    "OrdinanceNumber": "71.07",
+    "OrdinanceName": "Use of street for storage forbidden",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18057",
+    "Category": "Parking",
+    "Chapter": "Parking, standing and stopping"
+  },
+  {
+    "OrdinanceNumber": "71.08",
+    "OrdinanceName": "Firm to park only three cars on street",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18060",
+    "Category": "Parking",
+    "Chapter": "Parking, standing and stopping"
+  },
+  {
+    "OrdinanceNumber": "71.09",
+    "OrdinanceName": "Merchandise not to be placed in streets",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18063",
+    "Category": "Parking",
+    "Chapter": "Parking, standing and stopping"
+  },
+  {
+    "OrdinanceNumber": "71.10",
+    "OrdinanceName": "Sales of merchandise; Chief of Police may give permit",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18066",
+    "Category": "Parking",
+    "Chapter": "Parking, standing and stopping"
+  },
+  {
+    "OrdinanceNumber": "71.12",
+    "OrdinanceName": "Towing and impoundment of vehicles in violation of this chapter",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18072",
+    "Category": "Tow Truck",
+    "Chapter": "Parking, standing and stopping"
+  },
+  {
+    "OrdinanceNumber": "71.13",
+    "OrdinanceName": "Parking on property of another without consent illegal",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18085",
+    "Category": "Parking",
+    "Chapter": "Parking, standing and stopping"
+  },
+  {
+    "OrdinanceNumber": "71.15",
+    "OrdinanceName": "City Manager to assess and remedy public safety hazards in the city related to on-street parking",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18098",
+    "Category": "Parking",
+    "Chapter": "Parking, standing and stopping"
+  },
+  {
+    "OrdinanceNumber": "71.40",
+    "OrdinanceName": "Bus stops generally",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18105",
+    "Category": "Parking",
+    "Chapter": "Parking, standing and stopping"
+  },
+  {
+    "OrdinanceNumber": "71.41",
+    "OrdinanceName": "Bus stop regulations",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18108",
+    "Category": "Parking",
+    "Chapter": "Parking, standing and stopping"
+  },
+  {
+    "OrdinanceNumber": "71.42",
+    "OrdinanceName": "Bus stops designated",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18113",
+    "Category": "Parking",
+    "Chapter": "Parking, standing and stopping"
+  },
+  {
+    "OrdinanceNumber": "71.66",
+    "OrdinanceName": "Residential parking permit areas",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18130",
+    "Category": "Parking",
+    "Chapter": "Parking, standing and stopping"
+  },
+  {
+    "OrdinanceNumber": "71.67",
+    "OrdinanceName": "Notice to residents of designation of residential parking permit",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18141",
+    "Category": "Parking",
+    "Chapter": "Parking, standing and stopping"
+  },
+  {
+    "OrdinanceNumber": "71.68",
+    "OrdinanceName": "Posting of residential parking permit signs",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18151",
+    "Category": "Parking",
+    "Chapter": "Parking, standing and stopping"
+  },
+  {
+    "OrdinanceNumber": "71.69",
+    "OrdinanceName": "Issuance of residential parking permits",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18155",
+    "Category": "Parking",
+    "Chapter": "Parking, standing and stopping"
+  },
+  {
+    "OrdinanceNumber": "71.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18173",
+    "Category": "Parking",
+    "Chapter": "Parking, standing and stopping"
+  },
+  {
+    "OrdinanceNumber": "90.01",
+    "OrdinanceName": "Confinement required",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18288",
+    "Category": "Animals",
+    "Chapter": "Animals and fowl"
+  },
+  {
+    "OrdinanceNumber": "90.02",
+    "OrdinanceName": "Abandonment prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18291",
+    "Category": "Animals",
+    "Chapter": "Animals and fowl"
+  },
+  {
+    "OrdinanceNumber": "90.03",
+    "OrdinanceName": "Running at large prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18294",
+    "Category": "Animals",
+    "Chapter": "Animals and fowl"
+  },
+  {
+    "OrdinanceNumber": "90.04",
+    "OrdinanceName": "Hitching of horses and mules; impoundment",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18297",
+    "Category": "Animals",
+    "Chapter": "Animals and fowl"
+  },
+  {
+    "OrdinanceNumber": "90.05",
+    "OrdinanceName": "Exceptions for poultry",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18300",
+    "Category": "Animals",
+    "Chapter": "Animals and fowl"
+  },
+  {
+    "OrdinanceNumber": "90.06",
+    "OrdinanceName": "Regulations on streets and sidewalks",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18303",
+    "Category": "Animals",
+    "Chapter": "Animals and fowl"
+  },
+  {
+    "OrdinanceNumber": "90.07",
+    "OrdinanceName": "Cruelty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18306",
+    "Category": "Animals",
+    "Chapter": "Animals and fowl"
+  },
+  {
+    "OrdinanceNumber": "90.08",
+    "OrdinanceName": "Bird sanctuary designated",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18309",
+    "Category": "Animals",
+    "Chapter": "Animals and fowl"
+  },
+  {
+    "OrdinanceNumber": "90.09",
+    "OrdinanceName": "Operation of slaughter houses, butcher shops, and the like",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18312",
+    "Category": "Animals",
+    "Chapter": "Animals and fowl"
+  },
+  {
+    "OrdinanceNumber": "90.10",
+    "OrdinanceName": "Hog pens",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18315",
+    "Category": "Animals",
+    "Chapter": "Animals and fowl"
+  },
+  {
+    "OrdinanceNumber": "90.11",
+    "OrdinanceName": "Raw hides",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18318",
+    "Category": "Animals",
+    "Chapter": "Animals and fowl"
+  },
+  {
+    "OrdinanceNumber": "90.26",
+    "OrdinanceName": "Anti-rabies vaccination required",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18328",
+    "Category": "Animals",
+    "Chapter": "Animals and fowl"
+  },
+  {
+    "OrdinanceNumber": "90.30",
+    "OrdinanceName": "Livestock protection from dogs",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18363",
+    "Category": "Animals",
+    "Chapter": "Animals and fowl"
+  },
+  {
+    "OrdinanceNumber": "90.32",
+    "OrdinanceName": "Reclaiming or buying impounded dogs",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18380",
+    "Category": "Animals",
+    "Chapter": "Animals and fowl"
+  },
+  {
+    "OrdinanceNumber": "90.33",
+    "OrdinanceName": "Enticing dog from owner",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18385",
+    "Category": "Animals",
+    "Chapter": "Animals and fowl"
+  },
+  {
+    "OrdinanceNumber": "90.34",
+    "OrdinanceName": "Animal shelter; wardens",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18388",
+    "Category": "Animals",
+    "Chapter": "Animals and fowl"
+  },
+  {
+    "OrdinanceNumber": "90.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18404",
+    "Category": "Animals",
+    "Chapter": "Animals and fowl"
+  },
+  {
+    "OrdinanceNumber": "94.02",
+    "OrdinanceName": "Nuisance declared to be unlawful",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18933",
+    "Category": "Housing",
+    "Chapter": "Nuisances"
+  },
+  {
+    "OrdinanceNumber": "94.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18954",
+    "Category": "Housing",
+    "Chapter": "Nuisances"
+  },
+  {
+    "OrdinanceNumber": "95.01",
+    "OrdinanceName": "General regulations",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-18980",
+    "Category": "Parks",
+    "Chapter": "Parks and recreation"
+  },
+  {
+    "OrdinanceNumber": "95.15",
+    "OrdinanceName": "Director of recreation and staff; appointment",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-19008",
+    "Category": "Parks",
+    "Chapter": "Parks and recreation"
+  },
+  {
+    "OrdinanceNumber": "95.16",
+    "OrdinanceName": "Use of funds; accounting procedures",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-19011",
+    "Category": "Parks",
+    "Chapter": "Parks and recreation"
+  },
+  {
+    "OrdinanceNumber": "95.40",
+    "OrdinanceName": "Hours of operation",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-19029",
+    "Category": "Parks",
+    "Chapter": "Parks and recreation"
+  },
+  {
+    "OrdinanceNumber": "95.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-19049",
+    "Category": "Parks",
+    "Chapter": "Parks and recreation"
+  },
+  {
+    "OrdinanceNumber": "98.02",
+    "OrdinanceName": "Noise disturbances generally",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-19261",
+    "Category": "Noise",
+    "Chapter": "Noise"
+  },
+  {
+    "OrdinanceNumber": "98.03",
+    "OrdinanceName": "Specific acts",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-19264",
+    "Category": "Noise",
+    "Chapter": "Noise"
+  },
+  {
+    "OrdinanceNumber": "98.04",
+    "OrdinanceName": "Variances",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-19280",
+    "Category": "Noise",
+    "Chapter": "Noise"
+  },
+  {
+    "OrdinanceNumber": "98.05",
+    "OrdinanceName": "Order of abatement of noise disturbance",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-19288",
+    "Category": "Noise",
+    "Chapter": "Noise"
+  },
+  {
+    "OrdinanceNumber": "98.06",
+    "OrdinanceName": "Citation for offenses",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-19291",
+    "Category": "Noise",
+    "Chapter": "Noise"
+  },
+  {
+    "OrdinanceNumber": "98.07",
+    "OrdinanceName": "Effect on existing law",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-19294",
+    "Category": "Noise",
+    "Chapter": "Noise"
+  },
+  {
+    "OrdinanceNumber": "98.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-19307",
+    "Category": "Noise",
+    "Chapter": "Noise"
+  },
+  {
+    "OrdinanceNumber": "99.02",
+    "OrdinanceName": "Registration of alarm system",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-19329",
+    "Category": "Business",
+    "Chapter": "False alarms"
+  },
+  {
+    "OrdinanceNumber": "99.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-19354",
+    "Category": "Business",
+    "Chapter": "False alarms"
+  },
+  {
+    "OrdinanceNumber": "116.01",
+    "OrdinanceName": "Junkyards; screening requirements",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-19854",
+    "Category": "Housing",
+    "Chapter": "Junk dealers"
+  },
+  {
+    "OrdinanceNumber": "117.01",
+    "OrdinanceName": "Sale of liquors; permitted sections",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-19888",
+    "Category": "Alcohol",
+    "Chapter": "Sale of alcohol"
+  },
+  {
+    "OrdinanceNumber": "117.02",
+    "OrdinanceName": "Each precinct to determine its own wet/dry status",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-19894",
+    "Category": "Alcohol",
+    "Chapter": "Sale of alcohol"
+  },
+  {
+    "OrdinanceNumber": "117.03",
+    "OrdinanceName": "Violation; prima facie evidence",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-19897",
+    "Category": "Alcohol",
+    "Chapter": "Sale of alcohol"
+  },
+  {
+    "OrdinanceNumber": "117.04",
+    "OrdinanceName": "Alcoholic beverages generally; sale prohibited in college precinct",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-19900",
+    "Category": "Alcohol",
+    "Chapter": "Sale of alcohol"
+  },
+  {
+    "OrdinanceNumber": "117.57",
+    "OrdinanceName": "General regulations",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20185",
+    "Category": "Alcohol",
+    "Chapter": "Sale of alcohol"
+  },
+  {
+    "OrdinanceNumber": "117.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20192",
+    "Category": "Alcohol",
+    "Chapter": "Sale of alcohol"
+  },
+  {
+    "OrdinanceNumber": "119.01",
+    "OrdinanceName": "Persons not to approach vehicles in traffic",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20249",
+    "Category": "Business",
+    "Chapter": "Solicitation"
+  },
+  {
+    "OrdinanceNumber": "119.98",
+    "OrdinanceName": "Violations",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-22448",
+    "Category": "Business",
+    "Chapter": "Solicitation"
+  },
+  {
+    "OrdinanceNumber": "119.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-22451",
+    "Category": "Business",
+    "Chapter": "Solicitation"
+  },
+  {
+    "OrdinanceNumber": "120.02",
+    "OrdinanceName": "Licenses",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20262",
+    "Category": "Business",
+    "Chapter": "Vehicles for hire"
+  },
+  {
+    "OrdinanceNumber": "120.03",
+    "OrdinanceName": "Inspection",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20265",
+    "Category": "Business",
+    "Chapter": "Vehicles for hire"
+  },
+  {
+    "OrdinanceNumber": "120.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20268",
+    "Category": "Business",
+    "Chapter": "Vehicles for hire"
+  },
+  {
+    "OrdinanceNumber": "121.01",
+    "OrdinanceName": "Sales of vehicles regulated",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20282",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Sales of vehicles"
+  },
+  {
+    "OrdinanceNumber": "121.02",
+    "OrdinanceName": "Permanent site of activities required",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20286",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Sales of vehicles"
+  },
+  {
+    "OrdinanceNumber": "121.03",
+    "OrdinanceName": "Office required",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20290",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Sales of vehicles"
+  },
+  {
+    "OrdinanceNumber": "121.04",
+    "OrdinanceName": "Display lot requirements",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20293",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Sales of vehicles"
+  },
+  {
+    "OrdinanceNumber": "121.05",
+    "OrdinanceName": "Signage requirements",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20300",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Sales of vehicles"
+  },
+  {
+    "OrdinanceNumber": "121.06",
+    "OrdinanceName": "Licensing requirements",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20303",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Sales of vehicles"
+  },
+  {
+    "OrdinanceNumber": "123.02",
+    "OrdinanceName": "Regulation of viewing areas",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20458",
+    "Category": "Business",
+    "Chapter": "Adult establishments"
+  },
+  {
+    "OrdinanceNumber": "123.03",
+    "OrdinanceName": "Hours of operation",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20469",
+    "Category": "Business",
+    "Chapter": "Adult establishments"
+  },
+  {
+    "OrdinanceNumber": "123.04",
+    "OrdinanceName": "Compliance deadline",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20472",
+    "Category": "Business",
+    "Chapter": "Adult establishments"
+  },
+  {
+    "OrdinanceNumber": "123.05",
+    "OrdinanceName": "Inspection",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20475",
+    "Category": "Business",
+    "Chapter": "Adult establishments"
+  },
+  {
+    "OrdinanceNumber": "123.06",
+    "OrdinanceName": "Violations",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20478",
+    "Category": "Business",
+    "Chapter": "Adult establishments"
+  },
+  {
+    "OrdinanceNumber": "125.01",
+    "OrdinanceName": "Wrecker service companies",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20705",
+    "Category": "Tow Truck",
+    "Chapter": "City tow operators"
+  },
+  {
+    "OrdinanceNumber": "126.01",
+    "OrdinanceName": "Dealers in scrap metal",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20766",
+    "Category": "Business",
+    "Chapter": "Scrap metal"
+  },
+  {
+    "OrdinanceNumber": "126.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20778",
+    "Category": "Business",
+    "Chapter": "Scrap metal"
+  },
+  {
+    "OrdinanceNumber": "127.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20813",
+    "Category": "Business",
+    "Chapter": "Pawnbrokers"
+  },
+  {
+    "OrdinanceNumber": "128.02",
+    "OrdinanceName": "License required",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20837",
+    "Category": "Housing",
+    "Chapter": "Record-keeping and other requirements for jewelry stores, dealers in precious metals, junk dealers, scrap metal dealers, second hand stores and second hand dealers"
+  },
+  {
+    "OrdinanceNumber": "128.04",
+    "OrdinanceName": "Tagging of merchandise; restrictions on resale or changes in condition of articles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20851",
+    "Category": "Housing",
+    "Chapter": "Record-keeping and other requirements for jewelry stores, dealers in precious metals, junk dealers, scrap metal dealers, second hand stores and second hand dealers"
+  },
+  {
+    "OrdinanceNumber": "128.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20854",
+    "Category": "Housing",
+    "Chapter": "Record-keeping and other requirements for jewelry stores, dealers in precious metals, junk dealers, scrap metal dealers, second hand stores and second hand dealers"
+  },
+  {
+    "OrdinanceNumber": "130.01",
+    "OrdinanceName": "Firing of air rifles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20883",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General offenses"
+  },
+  {
+    "OrdinanceNumber": "130.02",
+    "OrdinanceName": "Impeding flow of water",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20886",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General offenses"
+  },
+  {
+    "OrdinanceNumber": "130.03",
+    "OrdinanceName": "False fire alarms",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20889",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General offenses"
+  },
+  {
+    "OrdinanceNumber": "130.04",
+    "OrdinanceName": "Disturbing churches, schools, and the like",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20894",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General offenses"
+  },
+  {
+    "OrdinanceNumber": "130.05",
+    "OrdinanceName": "Lounging about or trespassing on churches, schools, and the like",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20897",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General offenses"
+  },
+  {
+    "OrdinanceNumber": "130.06",
+    "OrdinanceName": "Vagrancy",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20900",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General offenses"
+  },
+  {
+    "OrdinanceNumber": "130.07",
+    "OrdinanceName": "Turning fire hydrants on and off",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20903",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General offenses"
+  },
+  {
+    "OrdinanceNumber": "130.08",
+    "OrdinanceName": "Transport of chemical weapons prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20906",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General offenses"
+  },
+  {
+    "OrdinanceNumber": "130.30",
+    "OrdinanceName": "Posting advertisements",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20918",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General offenses"
+  },
+  {
+    "OrdinanceNumber": "130.31",
+    "OrdinanceName": "Tearing down advertisements",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20921",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General offenses"
+  },
+  {
+    "OrdinanceNumber": "130.52",
+    "OrdinanceName": "Liability of parent or guardian",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20944",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General offenses"
+  },
+  {
+    "OrdinanceNumber": "130.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20961",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General offenses"
+  },
+  {
+    "OrdinanceNumber": "131.02",
+    "OrdinanceName": "Abusive or insulting language",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20989",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against public morals"
+  },
+  {
+    "OrdinanceNumber": "131.03",
+    "OrdinanceName": "Indecent words and acts",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20992",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against public morals"
+  },
+  {
+    "OrdinanceNumber": "131.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/richmond/latest/richmond_ky/0-0-0-20999",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against public morals"
+  }
+]

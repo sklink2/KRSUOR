@@ -1,0 +1,982 @@
+[
+  {
+    "OrdinanceNumber": "91.04",
+    "OrdinanceName": "Licensing and registration of dog(s) and other animals",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18919",
+    "Category": "Animals",
+    "Chapter": "Animal Regulations"
+  },
+  {
+    "OrdinanceNumber": "130.03",
+    "OrdinanceName": "Cruelty to animals",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-21389",
+    "Category": "Animals",
+    "Chapter": "General; Miscellaneous"
+  },
+  {
+    "OrdinanceNumber": "Co. Ch. 90",
+    "OrdinanceName": "Franklin County animal control: restraint required; dogs in heat; nuisance; vicious dogs; exotic wildlife",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklincoky/latest/franklinco_ky/0-0-0-2514",
+    "Category": "Animals",
+    "Chapter": "Franklin County – Animal Control"
+  },
+  {
+    "OrdinanceNumber": "160.20",
+    "OrdinanceName": "Declaration of nuisances; exceptions",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-24148",
+    "Category": "Housing",
+    "Chapter": "Property Maintenance Code"
+  },
+  {
+    "OrdinanceNumber": "72.01",
+    "OrdinanceName": "Parking regulations",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18646",
+    "Category": "Parking",
+    "Chapter": "Parking Regulations"
+  },
+  {
+    "OrdinanceNumber": "71.01",
+    "OrdinanceName": "Operator of vehicle to drive carefully",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18506",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Operation of vehicles"
+  },
+  {
+    "OrdinanceNumber": "71.02",
+    "OrdinanceName": "Vehicles to keep right",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18510",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Operation of vehicles"
+  },
+  {
+    "OrdinanceNumber": "71.03",
+    "OrdinanceName": "Vehicles meeting other vehicles and animals",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18514",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Operation of vehicles"
+  },
+  {
+    "OrdinanceNumber": "71.04",
+    "OrdinanceName": "Turning and right-of-way at intersections",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18519",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Operation of vehicles"
+  },
+  {
+    "OrdinanceNumber": "71.05",
+    "OrdinanceName": "Overtaking vehicles; traffic lanes; following vehicles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18528",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Operation of vehicles"
+  },
+  {
+    "OrdinanceNumber": "71.06",
+    "OrdinanceName": "Assistance in passing or overtaking",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18539",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Operation of vehicles"
+  },
+  {
+    "OrdinanceNumber": "71.07",
+    "OrdinanceName": "Passing cars receiving or discharging passengers",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18543",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Operation of vehicles"
+  },
+  {
+    "OrdinanceNumber": "71.08",
+    "OrdinanceName": "Signals",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18547",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Operation of vehicles"
+  },
+  {
+    "OrdinanceNumber": "71.09",
+    "OrdinanceName": "Speed",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18557",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Operation of vehicles"
+  },
+  {
+    "OrdinanceNumber": "71.10",
+    "OrdinanceName": "Starting a parked vehicle",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18564",
+    "Category": "Parking",
+    "Chapter": "Operation of vehicles"
+  },
+  {
+    "OrdinanceNumber": "71.11",
+    "OrdinanceName": "Stopping, standing or repairing a vehicle on highway",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18567",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Operation of vehicles"
+  },
+  {
+    "OrdinanceNumber": "71.12",
+    "OrdinanceName": "Obstruction to operator’s view or control",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18584",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Operation of vehicles"
+  },
+  {
+    "OrdinanceNumber": "71.13",
+    "OrdinanceName": "Motor vehicle races on highways prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18588",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Operation of vehicles"
+  },
+  {
+    "OrdinanceNumber": "71.14",
+    "OrdinanceName": "Operating vehicle while under the influence of intoxicants or drugs prohibited; presumption concerning intoxication",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18591",
+    "Category": "Alcohol",
+    "Chapter": "Operation of vehicles"
+  },
+  {
+    "OrdinanceNumber": "71.15",
+    "OrdinanceName": "Motorcycles; regulations for operating and riding on",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18604",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Operation of vehicles"
+  },
+  {
+    "OrdinanceNumber": "71.16",
+    "OrdinanceName": "Stop signs",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18615",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Operation of vehicles"
+  },
+  {
+    "OrdinanceNumber": "71.17",
+    "OrdinanceName": "Driving over fire hose",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18619",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Operation of vehicles"
+  },
+  {
+    "OrdinanceNumber": "71.18",
+    "OrdinanceName": "Railroad trains; speed",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18622",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Operation of vehicles"
+  },
+  {
+    "OrdinanceNumber": "71.19",
+    "OrdinanceName": "Trains blocking streets",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18625",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Operation of vehicles"
+  },
+  {
+    "OrdinanceNumber": "71.20",
+    "OrdinanceName": "Unlawful use of engine and/or compression brakes",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18628",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Operation of vehicles"
+  },
+  {
+    "OrdinanceNumber": "72.02",
+    "OrdinanceName": "Vicarious responsibility",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18653",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "72.04",
+    "OrdinanceName": "Vehicle impoundment without notice",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18660",
+    "Category": "Tow Truck",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "72.05",
+    "OrdinanceName": "Redemption of impounded vehicles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18673",
+    "Category": "Tow Truck",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "72.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18680",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "73.01",
+    "OrdinanceName": "Equipment of vehicle not to be nuisance or menace",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18699",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Vehicle construction and equipment"
+  },
+  {
+    "OrdinanceNumber": "73.02",
+    "OrdinanceName": "Time when lights must be on",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18702",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Vehicle construction and equipment"
+  },
+  {
+    "OrdinanceNumber": "73.03",
+    "OrdinanceName": "Front light; flashing lights",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18706",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Vehicle construction and equipment"
+  },
+  {
+    "OrdinanceNumber": "73.04",
+    "OrdinanceName": "Rear, side and clearance lights",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18731",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Vehicle construction and equipment"
+  },
+  {
+    "OrdinanceNumber": "73.05",
+    "OrdinanceName": "Lights on vehicles in tow and projections",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18738",
+    "Category": "Tow Truck",
+    "Chapter": "Vehicle construction and equipment"
+  },
+  {
+    "OrdinanceNumber": "73.06",
+    "OrdinanceName": "Brake lights",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18743",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Vehicle construction and equipment"
+  },
+  {
+    "OrdinanceNumber": "73.07",
+    "OrdinanceName": "Horns and other sound devices",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18746",
+    "Category": "Noise",
+    "Chapter": "Vehicle construction and equipment"
+  },
+  {
+    "OrdinanceNumber": "73.08",
+    "OrdinanceName": "Brakes",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18749",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Vehicle construction and equipment"
+  },
+  {
+    "OrdinanceNumber": "73.09",
+    "OrdinanceName": "Windows to be unobstructed; display of American flag; windshield wipers",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18759",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Vehicle construction and equipment"
+  },
+  {
+    "OrdinanceNumber": "73.10",
+    "OrdinanceName": "Mirrors",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18764",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Vehicle construction and equipment"
+  },
+  {
+    "OrdinanceNumber": "73.11",
+    "OrdinanceName": "Mufflers; noise regulation",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18769",
+    "Category": "Noise",
+    "Chapter": "Vehicle construction and equipment"
+  },
+  {
+    "OrdinanceNumber": "73.12",
+    "OrdinanceName": "Escaping contents",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18773",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Vehicle construction and equipment"
+  },
+  {
+    "OrdinanceNumber": "73.13",
+    "OrdinanceName": "Vehicles with spikes",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18776",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Vehicle construction and equipment"
+  },
+  {
+    "OrdinanceNumber": "91.03",
+    "OrdinanceName": "Adoption and mandatory spay/neuter",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18911",
+    "Category": "Animals",
+    "Chapter": "Animal regulations"
+  },
+  {
+    "OrdinanceNumber": "91.05",
+    "OrdinanceName": "Rabies vaccination",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18926",
+    "Category": "Animals",
+    "Chapter": "Animal regulations"
+  },
+  {
+    "OrdinanceNumber": "91.06",
+    "OrdinanceName": "Humane treatment of animals",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18930",
+    "Category": "Animals",
+    "Chapter": "Animal regulations"
+  },
+  {
+    "OrdinanceNumber": "91.07",
+    "OrdinanceName": "Animal to be under control",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18946",
+    "Category": "Animals",
+    "Chapter": "Animal regulations"
+  },
+  {
+    "OrdinanceNumber": "91.08",
+    "OrdinanceName": "Humane societies; standards and licensing",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18967",
+    "Category": "Animals",
+    "Chapter": "Animal regulations"
+  },
+  {
+    "OrdinanceNumber": "91.10",
+    "OrdinanceName": "License revocation",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18996",
+    "Category": "Animals",
+    "Chapter": "Animal regulations"
+  },
+  {
+    "OrdinanceNumber": "91.11",
+    "OrdinanceName": "Livestock",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-18999",
+    "Category": "Animals",
+    "Chapter": "Animal regulations"
+  },
+  {
+    "OrdinanceNumber": "91.12",
+    "OrdinanceName": "Miscellaneous provisions",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-19009",
+    "Category": "Animals",
+    "Chapter": "Animal regulations"
+  },
+  {
+    "OrdinanceNumber": "91.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-19023",
+    "Category": "Animals",
+    "Chapter": "Animal regulations"
+  },
+  {
+    "OrdinanceNumber": "111.005",
+    "OrdinanceName": "Adoption",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-19930",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.015",
+    "OrdinanceName": "City licenses",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-19934",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.020",
+    "OrdinanceName": "Certain special licenses defined/described",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-19957",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.045",
+    "OrdinanceName": "Advertisement",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-19998",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.048",
+    "OrdinanceName": "Other conditions",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20021",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.052",
+    "OrdinanceName": "Lost or destroyed license",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20057",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.056",
+    "OrdinanceName": "Refusal of license; guidelines for approval of quota licenses",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20082",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.080",
+    "OrdinanceName": "Gambling",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20114",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.081",
+    "OrdinanceName": "Radio receiving apparatus",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20117",
+    "Category": "Noise",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.083",
+    "OrdinanceName": "Lavatory facilities required",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20123",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.084",
+    "OrdinanceName": "Drunkenness",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20126",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.086",
+    "OrdinanceName": "Sign requirements",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20132",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.087",
+    "OrdinanceName": "License to be displayed",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20139",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.088",
+    "OrdinanceName": "Legal transactions for wholesalers, distributors and retail",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20143",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.089",
+    "OrdinanceName": "Habitual congregating",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20146",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.091",
+    "OrdinanceName": "Employment restrictions",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20159",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.092",
+    "OrdinanceName": "Nudity and adult entertainment activities prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20166",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.093",
+    "OrdinanceName": "Cause for revocation",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20169",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.105",
+    "OrdinanceName": "Possession by minors prohibited; no person shall aid possession by minors",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20173",
+    "Category": "Minors",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.115",
+    "OrdinanceName": "Consumption on licensed package premises prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20181",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.150",
+    "OrdinanceName": "Mandatory responsible beverage service training",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20214",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.170",
+    "OrdinanceName": "Patio and outdoor sales regulations",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20228",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.171",
+    "OrdinanceName": "Exception to screening requirement for outdoor sales and service of alcoholic beverages in the case of permitted sidewalk cafes in the",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20234",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.172",
+    "OrdinanceName": "Conditions for sidewalk café permit",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20243",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.999",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20264",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "116.01",
+    "OrdinanceName": "Registration required",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20811",
+    "Category": "Business",
+    "Chapter": "Peddlers, door-to-door sellers and solicitors"
+  },
+  {
+    "OrdinanceNumber": "116.04",
+    "OrdinanceName": "Registration",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20833",
+    "Category": "Business",
+    "Chapter": "Peddlers, door-to-door sellers and solicitors"
+  },
+  {
+    "OrdinanceNumber": "116.06",
+    "OrdinanceName": "Investigation",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20855",
+    "Category": "Business",
+    "Chapter": "Peddlers, door-to-door sellers and solicitors"
+  },
+  {
+    "OrdinanceNumber": "116.08",
+    "OrdinanceName": "Regulations",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20862",
+    "Category": "Business",
+    "Chapter": "Peddlers, door-to-door sellers and solicitors"
+  },
+  {
+    "OrdinanceNumber": "116.09",
+    "OrdinanceName": "Disclosure requirements",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20872",
+    "Category": "Business",
+    "Chapter": "Peddlers, door-to-door sellers and solicitors"
+  },
+  {
+    "OrdinanceNumber": "116.11",
+    "OrdinanceName": "Revocation of registration",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20878",
+    "Category": "Business",
+    "Chapter": "Peddlers, door-to-door sellers and solicitors"
+  },
+  {
+    "OrdinanceNumber": "116.26",
+    "OrdinanceName": "License required",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20885",
+    "Category": "Business",
+    "Chapter": "Peddlers, door-to-door sellers and solicitors"
+  },
+  {
+    "OrdinanceNumber": "116.30",
+    "OrdinanceName": "Violation",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20897",
+    "Category": "Business",
+    "Chapter": "Peddlers, door-to-door sellers and solicitors"
+  },
+  {
+    "OrdinanceNumber": "116.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-20900",
+    "Category": "Business",
+    "Chapter": "Peddlers, door-to-door sellers and solicitors"
+  },
+  {
+    "OrdinanceNumber": "131.02",
+    "OrdinanceName": "Deceptive business practices",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-21818",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Business and commercial offenses"
+  },
+  {
+    "OrdinanceNumber": "131.03",
+    "OrdinanceName": "False advertising",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-21827",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Business and commercial offenses"
+  },
+  {
+    "OrdinanceNumber": "131.04",
+    "OrdinanceName": "Bait advertising",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-21831",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Business and commercial offenses"
+  },
+  {
+    "OrdinanceNumber": "131.06",
+    "OrdinanceName": "Defrauding secured creditors",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-21846",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Business and commercial offenses"
+  },
+  {
+    "OrdinanceNumber": "131.07",
+    "OrdinanceName": "Defrauding judgment creditors",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-21850",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Business and commercial offenses"
+  },
+  {
+    "OrdinanceNumber": "131.08",
+    "OrdinanceName": "Fraud in insolvency",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-21854",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Business and commercial offenses"
+  },
+  {
+    "OrdinanceNumber": "131.09",
+    "OrdinanceName": "Issuing false financial statement",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-21861",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Business and commercial offenses"
+  },
+  {
+    "OrdinanceNumber": "131.11",
+    "OrdinanceName": "Commercial bribery",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-21871",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Business and commercial offenses"
+  },
+  {
+    "OrdinanceNumber": "131.12",
+    "OrdinanceName": "Receiving a commercial bribe",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-21877",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Business and commercial offenses"
+  },
+  {
+    "OrdinanceNumber": "131.13",
+    "OrdinanceName": "Tampering with or rigging sports contest",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-21883",
+    "Category": "Criminal Mischief",
+    "Chapter": "Business and commercial offenses"
+  },
+  {
+    "OrdinanceNumber": "131.14",
+    "OrdinanceName": "Ticket scalping",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-21889",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Business and commercial offenses"
+  },
+  {
+    "OrdinanceNumber": "132.03",
+    "OrdinanceName": "Possession",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-21918",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Drugs and the like"
+  },
+  {
+    "OrdinanceNumber": "132.04",
+    "OrdinanceName": "Trafficking",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-21921",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Drugs and the like"
+  },
+  {
+    "OrdinanceNumber": "132.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-21927",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Drugs and the like"
+  },
+  {
+    "OrdinanceNumber": "133.01",
+    "OrdinanceName": "Concealing birth of infant",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-21939",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Family offenses"
+  },
+  {
+    "OrdinanceNumber": "133.02",
+    "OrdinanceName": "Non-support",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-21943",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Family offenses"
+  },
+  {
+    "OrdinanceNumber": "133.03",
+    "OrdinanceName": "Endangering welfare of minor",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-21949",
+    "Category": "Minors",
+    "Chapter": "Family offenses"
+  },
+  {
+    "OrdinanceNumber": "133.04",
+    "OrdinanceName": "Unlawful transaction with minor",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-21953",
+    "Category": "Minors",
+    "Chapter": "Family offenses"
+  },
+  {
+    "OrdinanceNumber": "133.05",
+    "OrdinanceName": "Endangering welfare of incompetent person",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-21961",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Family offenses"
+  },
+  {
+    "OrdinanceNumber": "134.03",
+    "OrdinanceName": "Promoting gambling in the second degree",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22004",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Gambling offenses"
+  },
+  {
+    "OrdinanceNumber": "134.05",
+    "OrdinanceName": "Permitting gambling",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22017",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Gambling offenses"
+  },
+  {
+    "OrdinanceNumber": "134.06",
+    "OrdinanceName": "Possession of gambling device",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22021",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Gambling offenses"
+  },
+  {
+    "OrdinanceNumber": "136.02",
+    "OrdinanceName": "Assault in the third degree",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22104",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against persons"
+  },
+  {
+    "OrdinanceNumber": "136.03",
+    "OrdinanceName": "Assault under extreme emotional disturbance",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22110",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against persons"
+  },
+  {
+    "OrdinanceNumber": "136.04",
+    "OrdinanceName": "Menacing",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22118",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against persons"
+  },
+  {
+    "OrdinanceNumber": "136.05",
+    "OrdinanceName": "Wanton endangerment in the second degree",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22122",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against persons"
+  },
+  {
+    "OrdinanceNumber": "136.06",
+    "OrdinanceName": "Terroristic threatening",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22126",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against persons"
+  },
+  {
+    "OrdinanceNumber": "136.07",
+    "OrdinanceName": "Unlawful imprisonment in the second degree",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22132",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against persons"
+  },
+  {
+    "OrdinanceNumber": "136.08",
+    "OrdinanceName": "Custodial interference",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22140",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against persons"
+  },
+  {
+    "OrdinanceNumber": "137.03",
+    "OrdinanceName": "Criminal trespass in the first degree",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22192",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against property"
+  },
+  {
+    "OrdinanceNumber": "137.04",
+    "OrdinanceName": "Criminal trespass in the second degree",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22196",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against property"
+  },
+  {
+    "OrdinanceNumber": "137.05",
+    "OrdinanceName": "Criminal trespass in the third degree",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22200",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against property"
+  },
+  {
+    "OrdinanceNumber": "137.21",
+    "OrdinanceName": "Criminal mischief in the second degree",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22210",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against property"
+  },
+  {
+    "OrdinanceNumber": "137.23",
+    "OrdinanceName": "Criminal use of noxious substance",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22220",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against property"
+  },
+  {
+    "OrdinanceNumber": "137.24",
+    "OrdinanceName": "Criminal possession of noxious substance",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22224",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against property"
+  },
+  {
+    "OrdinanceNumber": "137.25",
+    "OrdinanceName": "Criminal littering",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22228",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against property"
+  },
+  {
+    "OrdinanceNumber": "137.26",
+    "OrdinanceName": "Unlawfully posting advertisements",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22236",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against property"
+  },
+  {
+    "OrdinanceNumber": "137.42",
+    "OrdinanceName": "Possession of burglars tools",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22260",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against property"
+  },
+  {
+    "OrdinanceNumber": "137.44",
+    "OrdinanceName": "Theft by deception",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22272",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against property"
+  },
+  {
+    "OrdinanceNumber": "137.45",
+    "OrdinanceName": "Theft of property lost, mislaid or delivered by mistake",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22286",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against property"
+  },
+  {
+    "OrdinanceNumber": "137.46",
+    "OrdinanceName": "Theft of service",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22292",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against property"
+  },
+  {
+    "OrdinanceNumber": "137.48",
+    "OrdinanceName": "Theft by extortion",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22310",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against property"
+  },
+  {
+    "OrdinanceNumber": "137.49",
+    "OrdinanceName": "Theft of labor",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22321",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against property"
+  },
+  {
+    "OrdinanceNumber": "137.50",
+    "OrdinanceName": "Unauthorized use of vehicles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22328",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against property"
+  },
+  {
+    "OrdinanceNumber": "137.51",
+    "OrdinanceName": "Receiving stolen property",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22332",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against property"
+  },
+  {
+    "OrdinanceNumber": "137.52",
+    "OrdinanceName": "Obscuring the identity of a machine",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22337",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against property"
+  },
+  {
+    "OrdinanceNumber": "138.03",
+    "OrdinanceName": "Sodomy in the fourth degree",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22383",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Sexual offenses"
+  },
+  {
+    "OrdinanceNumber": "138.04",
+    "OrdinanceName": "Sexual abuse in the second degree",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22388",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Sexual offenses"
+  },
+  {
+    "OrdinanceNumber": "138.05",
+    "OrdinanceName": "Sexual abuse in the third degree",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22394",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Sexual offenses"
+  },
+  {
+    "OrdinanceNumber": "138.06",
+    "OrdinanceName": "Sexual misconduct",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22403",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Sexual offenses"
+  },
+  {
+    "OrdinanceNumber": "138.07",
+    "OrdinanceName": "Indecent exposure",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22407",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Sexual offenses"
+  },
+  {
+    "OrdinanceNumber": "138.22",
+    "OrdinanceName": "Prostitution",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22422",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Sexual offenses"
+  },
+  {
+    "OrdinanceNumber": "138.23",
+    "OrdinanceName": "Promoting prostitution in the third degree",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22426",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Sexual offenses"
+  },
+  {
+    "OrdinanceNumber": "138.24",
+    "OrdinanceName": "Permitting prostitution",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22433",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Sexual offenses"
+  },
+  {
+    "OrdinanceNumber": "139.02",
+    "OrdinanceName": "Discharging firearms",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/franklinky/latest/franklin_ky/0-0-0-22447",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Weapons; firearms"
+  }
+]

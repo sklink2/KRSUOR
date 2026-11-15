@@ -1,0 +1,538 @@
+[
+  {
+    "OrdinanceNumber": "90.19",
+    "OrdinanceName": "Noise (animals)",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-10741",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "99.03",
+    "OrdinanceName": "Prohibited noises",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-12770",
+    "Category": "Noise",
+    "Chapter": "Nuisances"
+  },
+  {
+    "OrdinanceNumber": "99.01–99.06",
+    "OrdinanceName": "Public noise control",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-12748",
+    "Category": "Noise",
+    "Chapter": "Nuisances"
+  },
+  {
+    "OrdinanceNumber": "Ch. 72",
+    "OrdinanceName": "Parking",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-9959",
+    "Category": "Parking",
+    "Chapter": "Parking"
+  },
+  {
+    "OrdinanceNumber": "94.01",
+    "OrdinanceName": "Hours - Murray-Calloway County Parks",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-4298",
+    "Category": "Parks"
+  },
+  {
+    "OrdinanceNumber": "40.39",
+    "OrdinanceName": "Ordinance fine schedule",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-10543",
+    "Category": "Miscellaneous Offenses"
+  },
+  {
+    "OrdinanceNumber": "118.075",
+    "OrdinanceName": "Hours for sale and delivery",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-18351",
+    "Category": "Alcohol"
+  },
+  {
+    "OrdinanceNumber": "Ch. 133",
+    "OrdinanceName": "Smoking regulations",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-22243",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Smoking Regulations"
+  },
+  {
+    "OrdinanceNumber": "72.05",
+    "OrdinanceName": "Parking of certain vehicles prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-9989",
+    "Category": "Parking",
+    "Chapter": "Parking"
+  },
+  {
+    "OrdinanceNumber": "72.06",
+    "OrdinanceName": "Freight or passenger loading zones",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-9993",
+    "Category": "Parking",
+    "Chapter": "Parking"
+  },
+  {
+    "OrdinanceNumber": "72.08",
+    "OrdinanceName": "Vicarious responsibility",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-10005",
+    "Category": "Parking",
+    "Chapter": "Parking"
+  },
+  {
+    "OrdinanceNumber": "72.11",
+    "OrdinanceName": "Notice of parking violation",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-18787",
+    "Category": "Parking",
+    "Chapter": "Parking"
+  },
+  {
+    "OrdinanceNumber": "72.13",
+    "OrdinanceName": "Vehicle impoundment",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-18817",
+    "Category": "Tow Truck",
+    "Chapter": "Parking"
+  },
+  {
+    "OrdinanceNumber": "72.14",
+    "OrdinanceName": "Redemption of impounded vehicle",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-18824",
+    "Category": "Tow Truck",
+    "Chapter": "Parking"
+  },
+  {
+    "OrdinanceNumber": "72.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-10012",
+    "Category": "Parking",
+    "Chapter": "Parking"
+  },
+  {
+    "OrdinanceNumber": "73.01",
+    "OrdinanceName": "Emission of noise, smoke, or other nuisances",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-3393",
+    "Category": "Noise",
+    "Chapter": "Special vehicles"
+  },
+  {
+    "OrdinanceNumber": "73.02",
+    "OrdinanceName": "Operation within confines of city public park",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-3396",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Special vehicles"
+  },
+  {
+    "OrdinanceNumber": "73.03",
+    "OrdinanceName": "Operation on private property in re sidential areas",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-3399",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Special vehicles"
+  },
+  {
+    "OrdinanceNumber": "73.04",
+    "OrdinanceName": "Permitting another to operate vehic le unlawfully",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-3402",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Special vehicles"
+  },
+  {
+    "OrdinanceNumber": "73.05",
+    "OrdinanceName": "Written consent for operation on rea l property",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-3405",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Special vehicles"
+  },
+  {
+    "OrdinanceNumber": "73.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-3408",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Special vehicles"
+  },
+  {
+    "OrdinanceNumber": "99.05",
+    "OrdinanceName": "Special variances",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-12793",
+    "Category": "Housing",
+    "Chapter": "Nuisances"
+  },
+  {
+    "OrdinanceNumber": "99.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-12799",
+    "Category": "Housing",
+    "Chapter": "Nuisances"
+  },
+  {
+    "OrdinanceNumber": "114.01",
+    "OrdinanceName": "Authorization for installation",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5043",
+    "Category": "Business",
+    "Chapter": "Private burglar and fire alarm system"
+  },
+  {
+    "OrdinanceNumber": "114.03",
+    "OrdinanceName": "Use of police line prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5051",
+    "Category": "Business",
+    "Chapter": "Private burglar and fire alarm system"
+  },
+  {
+    "OrdinanceNumber": "114.04",
+    "OrdinanceName": "Maintenance of equipment and system",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5054",
+    "Category": "Business",
+    "Chapter": "Private burglar and fire alarm system"
+  },
+  {
+    "OrdinanceNumber": "114.05",
+    "OrdinanceName": "False alarms",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5057",
+    "Category": "Business",
+    "Chapter": "Private burglar and fire alarm system"
+  },
+  {
+    "OrdinanceNumber": "114.06",
+    "OrdinanceName": "Previous hook-ups to be removed",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5060",
+    "Category": "Business",
+    "Chapter": "Private burglar and fire alarm system"
+  },
+  {
+    "OrdinanceNumber": "114.09",
+    "OrdinanceName": "Liability of each subscriber",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5069",
+    "Category": "Business",
+    "Chapter": "Private burglar and fire alarm system"
+  },
+  {
+    "OrdinanceNumber": "114.10",
+    "OrdinanceName": "Monitoring own alarm system",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5072",
+    "Category": "Business",
+    "Chapter": "Private burglar and fire alarm system"
+  },
+  {
+    "OrdinanceNumber": "115.01",
+    "OrdinanceName": "Unlawful to solicit or peddle wares",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5083",
+    "Category": "Business",
+    "Chapter": "Solicitors and peddlers"
+  },
+  {
+    "OrdinanceNumber": "115.02",
+    "OrdinanceName": "Using streets or public premises; exception",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5086",
+    "Category": "Business",
+    "Chapter": "Solicitors and peddlers"
+  },
+  {
+    "OrdinanceNumber": "115.03",
+    "OrdinanceName": "Farm produce",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5089",
+    "Category": "Business",
+    "Chapter": "Solicitors and peddlers"
+  },
+  {
+    "OrdinanceNumber": "115.05",
+    "OrdinanceName": "Prohibiting solicitation on streets and byways",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5095",
+    "Category": "Business",
+    "Chapter": "Solicitors and peddlers"
+  },
+  {
+    "OrdinanceNumber": "115.06",
+    "OrdinanceName": "Mobile food vendors",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-22611",
+    "Category": "Business",
+    "Chapter": "Solicitors and peddlers"
+  },
+  {
+    "OrdinanceNumber": "115.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5099",
+    "Category": "Business",
+    "Chapter": "Solicitors and peddlers"
+  },
+  {
+    "OrdinanceNumber": "117.03",
+    "OrdinanceName": "Establishing: classification of regulated businesses",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5213",
+    "Category": "Business",
+    "Chapter": "Adult-oriented businesses"
+  },
+  {
+    "OrdinanceNumber": "117.04",
+    "OrdinanceName": "Non-conforming uses",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5218",
+    "Category": "Business",
+    "Chapter": "Adult-oriented businesses"
+  },
+  {
+    "OrdinanceNumber": "117.15",
+    "OrdinanceName": "Permit required",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5224",
+    "Category": "Business",
+    "Chapter": "Adult-oriented businesses"
+  },
+  {
+    "OrdinanceNumber": "117.19",
+    "OrdinanceName": "Expiration of permit",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5286",
+    "Category": "Business",
+    "Chapter": "Adult-oriented businesses"
+  },
+  {
+    "OrdinanceNumber": "117.21",
+    "OrdinanceName": "Revocation of permit",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5301",
+    "Category": "Business",
+    "Chapter": "Adult-oriented businesses"
+  },
+  {
+    "OrdinanceNumber": "117.35",
+    "OrdinanceName": "Adult oriented business employee license",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5334",
+    "Category": "Business",
+    "Chapter": "Adult-oriented businesses"
+  },
+  {
+    "OrdinanceNumber": "117.36",
+    "OrdinanceName": "Minors prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5364",
+    "Category": "Minors",
+    "Chapter": "Adult-oriented businesses"
+  },
+  {
+    "OrdinanceNumber": "117.37",
+    "OrdinanceName": "Advertising; visibility regulations",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5369",
+    "Category": "Business",
+    "Chapter": "Adult-oriented businesses"
+  },
+  {
+    "OrdinanceNumber": "117.38",
+    "OrdinanceName": "Hours of operation",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5378",
+    "Category": "Business",
+    "Chapter": "Adult-oriented businesses"
+  },
+  {
+    "OrdinanceNumber": "117.39",
+    "OrdinanceName": "Display of specified anatomical areas",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5381",
+    "Category": "Business",
+    "Chapter": "Adult-oriented businesses"
+  },
+  {
+    "OrdinanceNumber": "117.40",
+    "OrdinanceName": "Physical contact prohibition",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5384",
+    "Category": "Business",
+    "Chapter": "Adult-oriented businesses"
+  },
+  {
+    "OrdinanceNumber": "117.41",
+    "OrdinanceName": "Live performances, adult dancing, viewing booths",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5387",
+    "Category": "Business",
+    "Chapter": "Adult-oriented businesses"
+  },
+  {
+    "OrdinanceNumber": "117.55",
+    "OrdinanceName": "Inspection",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5400",
+    "Category": "Business",
+    "Chapter": "Adult-oriented businesses"
+  },
+  {
+    "OrdinanceNumber": "117.56",
+    "OrdinanceName": "Responsibility of manager, owner, permitted or licensed party",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5403",
+    "Category": "Business",
+    "Chapter": "Adult-oriented businesses"
+  },
+  {
+    "OrdinanceNumber": "117.58",
+    "OrdinanceName": "Immunity from prosecution",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5409",
+    "Category": "Business",
+    "Chapter": "Adult-oriented businesses"
+  },
+  {
+    "OrdinanceNumber": "117.59",
+    "OrdinanceName": "Right of city to exercise regulatory authority",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-5412",
+    "Category": "Business",
+    "Chapter": "Adult-oriented businesses"
+  },
+  {
+    "OrdinanceNumber": "118.015",
+    "OrdinanceName": "Licenses generally",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-18107",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "118.019",
+    "OrdinanceName": "Certain special licenses defined",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-18127",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "118.050",
+    "OrdinanceName": "Advertisement",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-18188",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "118.053",
+    "OrdinanceName": "Other conditions",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-18217",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "118.057",
+    "OrdinanceName": "Lost or destroyed license",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-18273",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "118.061",
+    "OrdinanceName": "Refusal of license; guidelines for approval of quota licenses",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-18309",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "118.076",
+    "OrdinanceName": "Conditions, prohibitions and restrictions",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-18365",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "118.077",
+    "OrdinanceName": "Possession by minors prohibited; no person shall aid possession by minors",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-18402",
+    "Category": "Minors",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "118.078",
+    "OrdinanceName": "Consumption on licensed package premises prohibited; exceptions; congregating on certain ABC licensed premises and vacant premises",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-18410",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "118.079",
+    "OrdinanceName": "Malt beverage keg registration",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-18426",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "118.081",
+    "OrdinanceName": "Mandatory responsible beverage service training",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-18450",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "118.082",
+    "OrdinanceName": "Signs and advertising",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-18457",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "118.083",
+    "OrdinanceName": "Patio and outdoor sales; where permitted; approval required; screening requirements; exceptions",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-18468",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "118.084",
+    "OrdinanceName": "Exception to screening requirement for outdoor sales and service of alcoholic beverages in the case of permitted sidewalk cafes in the",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-18489",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "118.085",
+    "OrdinanceName": "Conditions for sidewalk cafe permit",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-18496",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "118.999",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-18514",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "133.04",
+    "OrdinanceName": "Prohibition of smoking in enclosed public spaces",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-22314",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Smoking regulations"
+  },
+  {
+    "OrdinanceNumber": "133.05",
+    "OrdinanceName": "Prohibition of smoking in enclosed places of employment",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-22341",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Smoking regulations"
+  },
+  {
+    "OrdinanceNumber": "133.06",
+    "OrdinanceName": "Prohibition of smoking in private clubs",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-22345",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Smoking regulations"
+  },
+  {
+    "OrdinanceNumber": "133.07",
+    "OrdinanceName": "Prohibition of smoking in enclosed residential facilities",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-22348",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Smoking regulations"
+  },
+  {
+    "OrdinanceNumber": "133.08",
+    "OrdinanceName": "Prohibition of smoking in outdoor public spaces",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-22356",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Smoking regulations"
+  },
+  {
+    "OrdinanceNumber": "133.09",
+    "OrdinanceName": "Prohibition of smoking in outdoor places of employment",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-22371",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Smoking regulations"
+  },
+  {
+    "OrdinanceNumber": "133.10",
+    "OrdinanceName": "Where smoking is not regulated",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-22375",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Smoking regulations"
+  },
+  {
+    "OrdinanceNumber": "133.12",
+    "OrdinanceName": "Posting of signs and removal of ashtrays",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-22385",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Smoking regulations"
+  },
+  {
+    "OrdinanceNumber": "133.99",
+    "OrdinanceName": "Violations and penalties",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/murray/latest/murray_ky/0-0-0-22408",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Smoking regulations"
+  }
+]

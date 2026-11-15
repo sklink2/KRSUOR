@@ -1,0 +1,446 @@
+[
+  {
+    "OrdinanceNumber": "91.15",
+    "OrdinanceName": "Animals disturbing the peace",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-5074",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "91.16",
+    "OrdinanceName": "Animals to be under control",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-5077",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "91.50",
+    "OrdinanceName": "Wild and exotic animals prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-23937",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "111.09",
+    "OrdinanceName": "Hours when sales permitted",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-6057",
+    "Category": "Alcohol",
+    "Chapter": "Sale of Alcoholic Beverages"
+  },
+  {
+    "OrdinanceNumber": "98.17",
+    "OrdinanceName": "Sale of fireworks",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-24065",
+    "Category": "Business"
+  },
+  {
+    "OrdinanceNumber": "98.18",
+    "OrdinanceName": "Permanent retail fireworks permit",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-24076",
+    "Category": "Business"
+  },
+  {
+    "OrdinanceNumber": "102.01",
+    "OrdinanceName": "Chronic nuisance unlawful",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-24729",
+    "Category": "Housing"
+  },
+  {
+    "OrdinanceNumber": "131.02",
+    "OrdinanceName": "Discharging firearms",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-6414",
+    "Category": "Miscellaneous Offenses"
+  },
+  {
+    "OrdinanceNumber": "Fireworks",
+    "OrdinanceName": "Fireworks (general offenses)",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-5392",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General Offenses"
+  },
+  {
+    "OrdinanceNumber": "100.01–100.99",
+    "OrdinanceName": "Curfew",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-5559",
+    "Category": "Minors",
+    "Chapter": "Curfew"
+  },
+  {
+    "OrdinanceNumber": "101.02",
+    "OrdinanceName": "Disturbing and unnecessary noises",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-5641",
+    "Category": "Noise",
+    "Chapter": "Noise"
+  },
+  {
+    "OrdinanceNumber": "70.01–70.07",
+    "OrdinanceName": "Parking regulations: prohibited locations; trucks and RVs; fire lanes",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-2575",
+    "Category": "Parking",
+    "Chapter": "Parking Regulations"
+  },
+  {
+    "OrdinanceNumber": "70.03",
+    "OrdinanceName": "Parking for certain length of time prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-2617",
+    "Category": "Parking",
+    "Chapter": "Parking Regulations"
+  },
+  {
+    "OrdinanceNumber": "70.02",
+    "OrdinanceName": "Manner of parking",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-2613",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "70.04",
+    "OrdinanceName": "Parking near state or federal highway intersection",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-2620",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "70.05",
+    "OrdinanceName": "Parking trucks, recreational vehicles, and the like prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-2623",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "70.08",
+    "OrdinanceName": "Snow emergencies",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-2654",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "70.09",
+    "OrdinanceName": "Temporary alterations",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-2661",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "70.10",
+    "OrdinanceName": "Leaving vehicle unattended with engine in operation",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-2666",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "70.21",
+    "OrdinanceName": "Citation for violation; contents",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-2677",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "70.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-2733",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "71.03",
+    "OrdinanceName": "Written consent required",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-2792",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Motorcycles; mini-bikes"
+  },
+  {
+    "OrdinanceNumber": "71.04",
+    "OrdinanceName": "Consent form",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-2797",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Motorcycles; mini-bikes"
+  },
+  {
+    "OrdinanceNumber": "71.06",
+    "OrdinanceName": "Duty to use reasonable care",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-2820",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Motorcycles; mini-bikes"
+  },
+  {
+    "OrdinanceNumber": "71.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-2834",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Motorcycles; mini-bikes"
+  },
+  {
+    "OrdinanceNumber": "72.04",
+    "OrdinanceName": "Restrictions after repossession",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-2863",
+    "Category": "Tow Truck",
+    "Chapter": "Repossession of motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "72.05",
+    "OrdinanceName": "Occupational license required",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-2866",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Repossession of motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "72.06",
+    "OrdinanceName": "Rights and duties of parties",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-2869",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Repossession of motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "72.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-2872",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Repossession of motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "91.17",
+    "OrdinanceName": "Inhumane or improper treatment",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-5081",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "91.40",
+    "OrdinanceName": "Bees",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-5117",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "91.60",
+    "OrdinanceName": "Licensing",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-5124",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "91.61",
+    "OrdinanceName": "Rabies vaccination",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-5127",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "91.76",
+    "OrdinanceName": "Confinement",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-5153",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "91.77",
+    "OrdinanceName": "Leash and muzzle",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-5156",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "91.78",
+    "OrdinanceName": "Signs",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-5159",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "91.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-5165",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "94.02",
+    "OrdinanceName": "False alarms",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-5277",
+    "Category": "Business",
+    "Chapter": "Alarm systems"
+  },
+  {
+    "OrdinanceNumber": "94.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-5284",
+    "Category": "Business",
+    "Chapter": "Alarm systems"
+  },
+  {
+    "OrdinanceNumber": "96.01",
+    "OrdinanceName": "Public parks",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-5331",
+    "Category": "Parks",
+    "Chapter": "Municipal parks"
+  },
+  {
+    "OrdinanceNumber": "100.03",
+    "OrdinanceName": "Offenses",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-5595",
+    "Category": "Minors",
+    "Chapter": "Curfew"
+  },
+  {
+    "OrdinanceNumber": "100.04",
+    "OrdinanceName": "Defenses",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-5601",
+    "Category": "Minors",
+    "Chapter": "Curfew"
+  },
+  {
+    "OrdinanceNumber": "100.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-5627",
+    "Category": "Minors",
+    "Chapter": "Curfew"
+  },
+  {
+    "OrdinanceNumber": "101.01",
+    "OrdinanceName": "Unlawful noises",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-5638",
+    "Category": "Noise",
+    "Chapter": "Noise"
+  },
+  {
+    "OrdinanceNumber": "101.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-5657",
+    "Category": "Noise",
+    "Chapter": "Noise"
+  },
+  {
+    "OrdinanceNumber": "102.04",
+    "OrdinanceName": "Utility service prohibition",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-24826",
+    "Category": "Housing",
+    "Chapter": "Chronic nuisance property"
+  },
+  {
+    "OrdinanceNumber": "102.06",
+    "OrdinanceName": "Summary closure",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-24832",
+    "Category": "Housing",
+    "Chapter": "Chronic nuisance property"
+  },
+  {
+    "OrdinanceNumber": "102.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-24835",
+    "Category": "Housing",
+    "Chapter": "Chronic nuisance property"
+  },
+  {
+    "OrdinanceNumber": "111.02",
+    "OrdinanceName": "License required",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-5947",
+    "Category": "Alcohol",
+    "Chapter": "Sale of alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.06",
+    "OrdinanceName": "Terms of license",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-6043",
+    "Category": "Alcohol",
+    "Chapter": "Sale of alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.07",
+    "OrdinanceName": "Display of license",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-6047",
+    "Category": "Alcohol",
+    "Chapter": "Sale of alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.08",
+    "OrdinanceName": "State license required",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-6052",
+    "Category": "Alcohol",
+    "Chapter": "Sale of alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.10",
+    "OrdinanceName": "Violations of state or federal law",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-6066",
+    "Category": "Alcohol",
+    "Chapter": "Sale of alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.13",
+    "OrdinanceName": "Minors",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-6078",
+    "Category": "Minors",
+    "Chapter": "Sale of alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-6081",
+    "Category": "Alcohol",
+    "Chapter": "Sale of alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "116.01",
+    "OrdinanceName": "Soliciting contributions from driver or occupant of motor vehicle",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-6355",
+    "Category": "Business",
+    "Chapter": "Solicitors"
+  },
+  {
+    "OrdinanceNumber": "116.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-6358",
+    "Category": "Business",
+    "Chapter": "Solicitors"
+  },
+  {
+    "OrdinanceNumber": "118.01",
+    "OrdinanceName": "Temporary sale or display of motor vehicles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-14515",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Motor vehicle sales"
+  },
+  {
+    "OrdinanceNumber": "122.03",
+    "OrdinanceName": "Classifications",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-26280",
+    "Category": "Business",
+    "Chapter": "Medical cannabis businesses"
+  },
+  {
+    "OrdinanceNumber": "122.04",
+    "OrdinanceName": "Required permits and licenses",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-26291",
+    "Category": "Business",
+    "Chapter": "Medical cannabis businesses"
+  },
+  {
+    "OrdinanceNumber": "122.07",
+    "OrdinanceName": "Incorporation of 915 KAR Chapter 1",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-26457",
+    "Category": "Business",
+    "Chapter": "Medical cannabis businesses"
+  },
+  {
+    "OrdinanceNumber": "131.01",
+    "OrdinanceName": "Discharging air rifles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-6410",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against the person"
+  },
+  {
+    "OrdinanceNumber": "133.02",
+    "OrdinanceName": "Encouraging another to engage in sodomy",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-6436",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against morals"
+  },
+  {
+    "OrdinanceNumber": "133.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/florence/latest/florence_ky/0-0-0-6439",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against morals"
+  }
+]

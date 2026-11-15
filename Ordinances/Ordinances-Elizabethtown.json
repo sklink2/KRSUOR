@@ -1,0 +1,763 @@
+[
+  {
+    "OrdinanceNumber": "90.16–90.18",
+    "OrdinanceName": "Dogs: control of dogs; control of vicious dogs",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2031",
+    "Category": "Animals",
+    "Chapter": "Animals and Animal Control"
+  },
+  {
+    "OrdinanceNumber": "90.18",
+    "OrdinanceName": "Enforcement of restrictions on vicious dogs",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2111",
+    "Category": "Animals",
+    "Chapter": "Animals and Animal Control"
+  },
+  {
+    "OrdinanceNumber": "90.30",
+    "OrdinanceName": "Sale of dogs and cats",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-10829",
+    "Category": "Animals",
+    "Chapter": "Animals and Animal Control"
+  },
+  {
+    "OrdinanceNumber": "92.016",
+    "OrdinanceName": "Keeping of animal, fowl or reptile which becomes a nuisance prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2599",
+    "Category": "Animals"
+  },
+  {
+    "OrdinanceNumber": "ABC",
+    "OrdinanceName": "Alcoholic beverage control",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-10967",
+    "Category": "Alcohol"
+  },
+  {
+    "OrdinanceNumber": "130.02",
+    "OrdinanceName": "Air or spring guns",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-4448",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses Against Municipal Regulations"
+  },
+  {
+    "OrdinanceNumber": "Ch. 133",
+    "OrdinanceName": "Fireworks",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-4509",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Fireworks"
+  },
+  {
+    "OrdinanceNumber": "130.01",
+    "OrdinanceName": "Curfew",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-4426",
+    "Category": "Minors",
+    "Chapter": "Offenses Against Municipal Regulations"
+  },
+  {
+    "OrdinanceNumber": "97.01",
+    "OrdinanceName": "Unreasonably loud noise; noise pollution",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-3030",
+    "Category": "Noise",
+    "Chapter": "Noise Regulations"
+  },
+  {
+    "OrdinanceNumber": "72.01–72.04",
+    "OrdinanceName": "Parking generally: obstruction; double parking; manner of parking; limitations; designated streets",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1764",
+    "Category": "Parking",
+    "Chapter": "Parking Regulations"
+  },
+  {
+    "OrdinanceNumber": "72.43",
+    "OrdinanceName": "Parking violations",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1891",
+    "Category": "Parking",
+    "Chapter": "Parking Regulations"
+  },
+  {
+    "OrdinanceNumber": "Sch. VI",
+    "OrdinanceName": "Truck traffic prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1991",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and Parking Schedules"
+  },
+  {
+    "OrdinanceNumber": "71.01",
+    "OrdinanceName": "Obstructing traffic",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1674",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic rules"
+  },
+  {
+    "OrdinanceNumber": "71.02",
+    "OrdinanceName": "Vehicles crossing sidewalks",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1679",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic rules"
+  },
+  {
+    "OrdinanceNumber": "71.03",
+    "OrdinanceName": "Rail traffic",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1683",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic rules"
+  },
+  {
+    "OrdinanceNumber": "71.16",
+    "OrdinanceName": "Prohibited activity",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1699",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic rules"
+  },
+  {
+    "OrdinanceNumber": "71.22",
+    "OrdinanceName": "Additional requirements",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1743",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic rules"
+  },
+  {
+    "OrdinanceNumber": "71.24",
+    "OrdinanceName": "Revocation of permit",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1756",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic rules"
+  },
+  {
+    "OrdinanceNumber": "71.26",
+    "OrdinanceName": "Public conduct during special events",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1763",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic rules"
+  },
+  {
+    "OrdinanceNumber": "72.01",
+    "OrdinanceName": "Obstruction of parking; double parking",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1794",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "72.02",
+    "OrdinanceName": "Manner of parking",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1798",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "72.03",
+    "OrdinanceName": "Limitations of stopping and parking",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1804",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "72.04",
+    "OrdinanceName": "Restrictions and prohibitions on designated streets",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1828",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "72.05",
+    "OrdinanceName": "Parking restricted to allow street cleaning",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1838",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "72.06",
+    "OrdinanceName": "Parking in excess of certain number of hours; towing authorized",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1841",
+    "Category": "Tow Truck",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "72.07",
+    "OrdinanceName": "Parking on parade route",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1844",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "72.08",
+    "OrdinanceName": "Parking on off-street facility",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1849",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "72.09",
+    "OrdinanceName": "Owner responsibility",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1854",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "72.10",
+    "OrdinanceName": "Parking in parks",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1857",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "72.11",
+    "OrdinanceName": "Parking restrictions on Public Square; on long vehicles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1860",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "72.12",
+    "OrdinanceName": "Fire lanes",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1865",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "72.26",
+    "OrdinanceName": "Termination of emergency",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1873",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "72.27",
+    "OrdinanceName": "Snow emergency routes",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1877",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "72.40",
+    "OrdinanceName": "Restricted parking",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1882",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "72.41",
+    "OrdinanceName": "Hours of operation",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1885",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "72.44",
+    "OrdinanceName": "Temporary restrictions; City Engineer duties; special event restrictions",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1909",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "72.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1915",
+    "Category": "Parking",
+    "Chapter": "Parking regulations"
+  },
+  {
+    "OrdinanceNumber": "73.01",
+    "OrdinanceName": "Operation of bicycles, motorcycles and the like",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1930",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Recreational vehicles"
+  },
+  {
+    "OrdinanceNumber": "73.02",
+    "OrdinanceName": "Skating and coasting",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1937",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Recreational vehicles"
+  },
+  {
+    "OrdinanceNumber": "73.03",
+    "OrdinanceName": "Clinging to vehicles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-1940",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Recreational vehicles"
+  },
+  {
+    "OrdinanceNumber": "90.15",
+    "OrdinanceName": "Alternate opinion",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2085",
+    "Category": "Animals",
+    "Chapter": "Animals and animal control"
+  },
+  {
+    "OrdinanceNumber": "90.16",
+    "OrdinanceName": "Control of dogs",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2088",
+    "Category": "Animals",
+    "Chapter": "Animals and animal control"
+  },
+  {
+    "OrdinanceNumber": "90.19",
+    "OrdinanceName": "Impoundment",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2119",
+    "Category": "Animals",
+    "Chapter": "Animals and animal control"
+  },
+  {
+    "OrdinanceNumber": "90.20",
+    "OrdinanceName": "Provision of necessities",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2124",
+    "Category": "Animals",
+    "Chapter": "Animals and animal control"
+  },
+  {
+    "OrdinanceNumber": "90.22",
+    "OrdinanceName": "Abandonment",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2131",
+    "Category": "Animals",
+    "Chapter": "Animals and animal control"
+  },
+  {
+    "OrdinanceNumber": "90.25",
+    "OrdinanceName": "Killing dogs, cats for food or fur prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2144",
+    "Category": "Animals",
+    "Chapter": "Animals and animal control"
+  },
+  {
+    "OrdinanceNumber": "90.26",
+    "OrdinanceName": "Mutilation of animals",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2147",
+    "Category": "Animals",
+    "Chapter": "Animals and animal control"
+  },
+  {
+    "OrdinanceNumber": "90.27",
+    "OrdinanceName": "Sexual acts with animals",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2150",
+    "Category": "Animals",
+    "Chapter": "Animals and animal control"
+  },
+  {
+    "OrdinanceNumber": "90.28",
+    "OrdinanceName": "Removal of animal in immediate danger",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2153",
+    "Category": "Animals",
+    "Chapter": "Animals and animal control"
+  },
+  {
+    "OrdinanceNumber": "90.29",
+    "OrdinanceName": "Confiscation of victimized animal",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2156",
+    "Category": "Animals",
+    "Chapter": "Animals and animal control"
+  },
+  {
+    "OrdinanceNumber": "90.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2160",
+    "Category": "Animals",
+    "Chapter": "Animals and animal control"
+  },
+  {
+    "OrdinanceNumber": "92.017",
+    "OrdinanceName": "Certain violations concerning animals, fowl and reptiles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2602",
+    "Category": "Housing",
+    "Chapter": "Health and sanitation; nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.018",
+    "OrdinanceName": "Slaughtering prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2609",
+    "Category": "Housing",
+    "Chapter": "Health and sanitation; nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.031",
+    "OrdinanceName": "Violations concerning garbage, debris and rubbish",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2619",
+    "Category": "Housing",
+    "Chapter": "Health and sanitation; nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.046",
+    "OrdinanceName": "Dismantling or overhauling vehicle on private property prohibited; exceptions",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2650",
+    "Category": "Housing",
+    "Chapter": "Health and sanitation; nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.047",
+    "OrdinanceName": "Stoking any appliance outside of any building or where accessible to children prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2654",
+    "Category": "Housing",
+    "Chapter": "Health and sanitation; nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.061",
+    "OrdinanceName": "Grass, weeds and vegetation to be trimmed regularly; maximum height",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2661",
+    "Category": "Housing",
+    "Chapter": "Health and sanitation; nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.062",
+    "OrdinanceName": "Exemption for woodlands and trees",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2666",
+    "Category": "Housing",
+    "Chapter": "Health and sanitation; nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.091",
+    "OrdinanceName": "Owner to maintain public way; keep compatible with adjacent pavement",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2683",
+    "Category": "Housing",
+    "Chapter": "Health and sanitation; nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.092",
+    "OrdinanceName": "Owner to keep property cleared to traveled portion of street",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2687",
+    "Category": "Housing",
+    "Chapter": "Health and sanitation; nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.093",
+    "OrdinanceName": "Obstructing fire hydrant prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2692",
+    "Category": "Housing",
+    "Chapter": "Health and sanitation; nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.094",
+    "OrdinanceName": "Obstructing view of motorists prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2695",
+    "Category": "Housing",
+    "Chapter": "Health and sanitation; nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.095",
+    "OrdinanceName": "Owners to maintain drainageway on private property; obstruction of drainageway prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2698",
+    "Category": "Housing",
+    "Chapter": "Health and sanitation; nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.096",
+    "OrdinanceName": "Obstructing streets and sidewalks prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2701",
+    "Category": "Housing",
+    "Chapter": "Health and sanitation; nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.097",
+    "OrdinanceName": "Maintenance; repair of sidewalks",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2705",
+    "Category": "Housing",
+    "Chapter": "Health and sanitation; nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.098",
+    "OrdinanceName": "Inspection and notice",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2708",
+    "Category": "Housing",
+    "Chapter": "Health and sanitation; nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.099",
+    "OrdinanceName": "Failure to comply is a violation",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2711",
+    "Category": "Housing",
+    "Chapter": "Health and sanitation; nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.100",
+    "OrdinanceName": "Performance by city",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2714",
+    "Category": "Housing",
+    "Chapter": "Health and sanitation; nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.118",
+    "OrdinanceName": "Prohibitions; exceptions",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2742",
+    "Category": "Housing",
+    "Chapter": "Health and sanitation; nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.121",
+    "OrdinanceName": "Inspection, monitoring and remediation",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2758",
+    "Category": "Housing",
+    "Chapter": "Health and sanitation; nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.135",
+    "OrdinanceName": "Director of planning and development to investigate complaints; notify owner of premises in violation; exception",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2769",
+    "Category": "Housing",
+    "Chapter": "Health and sanitation; nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.136",
+    "OrdinanceName": "Abatement procedure",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2774",
+    "Category": "Housing",
+    "Chapter": "Health and sanitation; nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.137",
+    "OrdinanceName": "Termination of utilities",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2778",
+    "Category": "Housing",
+    "Chapter": "Health and sanitation; nuisances"
+  },
+  {
+    "OrdinanceNumber": "94.01",
+    "OrdinanceName": "Tracking foreign matter on streets",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2908",
+    "Category": "Housing",
+    "Chapter": "Littering"
+  },
+  {
+    "OrdinanceNumber": "94.02",
+    "OrdinanceName": "Hauling loose material",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2911",
+    "Category": "Housing",
+    "Chapter": "Littering"
+  },
+  {
+    "OrdinanceNumber": "94.03",
+    "OrdinanceName": "Sweeping litter into gutters",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2914",
+    "Category": "Housing",
+    "Chapter": "Littering"
+  },
+  {
+    "OrdinanceNumber": "94.04",
+    "OrdinanceName": "Litter on private property",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2917",
+    "Category": "Housing",
+    "Chapter": "Littering"
+  },
+  {
+    "OrdinanceNumber": "94.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-2921",
+    "Category": "Housing",
+    "Chapter": "Littering"
+  },
+  {
+    "OrdinanceNumber": "97.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-3051",
+    "Category": "Noise",
+    "Chapter": "Noise regulations"
+  },
+  {
+    "OrdinanceNumber": "98.01",
+    "OrdinanceName": "Closing hours at freeman lake park; american legion park",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-3066",
+    "Category": "Parks",
+    "Chapter": "Parks and recreation"
+  },
+  {
+    "OrdinanceNumber": "98.02",
+    "OrdinanceName": "Motor vehicle use in recreational areas",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-3069",
+    "Category": "Parks",
+    "Chapter": "Parks and recreation"
+  },
+  {
+    "OrdinanceNumber": "98.03",
+    "OrdinanceName": "Fishing on freeman lake",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-3081",
+    "Category": "Parks",
+    "Chapter": "Parks and recreation"
+  },
+  {
+    "OrdinanceNumber": "98.04",
+    "OrdinanceName": "Swimming in city-owned or occupied reservoirs",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-3089",
+    "Category": "Parks",
+    "Chapter": "Parks and recreation"
+  },
+  {
+    "OrdinanceNumber": "98.05",
+    "OrdinanceName": "Use of impoundment or reservoir without permission prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-3092",
+    "Category": "Tow Truck",
+    "Chapter": "Parks and recreation"
+  },
+  {
+    "OrdinanceNumber": "98.06",
+    "OrdinanceName": "Fishing in city impoundments and lakes",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-3095",
+    "Category": "Tow Truck",
+    "Chapter": "Parks and recreation"
+  },
+  {
+    "OrdinanceNumber": "98.07",
+    "OrdinanceName": "Maintenance of certain city-owned property in natural state",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-3100",
+    "Category": "Parks",
+    "Chapter": "Parks and recreation"
+  },
+  {
+    "OrdinanceNumber": "98.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-3109",
+    "Category": "Parks",
+    "Chapter": "Parks and recreation"
+  },
+  {
+    "OrdinanceNumber": "111.01",
+    "OrdinanceName": "Compliance required",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-3343",
+    "Category": "Business",
+    "Chapter": "Peddlers, solicitors and itinerant merchants"
+  },
+  {
+    "OrdinanceNumber": "112.02",
+    "OrdinanceName": "Electronic inventory tracking system required",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-3385",
+    "Category": "Business",
+    "Chapter": "Pawnbrokers and scrap dealers"
+  },
+  {
+    "OrdinanceNumber": "112.03",
+    "OrdinanceName": "Entity designated",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-3388",
+    "Category": "Business",
+    "Chapter": "Pawnbrokers and scrap dealers"
+  },
+  {
+    "OrdinanceNumber": "112.18",
+    "OrdinanceName": "Transacting business with minors",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-3450",
+    "Category": "Minors",
+    "Chapter": "Pawnbrokers and scrap dealers"
+  },
+  {
+    "OrdinanceNumber": "112.19",
+    "OrdinanceName": "Examination of books",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-3453",
+    "Category": "Business",
+    "Chapter": "Pawnbrokers and scrap dealers"
+  },
+  {
+    "OrdinanceNumber": "112.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-3460",
+    "Category": "Business",
+    "Chapter": "Pawnbrokers and scrap dealers"
+  },
+  {
+    "OrdinanceNumber": "116.01",
+    "OrdinanceName": "Permit required",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-3569",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Vehicles for sale or hire"
+  },
+  {
+    "OrdinanceNumber": "116.15",
+    "OrdinanceName": "License required",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-3573",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Vehicles for sale or hire"
+  },
+  {
+    "OrdinanceNumber": "116.16",
+    "OrdinanceName": "Compliance with city and state requirements",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-3576",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Vehicles for sale or hire"
+  },
+  {
+    "OrdinanceNumber": "116.17",
+    "OrdinanceName": "Business regulations and requirements",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-3580",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Vehicles for sale or hire"
+  },
+  {
+    "OrdinanceNumber": "130.03",
+    "OrdinanceName": "Deadly weapons; flourishing or firing",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-4451",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses against municipal regulations"
+  },
+  {
+    "OrdinanceNumber": "132.02",
+    "OrdinanceName": "Unlawful false alarms; notice and duty to inspect, repair and initiate training after five preventable false alarms",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-4497",
+    "Category": "Business",
+    "Chapter": "Fire and/or police alarms"
+  },
+  {
+    "OrdinanceNumber": "132.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-4505",
+    "Category": "Business",
+    "Chapter": "Fire and/or police alarms"
+  },
+  {
+    "OrdinanceNumber": "133.02",
+    "OrdinanceName": "Age restrictions; purchasing, selling and the like",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-4524",
+    "Category": "Business",
+    "Chapter": "Fireworks"
+  },
+  {
+    "OrdinanceNumber": "133.03",
+    "OrdinanceName": "Sales restricted to retail only",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-4530",
+    "Category": "Business",
+    "Chapter": "Fireworks"
+  },
+  {
+    "OrdinanceNumber": "133.04",
+    "OrdinanceName": "Public fireworks display",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-4535",
+    "Category": "Business",
+    "Chapter": "Fireworks"
+  },
+  {
+    "OrdinanceNumber": "133.05",
+    "OrdinanceName": "Training",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-4538",
+    "Category": "Business",
+    "Chapter": "Fireworks"
+  },
+  {
+    "OrdinanceNumber": "133.06",
+    "OrdinanceName": "Days and hours for using consumer fireworks",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-4543",
+    "Category": "Business",
+    "Chapter": "Fireworks"
+  },
+  {
+    "OrdinanceNumber": "133.07",
+    "OrdinanceName": "Use of fireworks on city property",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-4546",
+    "Category": "Business",
+    "Chapter": "Fireworks"
+  },
+  {
+    "OrdinanceNumber": "133.08",
+    "OrdinanceName": "Seizure of fireworks",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-4549",
+    "Category": "Business",
+    "Chapter": "Fireworks"
+  },
+  {
+    "OrdinanceNumber": "133.09",
+    "OrdinanceName": "State law affirmed",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-4553",
+    "Category": "Business",
+    "Chapter": "Fireworks"
+  },
+  {
+    "OrdinanceNumber": "133.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/elizabethtownky/latest/elizabethtown_ky/0-0-0-4556",
+    "Category": "Business",
+    "Chapter": "Fireworks"
+  }
+]

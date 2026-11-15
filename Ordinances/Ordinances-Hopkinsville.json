@@ -1,0 +1,415 @@
+[
+  {
+    "OrdinanceNumber": "90.01",
+    "OrdinanceName": "Animals running at large",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-3781",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.04",
+    "OrdinanceName": "Keeping hogs in city",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-3794",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.05",
+    "OrdinanceName": "Keeping horses and cows in city",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-3796",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.16",
+    "OrdinanceName": "Dogs and cats running at large",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-3819",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.18",
+    "OrdinanceName": "Treatment of dogs and cats",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-3843",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.19",
+    "OrdinanceName": "Dog warden to take possession; entry on private property",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-3850",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.20",
+    "OrdinanceName": "Impounding",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-3855",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.26",
+    "OrdinanceName": "Restraining of vicious dogs; leash and muzzle",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-3884",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "130.12",
+    "OrdinanceName": "Firearms; deadly weapons",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-6753",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General Provisions"
+  },
+  {
+    "OrdinanceNumber": "96.03",
+    "OrdinanceName": "Noises prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-4420",
+    "Category": "Noise",
+    "Chapter": "Noise"
+  },
+  {
+    "OrdinanceNumber": "96.06",
+    "OrdinanceName": "Permit to exceed limits",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-4444",
+    "Category": "Noise",
+    "Chapter": "Noise"
+  },
+  {
+    "OrdinanceNumber": "99.10",
+    "OrdinanceName": "Obstruction of streets, sidewalks prohibited; exceptions",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-10697",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Streets and Sidewalks"
+  },
+  {
+    "OrdinanceNumber": "158.161",
+    "OrdinanceName": "Storage and parking of trailers and commercial vehicles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-13719",
+    "Category": "Parking",
+    "Chapter": "Zoning Code"
+  },
+  {
+    "OrdinanceNumber": "Ch. 97",
+    "OrdinanceName": "Parks, playgrounds and recreation areas",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-4457",
+    "Category": "Parks",
+    "Chapter": "Parks, Playgrounds and Recreation Areas"
+  },
+  {
+    "OrdinanceNumber": "90.02",
+    "OrdinanceName": "Domestic fowl running at large in city",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-3786",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.03",
+    "OrdinanceName": "Killing or molesting squirrels, birds or pets",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-3791",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.06",
+    "OrdinanceName": "Disposal of dead animals; enclosed vehicles for transporting",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-3799",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.21",
+    "OrdinanceName": "Interference with dog warden",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-3860",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.22",
+    "OrdinanceName": "Conflict of powers or authority",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-3863",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.23",
+    "OrdinanceName": "Pooper scooper law",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-3866",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.25",
+    "OrdinanceName": "Confinement of vicious dogs",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-3881",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-3887",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "95.02",
+    "OrdinanceName": "Leaving abandoned or junked vehicle prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-4379",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Junked or abandoned vehicles"
+  },
+  {
+    "OrdinanceNumber": "95.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-4388",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Junked or abandoned vehicles"
+  },
+  {
+    "OrdinanceNumber": "96.05",
+    "OrdinanceName": "Maximum permissible sound levels",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-4434",
+    "Category": "Noise",
+    "Chapter": "Noise"
+  },
+  {
+    "OrdinanceNumber": "96.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-4452",
+    "Category": "Noise",
+    "Chapter": "Noise"
+  },
+  {
+    "OrdinanceNumber": "97.02",
+    "OrdinanceName": "General regulations concerning park property",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-4470",
+    "Category": "Parks",
+    "Chapter": "Parks, playgrounds and recreation areas"
+  },
+  {
+    "OrdinanceNumber": "97.03",
+    "OrdinanceName": "Sanitation",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-4475",
+    "Category": "Parks",
+    "Chapter": "Parks, playgrounds and recreation areas"
+  },
+  {
+    "OrdinanceNumber": "97.04",
+    "OrdinanceName": "Motorized vehicles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-4482",
+    "Category": "Parks",
+    "Chapter": "Parks, playgrounds and recreation areas"
+  },
+  {
+    "OrdinanceNumber": "97.05",
+    "OrdinanceName": "Gasoline motor boats prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-4485",
+    "Category": "Parks",
+    "Chapter": "Parks, playgrounds and recreation areas"
+  },
+  {
+    "OrdinanceNumber": "97.06",
+    "OrdinanceName": "Closing times for parks and playgrounds in the city",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-4488",
+    "Category": "Parks",
+    "Chapter": "Parks, playgrounds and recreation areas"
+  },
+  {
+    "OrdinanceNumber": "101.02",
+    "OrdinanceName": "Storage of fireworks",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-17481",
+    "Category": "Business",
+    "Chapter": "Storage, sale and use of fireworks"
+  },
+  {
+    "OrdinanceNumber": "101.03",
+    "OrdinanceName": "Display fireworks",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-17488",
+    "Category": "Business",
+    "Chapter": "Storage, sale and use of fireworks"
+  },
+  {
+    "OrdinanceNumber": "101.04",
+    "OrdinanceName": "Sale and use of fireworks",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-17500",
+    "Category": "Business",
+    "Chapter": "Storage, sale and use of fireworks"
+  },
+  {
+    "OrdinanceNumber": "101.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-17547",
+    "Category": "Business",
+    "Chapter": "Storage, sale and use of fireworks"
+  },
+  {
+    "OrdinanceNumber": "111.02",
+    "OrdinanceName": "State law adopted",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-5690",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.05",
+    "OrdinanceName": "License required in compliance with state and local laws",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-5705",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.07",
+    "OrdinanceName": "License year",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-5725",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.09",
+    "OrdinanceName": "Civil suit to collect tax; no bar to other penalties",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-5731",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.10",
+    "OrdinanceName": "Prohibited hours of sale",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-5735",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.31",
+    "OrdinanceName": "Minor entering licensed premises; drive-in",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-5751",
+    "Category": "Minors",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.32",
+    "OrdinanceName": "Possession; purchase",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-5756",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.33",
+    "OrdinanceName": "Misrepresenting age",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-5761",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "111.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-5810",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverages"
+  },
+  {
+    "OrdinanceNumber": "114.03",
+    "OrdinanceName": "Registration requirements",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-5919",
+    "Category": "Business",
+    "Chapter": "Peddlers and itinerant merchants"
+  },
+  {
+    "OrdinanceNumber": "114.04",
+    "OrdinanceName": "Exemptions from registration",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-5941",
+    "Category": "Business",
+    "Chapter": "Peddlers and itinerant merchants"
+  },
+  {
+    "OrdinanceNumber": "114.05",
+    "OrdinanceName": "Deceptive soliciting practices prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-5947",
+    "Category": "Business",
+    "Chapter": "Peddlers and itinerant merchants"
+  },
+  {
+    "OrdinanceNumber": "114.06",
+    "OrdinanceName": "Revocation of permit",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-5951",
+    "Category": "Business",
+    "Chapter": "Peddlers and itinerant merchants"
+  },
+  {
+    "OrdinanceNumber": "114.08",
+    "OrdinanceName": "Residential \"No Soliciting\" notice",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-5963",
+    "Category": "Business",
+    "Chapter": "Peddlers and itinerant merchants"
+  },
+  {
+    "OrdinanceNumber": "114.09",
+    "OrdinanceName": "Time of day restrictions on soliciting",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-5967",
+    "Category": "Business",
+    "Chapter": "Peddlers and itinerant merchants"
+  },
+  {
+    "OrdinanceNumber": "114.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-5970",
+    "Category": "Business",
+    "Chapter": "Peddlers and itinerant merchants"
+  },
+  {
+    "OrdinanceNumber": "115.02",
+    "OrdinanceName": "Precious metals dealers permit",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-5998",
+    "Category": "Business",
+    "Chapter": "Precious metals and gems"
+  },
+  {
+    "OrdinanceNumber": "115.04",
+    "OrdinanceName": "Retention period for items containing precious metals",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-6028",
+    "Category": "Business",
+    "Chapter": "Precious metals and gems"
+  },
+  {
+    "OrdinanceNumber": "115.06",
+    "OrdinanceName": "Transactions with minors; transactions involving stolen goods",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-6035",
+    "Category": "Minors",
+    "Chapter": "Precious metals and gems"
+  },
+  {
+    "OrdinanceNumber": "115.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-6039",
+    "Category": "Business",
+    "Chapter": "Precious metals and gems"
+  },
+  {
+    "OrdinanceNumber": "117.01",
+    "OrdinanceName": "Pawnbroker defined",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-18674",
+    "Category": "Business",
+    "Chapter": "Pawnbrokers"
+  },
+  {
+    "OrdinanceNumber": "117.02",
+    "OrdinanceName": "Database register; entries to be made",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-18677",
+    "Category": "Business",
+    "Chapter": "Pawnbrokers"
+  },
+  {
+    "OrdinanceNumber": "117.03",
+    "OrdinanceName": "Items to be kept ten days; availability for inspection",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-18695",
+    "Category": "Business",
+    "Chapter": "Pawnbrokers"
+  },
+  {
+    "OrdinanceNumber": "117.99",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/hopkinsville/latest/hopkinsville_ky/0-0-0-18698",
+    "Category": "Business",
+    "Chapter": "Pawnbrokers"
+  }
+]

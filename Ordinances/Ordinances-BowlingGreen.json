@@ -1,0 +1,883 @@
+[
+  {
+    "OrdinanceNumber": "5-1.06",
+    "OrdinanceName": "Multiple animal permit; requirements; fees; regulations",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55574",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "5-1.07",
+    "OrdinanceName": "Poultry restrictions",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55626",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "5-1.15",
+    "OrdinanceName": "Vicious or dangerous animals",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55666",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "9-1.06",
+    "OrdinanceName": "Possession and consumption of alcoholic beverages prohibited in or on public property",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-56510",
+    "Category": "Alcohol",
+    "Chapter": "General Offenses"
+  },
+  {
+    "OrdinanceNumber": "9-1.07",
+    "OrdinanceName": "Reporting requirements for sale or exchange of certain jewelry, coins, precious stones and metals",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-56513",
+    "Category": "Business",
+    "Chapter": "General Offenses"
+  },
+  {
+    "OrdinanceNumber": "9-1.02",
+    "OrdinanceName": "Discharge of firearms unlawful",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-56497",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General Offenses"
+  },
+  {
+    "OrdinanceNumber": "9-1.03",
+    "OrdinanceName": "Discharge of slingshots, bow and arrow, air guns unlawful",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-56500",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General Offenses"
+  },
+  {
+    "OrdinanceNumber": "9-1.05",
+    "OrdinanceName": "Unlawful to post posters, pictures or signs",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-56506",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General Offenses"
+  },
+  {
+    "OrdinanceNumber": "9-4.02",
+    "OrdinanceName": "Aggressive solicitation prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-56613",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General Offenses"
+  },
+  {
+    "OrdinanceNumber": "15-5.04",
+    "OrdinanceName": "Sale and use of fireworks",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-70282",
+    "Category": "Miscellaneous Offenses"
+  },
+  {
+    "OrdinanceNumber": "9-3",
+    "OrdinanceName": "Noise",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-56548",
+    "Category": "Noise",
+    "Chapter": "General Offenses"
+  },
+  {
+    "OrdinanceNumber": "22-3.20",
+    "OrdinanceName": "Improper use of off-street parking facilities; exceptions",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59038",
+    "Category": "Parking",
+    "Chapter": "Traffic and Motor Vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-4.04",
+    "OrdinanceName": "Parking of certain vehicles prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59076",
+    "Category": "Parking",
+    "Chapter": "Traffic and Motor Vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-4.06",
+    "OrdinanceName": "Parking by permit; city-owned parking lots",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59090",
+    "Category": "Parking",
+    "Chapter": "Traffic and Motor Vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-4.07",
+    "OrdinanceName": "Freight or passenger loading zones",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59095",
+    "Category": "Parking",
+    "Chapter": "Traffic and Motor Vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-4.09",
+    "OrdinanceName": "Parking during emergencies",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59104",
+    "Category": "Parking",
+    "Chapter": "Traffic and Motor Vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-1.02",
+    "OrdinanceName": "Unlawful riding or boarding of vehicle",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-58939",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and Motor Vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-3.14",
+    "OrdinanceName": "Commercial vehicles prohibited from using certain streets",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59019",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and Motor Vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-3.19",
+    "OrdinanceName": "Driving over sidewalks",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59035",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and Motor Vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-10",
+    "OrdinanceName": "Operation of golf carts on city streets",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59302",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and Motor Vehicles"
+  },
+  {
+    "OrdinanceNumber": "4-2.02",
+    "OrdinanceName": "Investigators, Inspection of Premises",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55281",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "4-3.01",
+    "OrdinanceName": "Regulations Pursuant to Alcoholic Beverage Control Act",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55291",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "4-4.01",
+    "OrdinanceName": "State Law References",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55315",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "4-5.02",
+    "OrdinanceName": "More Than One Classification on Any Location",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55363",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "4-5.03",
+    "OrdinanceName": "Duration",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55366",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "4-5.06",
+    "OrdinanceName": "Location of Business Restricted",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55375",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "4-6",
+    "OrdinanceName": "Hours of sale",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55381",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "4-6.01",
+    "OrdinanceName": "Quota Retail Package Sales",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55382",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "4-6.02",
+    "OrdinanceName": "Retail Sale of Distilled Spirits and Wine by the Drink for Consumption on Licensed Premises",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55385",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "4-6.03",
+    "OrdinanceName": "Retail Sale of Malted Beverages",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55388",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "4-6.04",
+    "OrdinanceName": "Retail Sale of Distilled Spirits and Wine by the Drink for Consumption on Licensed Premises on Sunday",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55392",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "4-6.05",
+    "OrdinanceName": "Other Retail Sales on Licensed Premises",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55395",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "4-6.06",
+    "OrdinanceName": "Control of Licensed Premises During Closing Hours",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55398",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "4-7",
+    "OrdinanceName": "Prohibitions, restrictions and regulations",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55404",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "4-8",
+    "OrdinanceName": "Additional local regulations",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55407",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "4-8.01",
+    "OrdinanceName": "Exception for Restaurant Hours of Sale, Requirements",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55408",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "4-8.02",
+    "OrdinanceName": "Violation, Penalty, Confiscation",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55411",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "4-8.03",
+    "OrdinanceName": "Entertainment Activity",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55414",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "4-8.04",
+    "OrdinanceName": "Persons Under Age Twenty-One (21) Not Allowed on Licensed Premises",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55433",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "4-8.05",
+    "OrdinanceName": "Unlawful for Persons Under Twenty-One (21) Years of Age to Possess or Consume Alcohol on Licensed Premises",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55442",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "4-8.07",
+    "OrdinanceName": "Keg Registration",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55456",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "4-8.08",
+    "OrdinanceName": "Mandatory Server Training",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55471",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "4-9",
+    "OrdinanceName": "Special temporary licenses",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55479",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "4-10",
+    "OrdinanceName": "Entertainment destination center",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55482",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "4-10.01",
+    "OrdinanceName": "Geographic Boundaries",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55484",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic beverage control"
+  },
+  {
+    "OrdinanceNumber": "5-1",
+    "OrdinanceName": "Animal control and protection",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55515",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "5-1.02",
+    "OrdinanceName": "License Required",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55561",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "5-1.03",
+    "OrdinanceName": "Registration; Tag Required",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55564",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "5-1.04",
+    "OrdinanceName": "Anti-Rabies Vaccination Required",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55567",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "5-1.08",
+    "OrdinanceName": "Animal Nuisances Prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55629",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "5-1.09",
+    "OrdinanceName": "Confinement",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55642",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "5-1.10",
+    "OrdinanceName": "Removal of Animal Waste",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55647",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "5-1.11",
+    "OrdinanceName": "Biting Prohibited; Reporting Required",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55650",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "5-1.12",
+    "OrdinanceName": "Animal Carcasses",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55655",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "5-1.13",
+    "OrdinanceName": "Impounding of Nuisance Animals",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55659",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "5-1.14",
+    "OrdinanceName": "Disposal or Adoption of Animals",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55663",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "5-1.16",
+    "OrdinanceName": "Exotic or Wild Animals",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55670",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "5-1.17",
+    "OrdinanceName": "Care of Animals",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55674",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "5-2",
+    "OrdinanceName": "Livestock",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55679",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "5-2.01",
+    "OrdinanceName": "Restrictions; Confinement of Livestock",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55680",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "5-2.03",
+    "OrdinanceName": "Annexed Territory",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55690",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "5-3.02",
+    "OrdinanceName": "Notice of Violation or Citation",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55698",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "5-4",
+    "OrdinanceName": "Penalties",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55702",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "5-4.01",
+    "OrdinanceName": "Civil Penalties, Fine Schedule",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-55703",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "9-1",
+    "OrdinanceName": "Miscellaneous offenses",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-56494",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General offenses"
+  },
+  {
+    "OrdinanceNumber": "9-1.01",
+    "OrdinanceName": "Gambling in Public Places Unlawful",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-56495",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General offenses"
+  },
+  {
+    "OrdinanceNumber": "9-1.04",
+    "OrdinanceName": "Defacing Sidewalks and Public Property Unlawful",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-56503",
+    "Category": "Criminal Mischief",
+    "Chapter": "General offenses"
+  },
+  {
+    "OrdinanceNumber": "9-1.08",
+    "OrdinanceName": "Obstructive Congregation Prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-56519",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General offenses"
+  },
+  {
+    "OrdinanceNumber": "9-1.09",
+    "OrdinanceName": "Concealment of Identity Prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-56522",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General offenses"
+  },
+  {
+    "OrdinanceNumber": "9-2",
+    "OrdinanceName": "Obscene material",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-56530",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General offenses"
+  },
+  {
+    "OrdinanceNumber": "9-2.03",
+    "OrdinanceName": "Prohibitions",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-56545",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General offenses"
+  },
+  {
+    "OrdinanceNumber": "9-3.03",
+    "OrdinanceName": "Unlawful Conduct",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-56564",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General offenses"
+  },
+  {
+    "OrdinanceNumber": "9-3.05",
+    "OrdinanceName": "Special Variance",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-56576",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General offenses"
+  },
+  {
+    "OrdinanceNumber": "9-4",
+    "OrdinanceName": "Public panhandling, begging, charitable and political solicitation regulated",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-56583",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General offenses"
+  },
+  {
+    "OrdinanceNumber": "9-4.03",
+    "OrdinanceName": "Passive Solicitation Regulated",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-56616",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General offenses"
+  },
+  {
+    "OrdinanceNumber": "9-5",
+    "OrdinanceName": "Penalties",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-56620",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "General offenses"
+  },
+  {
+    "OrdinanceNumber": "22-1.01",
+    "OrdinanceName": "Effect of Code on Existing Regulations",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-58936",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-1.03",
+    "OrdinanceName": "Street Obstructions Prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-58942",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-3",
+    "OrdinanceName": "Traffic control and operations",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-58973",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-3.02",
+    "OrdinanceName": "Obedience to Traffic Control Devices Required; Exceptions",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-58978",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-3.03",
+    "OrdinanceName": "Driving to Avoid Traffic Signals",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-58981",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-3.05",
+    "OrdinanceName": "Rebuttable Presumption that Traffic Control Devices are Legally Placed",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-58987",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-3.13",
+    "OrdinanceName": "Load Restrictions Upon Vehicles Using Certain Streets",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59016",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-3.15",
+    "OrdinanceName": "Size Restrictions Upon Vehicles Using Certain Streets",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59022",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-3.16",
+    "OrdinanceName": "Restrictions Upon Use of Streets by Certain Vehicles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59025",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-3.17",
+    "OrdinanceName": "Loading of Passengers; Obstruction of Crossing",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59029",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-3.18",
+    "OrdinanceName": "Obstruction Intersection, Crosswalk",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59032",
+    "Category": "Traffic (Pedestrians)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-4",
+    "OrdinanceName": "Stopping, standing and parking vehicles on city- controlled property",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59047",
+    "Category": "Parking",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-4.02",
+    "OrdinanceName": "Authorization",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59052",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-4.03",
+    "OrdinanceName": "General Prohibitions",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59055",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-4.10",
+    "OrdinanceName": "Separate Offenses",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59108",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-4.11",
+    "OrdinanceName": "Vicarious Responsibility",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59111",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-5",
+    "OrdinanceName": "Special events",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59115",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-5.01",
+    "OrdinanceName": "Permit Required; Exceptions",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59116",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-5.06",
+    "OrdinanceName": "Additional Requirements",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59142",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-5.08",
+    "OrdinanceName": "Revocation of Permit",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59148",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-5.10",
+    "OrdinanceName": "Public Conduct During Special Events",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59155",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-5.13",
+    "OrdinanceName": "Notices",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59171",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-5.14",
+    "OrdinanceName": "Sanitation and Clean-up",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59174",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-5.15",
+    "OrdinanceName": "Enforcing Office, Powers and Duties",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59177",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-6.02",
+    "OrdinanceName": "Notice of Parking Violations",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59184",
+    "Category": "Parking",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-6.03",
+    "OrdinanceName": "Penalties",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59198",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-6.05",
+    "OrdinanceName": "Authorizing Towing or Impoundment of Vehicle Without Notice",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59209",
+    "Category": "Tow Truck",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-6.06",
+    "OrdinanceName": "Redemption of Impounded or Towed Vehicles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59217",
+    "Category": "Tow Truck",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-7",
+    "OrdinanceName": "Pedestrians",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59228",
+    "Category": "Traffic (Pedestrians)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-7.02",
+    "OrdinanceName": "Use of Coasters, Roller Skates and Similar Devices Restricted",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59240",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-8",
+    "OrdinanceName": "Bicycles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59243",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-8.01",
+    "OrdinanceName": "Penalties and Regulation",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59244",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-8.02",
+    "OrdinanceName": "Traffic Laws Apply to Persons Riding Bicycles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59249",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-8.03",
+    "OrdinanceName": "Obedience to Traffic Control Devices",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59252",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-8.04",
+    "OrdinanceName": "Riding on Bicycles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59256",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-8.05",
+    "OrdinanceName": "Riding on Roadways and Bicycle Paths",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59260",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-8.06",
+    "OrdinanceName": "Emerging from Alley or Driveway",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59265",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-8.07",
+    "OrdinanceName": "Carrying Articles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59268",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-8.08",
+    "OrdinanceName": "Parking",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59271",
+    "Category": "Parking",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-8.09",
+    "OrdinanceName": "Riding on Sidewalks",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59274",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-8.10",
+    "OrdinanceName": "Lamps and Other Equipment on Bicycles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59277",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-9",
+    "OrdinanceName": "Temporary display of motor vehicles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59281",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-9.02",
+    "OrdinanceName": "Requirements for Temporary Display",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59287",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-9.03",
+    "OrdinanceName": "Temporary Display; Posting Permit",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59293",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-9.05",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59299",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-10.02",
+    "OrdinanceName": "Operation of Golf Carts",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59308",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-10.03",
+    "OrdinanceName": "Exemptions from Certain Regulations",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59318",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-11",
+    "OrdinanceName": "Operation of commercial parcecl delivery low-speed vehicles on city roadways",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59321",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-11.02",
+    "OrdinanceName": "Operations of Commercial Delivery Personnel",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59325",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  },
+  {
+    "OrdinanceNumber": "22-12.01",
+    "OrdinanceName": "Penalty",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/bowlinggreen/latest/bowlinggreen_ky/0-0-0-59334",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic and motor vehicles"
+  }
+]
