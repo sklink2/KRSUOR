@@ -1,0 +1,639 @@
+[
+  {
+    "OrdinanceNumber": "70.10",
+    "OrdinanceName": "Through truck traffic on Winters Lane restricted",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8766",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules"
+  },
+  {
+    "OrdinanceNumber": "70.11",
+    "OrdinanceName": "Jake braking prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8769",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules"
+  },
+  {
+    "OrdinanceNumber": "70.21",
+    "OrdinanceName": "Driving vehicles upon designated play streets",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8776",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules"
+  },
+  {
+    "OrdinanceNumber": "70.22",
+    "OrdinanceName": "State speed laws applicable; local speed restrictions",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8779",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules"
+  },
+  {
+    "OrdinanceNumber": "70.23",
+    "OrdinanceName": "Failure to stop at stop sign",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8783",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules"
+  },
+  {
+    "OrdinanceNumber": "70.35",
+    "OrdinanceName": "Failure to obey traffic signals",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8787",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules"
+  },
+  {
+    "OrdinanceNumber": "70.36",
+    "OrdinanceName": "Unauthorized traffic signs and signals",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8790",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules"
+  },
+  {
+    "OrdinanceNumber": "70.37",
+    "OrdinanceName": "Interference with traffic signs and signals",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8793",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules"
+  },
+  {
+    "OrdinanceNumber": "70.38",
+    "OrdinanceName": "Traffic control devices; parking and fire lanes",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8796",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules"
+  },
+  {
+    "OrdinanceNumber": "70.45",
+    "OrdinanceName": "Funeral procession traffic rules",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8801",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules"
+  },
+  {
+    "OrdinanceNumber": "71.01",
+    "OrdinanceName": "Improper manner of parking",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8858",
+    "Category": "Parking",
+    "Chapter": "Parking Regulations"
+  },
+  {
+    "OrdinanceNumber": "71.02",
+    "OrdinanceName": "Stopping, standing or parking in prohibited locations",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8861",
+    "Category": "Parking",
+    "Chapter": "Parking Regulations"
+  },
+  {
+    "OrdinanceNumber": "71.02(A)",
+    "OrdinanceName": "Parking on sidewalk",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8861",
+    "Category": "Parking",
+    "Chapter": "Parking Regulations"
+  },
+  {
+    "OrdinanceNumber": "71.02(B)",
+    "OrdinanceName": "Parking in front of driveway",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8861",
+    "Category": "Parking",
+    "Chapter": "Parking Regulations"
+  },
+  {
+    "OrdinanceNumber": "71.02(D)",
+    "OrdinanceName": "Parking near fire hydrant",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8861",
+    "Category": "Parking",
+    "Chapter": "Parking Regulations"
+  },
+  {
+    "OrdinanceNumber": "71.02(E)",
+    "OrdinanceName": "Parking on crosswalk",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8861",
+    "Category": "Parking",
+    "Chapter": "Parking Regulations"
+  },
+  {
+    "OrdinanceNumber": "71.02(G)",
+    "OrdinanceName": "Parking too close to traffic signal or stop sign",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8861",
+    "Category": "Parking",
+    "Chapter": "Parking Regulations"
+  },
+  {
+    "OrdinanceNumber": "71.02(I)",
+    "OrdinanceName": "Parking where official signs prohibit it",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8861",
+    "Category": "Parking",
+    "Chapter": "Parking Regulations"
+  },
+  {
+    "OrdinanceNumber": "71.04",
+    "OrdinanceName": "Parking for purposes of washing or repairing vehicles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8876",
+    "Category": "Parking",
+    "Chapter": "Parking Regulations"
+  },
+  {
+    "OrdinanceNumber": "71.05",
+    "OrdinanceName": "Parking in designated fire lane",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8883",
+    "Category": "Parking",
+    "Chapter": "Parking Regulations"
+  },
+  {
+    "OrdinanceNumber": "71.16",
+    "OrdinanceName": "Parking prohibited during snow accumulation or snow emergency",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8892",
+    "Category": "Parking",
+    "Chapter": "Parking Regulations"
+  },
+  {
+    "OrdinanceNumber": "71.31",
+    "OrdinanceName": "Failure to comply with notice on illegally parked vehicle",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8913",
+    "Category": "Parking",
+    "Chapter": "Parking Regulations"
+  },
+  {
+    "OrdinanceNumber": "72.01",
+    "OrdinanceName": "Traffic laws apply to bicycles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8953",
+    "Category": "Bicycles",
+    "Chapter": "Bicycles"
+  },
+  {
+    "OrdinanceNumber": "72.02",
+    "OrdinanceName": "Improper bicycle operation",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8956",
+    "Category": "Bicycles",
+    "Chapter": "Bicycles"
+  },
+  {
+    "OrdinanceNumber": "72.04",
+    "OrdinanceName": "Clinging to moving vehicles while riding a bicycle",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8962",
+    "Category": "Bicycles",
+    "Chapter": "Bicycles"
+  },
+  {
+    "OrdinanceNumber": "72.09",
+    "OrdinanceName": "Bicycle riding on sidewalks",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8971",
+    "Category": "Bicycles",
+    "Chapter": "Bicycles"
+  },
+  {
+    "OrdinanceNumber": "72.10",
+    "OrdinanceName": "Bicycle emerging from driveway",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8974",
+    "Category": "Bicycles",
+    "Chapter": "Bicycles"
+  },
+  {
+    "OrdinanceNumber": "72.11",
+    "OrdinanceName": "Bicycle brakes required",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-8977",
+    "Category": "Bicycles",
+    "Chapter": "Bicycles"
+  },
+  {
+    "OrdinanceNumber": "90.02",
+    "OrdinanceName": "Animals running at large",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9040",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.03",
+    "OrdinanceName": "Cruelty to animals in the second degree",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9044",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.04",
+    "OrdinanceName": "Dyeing or selling dyed chicks or rabbits",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9063",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.05",
+    "OrdinanceName": "Abandoning domestic animals prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9066",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.07",
+    "OrdinanceName": "Failure to clean up animal excrement",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9076",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.08",
+    "OrdinanceName": "Additional fine for unaltered dog or cat running at large",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-10700",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.21",
+    "OrdinanceName": "Dog or cat running at large",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9086",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.22",
+    "OrdinanceName": "Failure to confine vicious dog or cat",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9089",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.24",
+    "OrdinanceName": "Animal related nuisance",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9095",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.24(A)",
+    "OrdinanceName": "Animal molesting pedestrians or passing vehicles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9095",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.24(B)",
+    "OrdinanceName": "Animal attacking or chasing people or other animals",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9095",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.24(C)",
+    "OrdinanceName": "Animal damaging property or excrement not removed",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9095",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.24(D)",
+    "OrdinanceName": "Excessive or continuous animal noise; barking",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9095",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "90.24(E)",
+    "OrdinanceName": "Animal odors or unsanitary keeping conditions",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9095",
+    "Category": "Animals",
+    "Chapter": "Animals"
+  },
+  {
+    "OrdinanceNumber": "91.30",
+    "OrdinanceName": "Unloading on street or sidewalk",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9209",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Streets and Sidewalks"
+  },
+  {
+    "OrdinanceNumber": "91.31",
+    "OrdinanceName": "Obstruction of street or sidewalk",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9212",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Streets and Sidewalks"
+  },
+  {
+    "OrdinanceNumber": "91.32",
+    "OrdinanceName": "Materials on street or sidewalk",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9215",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Streets and Sidewalks"
+  },
+  {
+    "OrdinanceNumber": "91.33",
+    "OrdinanceName": "Failure to remove ice or snow from sidewalk",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9220",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Streets and Sidewalks"
+  },
+  {
+    "OrdinanceNumber": "91.34",
+    "OrdinanceName": "Signs placed in public right-of-way",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9223",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Streets and Sidewalks"
+  },
+  {
+    "OrdinanceNumber": "91.50",
+    "OrdinanceName": "Depositing dirt, litter or debris on city streets",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9230",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Streets and Sidewalks"
+  },
+  {
+    "OrdinanceNumber": "91.81",
+    "OrdinanceName": "Failure to visibly display building address number",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9274",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Streets and Sidewalks"
+  },
+  {
+    "OrdinanceNumber": "92.02",
+    "OrdinanceName": "Common law and statutory nuisances",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9405",
+    "Category": "Housing",
+    "Chapter": "Nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.03",
+    "OrdinanceName": "Prohibited public nuisance conditions",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9408",
+    "Category": "Housing",
+    "Chapter": "Nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.03(A)",
+    "OrdinanceName": "Dangerous trees or objects adjoining public streets",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9408",
+    "Category": "Housing",
+    "Chapter": "Nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.03(B)",
+    "OrdinanceName": "Accumulated rubbish, garbage or trash nuisance",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9408",
+    "Category": "Housing",
+    "Chapter": "Nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.03(C)",
+    "OrdinanceName": "Hazardous storage of explosive materials",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9408",
+    "Category": "Housing",
+    "Chapter": "Nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.03(D)",
+    "OrdinanceName": "Excessive weeds or grass (12 inches or more)",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9408",
+    "Category": "Housing",
+    "Chapter": "Nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.03(E)",
+    "OrdinanceName": "Open or unsecured well, pit or excavation",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9408",
+    "Category": "Housing",
+    "Chapter": "Nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.03(F)",
+    "OrdinanceName": "Trees or shrubs obstructing sidewalks or drainage",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9408",
+    "Category": "Housing",
+    "Chapter": "Nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.03(G)",
+    "OrdinanceName": "Unsanitary animal enclosure or offensive odors",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9408",
+    "Category": "Housing",
+    "Chapter": "Nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.03(H)",
+    "OrdinanceName": "Inoperative vehicles, automobile parts or scrap metal nuisance",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9408",
+    "Category": "Housing",
+    "Chapter": "Nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.03(I)",
+    "OrdinanceName": "Noise nuisance between 10:30 p.m. and 7:00 a.m.",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9408",
+    "Category": "Housing",
+    "Chapter": "Nuisances"
+  },
+  {
+    "OrdinanceNumber": "92.03(J)",
+    "OrdinanceName": "Temporary storage unit exceeding permitted duration",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9408",
+    "Category": "Housing",
+    "Chapter": "Nuisances"
+  },
+  {
+    "OrdinanceNumber": "93.02",
+    "OrdinanceName": "Unlawful possession, sale or use of display fireworks",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-10751",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Fireworks; Fire Prevention"
+  },
+  {
+    "OrdinanceNumber": "93.20",
+    "OrdinanceName": "Blasting permit requirements",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9544",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Fireworks; Fire Prevention"
+  },
+  {
+    "OrdinanceNumber": "93.21",
+    "OrdinanceName": "Storage of flammable materials",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9547",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Fireworks; Fire Prevention"
+  },
+  {
+    "OrdinanceNumber": "93.30",
+    "OrdinanceName": "Smoke detectors required",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9553",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Fireworks; Fire Prevention"
+  },
+  {
+    "OrdinanceNumber": "94.01",
+    "OrdinanceName": "Throwing litter from vehicle",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9589",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Littering"
+  },
+  {
+    "OrdinanceNumber": "94.02",
+    "OrdinanceName": "Litter on private property",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9592",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Littering"
+  },
+  {
+    "OrdinanceNumber": "95.02",
+    "OrdinanceName": "Abandonment of vehicles prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9616",
+    "Category": "Tow Truck",
+    "Chapter": "Abandoned Vehicles"
+  },
+  {
+    "OrdinanceNumber": "95.03",
+    "OrdinanceName": "Leaving wrecked vehicle on street prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9619",
+    "Category": "Tow Truck",
+    "Chapter": "Abandoned Vehicles"
+  },
+  {
+    "OrdinanceNumber": "95.04",
+    "OrdinanceName": "Repair work on public streets or easements",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9622",
+    "Category": "Tow Truck",
+    "Chapter": "Abandoned Vehicles"
+  },
+  {
+    "OrdinanceNumber": "95.07",
+    "OrdinanceName": "Removal of vehicles by police department",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9634",
+    "Category": "Tow Truck",
+    "Chapter": "Abandoned Vehicles"
+  },
+  {
+    "OrdinanceNumber": "97.01",
+    "OrdinanceName": "Erroneous activation of security alarm prohibited",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9696",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Security Alarms"
+  },
+  {
+    "OrdinanceNumber": "99.01",
+    "OrdinanceName": "City parks hours of operation",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9850",
+    "Category": "Parks",
+    "Chapter": "Parks, Recreation and Playgrounds"
+  },
+  {
+    "OrdinanceNumber": "99.02",
+    "OrdinanceName": "Robert J. Barth Park rules",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-12326",
+    "Category": "Parks",
+    "Chapter": "Parks, Recreation and Playgrounds"
+  },
+  {
+    "OrdinanceNumber": "99.02(A)",
+    "OrdinanceName": "Boating prohibited in Robert J. Barth Park",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-12326",
+    "Category": "Parks",
+    "Chapter": "Parks, Recreation and Playgrounds"
+  },
+  {
+    "OrdinanceNumber": "99.02(B)",
+    "OrdinanceName": "Motorized vehicles prohibited in Robert J. Barth Park (ADA exception)",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-12326",
+    "Category": "Parks",
+    "Chapter": "Parks, Recreation and Playgrounds"
+  },
+  {
+    "OrdinanceNumber": "99.02(C)",
+    "OrdinanceName": "Glass containers prohibited in Robert J. Barth Park",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-12326",
+    "Category": "Parks",
+    "Chapter": "Parks, Recreation and Playgrounds"
+  },
+  {
+    "OrdinanceNumber": "99.02(E)",
+    "OrdinanceName": "Swimming prohibited in Robert J. Barth Park",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-12326",
+    "Category": "Parks",
+    "Chapter": "Parks, Recreation and Playgrounds"
+  },
+  {
+    "OrdinanceNumber": "99.02(F)",
+    "OrdinanceName": "Alcoholic beverages prohibited in Robert J. Barth Park",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-12326",
+    "Category": "Parks",
+    "Chapter": "Parks, Recreation and Playgrounds"
+  },
+  {
+    "OrdinanceNumber": "100.01",
+    "OrdinanceName": "Tobacco use prohibited in city-owned buildings or vehicles",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9861",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Tobacco Use"
+  },
+  {
+    "OrdinanceNumber": "111.02",
+    "OrdinanceName": "Peddling or soliciting without city license",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-9994",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Peddlers, Itinerant Merchants and Solicitors"
+  },
+  {
+    "OrdinanceNumber": "111.08",
+    "OrdinanceName": "Failure to display or carry required solicitation license",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-10049",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Peddlers, Itinerant Merchants and Solicitors"
+  },
+  {
+    "OrdinanceNumber": "111.09",
+    "OrdinanceName": "House-to-house soliciting regulations",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-10056",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Peddlers, Itinerant Merchants and Solicitors"
+  },
+  {
+    "OrdinanceNumber": "111.16",
+    "OrdinanceName": "Soliciting residence on city zero-knock list",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-10070",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Peddlers, Itinerant Merchants and Solicitors"
+  },
+  {
+    "OrdinanceNumber": "113.15",
+    "OrdinanceName": "Alcoholic beverage business license required",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-10161",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic Beverages"
+  },
+  {
+    "OrdinanceNumber": "113.21",
+    "OrdinanceName": "Posting of alcoholic beverage license",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-10205",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic Beverages"
+  },
+  {
+    "OrdinanceNumber": "113.26",
+    "OrdinanceName": "Alcohol licensee responsible for business management",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-10228",
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic Beverages"
+  },
+  {
+    "OrdinanceNumber": "130.01",
+    "OrdinanceName": "Juvenile curfew; minors and parental responsibility",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-10346",
+    "Category": "Minors",
+    "Chapter": "Offenses Against Municipal Regulations"
+  },
+  {
+    "OrdinanceNumber": "130.02",
+    "OrdinanceName": "Discharging firearms within city limits",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-10381",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses Against Municipal Regulations"
+  },
+  {
+    "OrdinanceNumber": "130.03",
+    "OrdinanceName": "Unauthorized drug paraphernalia; injection instruments",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-10385",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses Against Municipal Regulations"
+  },
+  {
+    "OrdinanceNumber": "130.04",
+    "OrdinanceName": "Nudity in public places",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/coldspring/latest/coldspring_ky/0-0-0-10390",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Offenses Against Municipal Regulations"
+  }
+]
