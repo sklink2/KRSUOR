@@ -1,0 +1,93 @@
+[
+  {
+    "OrdinanceNumber": "Traffic",
+    "OrdinanceName": "Traffic code",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/lagrangeky/latest/lagrange_ky/0-0-0-2140",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic"
+  },
+  {
+    "OrdinanceNumber": "Parking",
+    "OrdinanceName": "Parking regulations",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/lagrangeky/latest/lagrange_ky/0-0-0-2444",
+    "Category": "Parking",
+    "Chapter": "Parking"
+  },
+  {
+    "OrdinanceNumber": "Bicycles, Motorcycles, Mopeds",
+    "OrdinanceName": "Bicycles, motorcycles, and mopeds",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/lagrangeky/latest/lagrange_ky/0-0-0-2628",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Bicycles, Motorcycles, Mopeds"
+  },
+  {
+    "OrdinanceNumber": "Golf Carts",
+    "OrdinanceName": "Golf carts on city streets",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/lagrangeky/latest/lagrange_ky/0-0-0-2681",
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Golf Carts"
+  },
+  {
+    "OrdinanceNumber": "Curfew",
+    "OrdinanceName": "Curfew for minors",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/lagrangeky/latest/lagrange_ky/0-0-0-4617",
+    "Category": "Minors",
+    "Chapter": "Curfew"
+  },
+  {
+    "OrdinanceNumber": "Alcohol Beverage Control",
+    "OrdinanceName": "Alcoholic beverage control",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/lagrangeky/latest/lagrange_ky/0-0-0-4148",
+    "Category": "Alcohol",
+    "Chapter": "Alcohol Beverage Control"
+  },
+  {
+    "OrdinanceNumber": "Nuisances",
+    "OrdinanceName": "Nuisances (including noise)",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/lagrangeky/latest/lagrange_ky/0-0-0-2971",
+    "Category": "Noise",
+    "Chapter": "Nuisances"
+  },
+  {
+    "OrdinanceNumber": "Fireworks",
+    "OrdinanceName": "Fireworks",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/lagrangeky/latest/lagrange_ky/0-0-0-3072",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Fireworks"
+  },
+  {
+    "OrdinanceNumber": "Littering",
+    "OrdinanceName": "Littering",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/lagrangeky/latest/lagrange_ky/0-0-0-3196",
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Littering"
+  },
+  {
+    "OrdinanceNumber": "Public Parks",
+    "OrdinanceName": "Public parks",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/lagrangeky/latest/lagrange_ky/0-0-0-3455",
+    "Category": "Parks",
+    "Chapter": "Public Parks"
+  },
+  {
+    "OrdinanceNumber": "Charitable Solicitation",
+    "OrdinanceName": "Charitable solicitation",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/lagrangeky/latest/lagrange_ky/0-0-0-3989",
+    "Category": "Business",
+    "Chapter": "Charitable Solicitation"
+  },
+  {
+    "OrdinanceNumber": "Alarm Registration",
+    "OrdinanceName": "Residential and commercial alarm registration",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/lagrangeky/latest/lagrange_ky/0-0-0-3247",
+    "Category": "Business",
+    "Chapter": "Alarm Registration"
+  },
+  {
+    "OrdinanceNumber": "Code of Ordinances",
+    "OrdinanceName": "Full LaGrange Code of Ordinances",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/lagrangeky/latest/lagrange_ky/0-0-0-1",
+    "Category": "General",
+    "Chapter": "Code of Ordinances"
+  }
+]
