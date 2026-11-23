@@ -430,6 +430,46 @@
         }
       ]
     },
+{
+      "name": "Lagrange",
+      "websites": [
+        {
+          "name": "Power Outage Map",
+          "symbol": "bolt",
+          "url": ""
+        },
+        {
+          "name": "Pill Identifier Link",
+          "symbol": "pills",
+          "url": "https://www.drugs.com/imprints.php"
+        },
+        {
+          "name": "City Ordinances",
+          "symbol": "books.vertical",
+          "url": "https://www.lagrangepoliceky.org/city-ordinances"
+        },
+        {
+          "name": "Jail Website",
+          "symbol": "lock",
+          "url": "http://oldhamcountyjail.com"
+        },
+        {
+          "name": "CourtNet",
+          "symbol": "folder.badge.person.crop",
+          "url": "https://kcoj.kycourts.net/kyecourts/Login"
+        },
+        {
+          "name": "EWarrants",
+          "symbol": "w.square",
+          "url": "https://ewarrants.ky.gov/Public/Login.aspx?ReturnUrl=%2f"
+        },
+        {
+          "name": "City Website",
+          "symbol": "building.2.fill",
+          "url": "https://www.lagrangepoliceky.org"
+        }
+      ]
+    },
     {
       "name": "London",
       "websites": [
