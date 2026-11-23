@@ -436,7 +436,7 @@
         {
           "name": "Power Outage Map",
           "symbol": "bolt",
-          "url": ""
+          "url": "https://stormcenter.lge-ku.com"
         },
         {
           "name": "Pill Identifier Link",
