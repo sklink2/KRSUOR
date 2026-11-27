@@ -1,0 +1,968 @@
+[
+  {
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "General Provisions",
+    "OrdinanceName": "Required obedience to traffic directions",
+    "OrdinanceNumber": "70.02",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-2880"
+  },
+  {
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "General Provisions",
+    "OrdinanceName": "Obedience to signals",
+    "OrdinanceNumber": "70.17",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-2913"
+  },
+  {
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "General Provisions",
+    "OrdinanceName": "Interference with signals",
+    "OrdinanceNumber": "70.18",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-2918"
+  },
+  {
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "General Provisions",
+    "OrdinanceName": "Unauthorized signals or markings",
+    "OrdinanceNumber": "70.19",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-2921"
+  },
+  {
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules",
+    "OrdinanceName": "Obstructing traffic",
+    "OrdinanceNumber": "71.01",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-2964"
+  },
+  {
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules",
+    "OrdinanceName": "Reverse or U-turns",
+    "OrdinanceNumber": "71.02",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-2969"
+  },
+  {
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules",
+    "OrdinanceName": "Backing vehicles",
+    "OrdinanceNumber": "71.03",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-2972"
+  },
+  {
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules",
+    "OrdinanceName": "Vehicles crossing sidewalks",
+    "OrdinanceNumber": "71.04",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-2975"
+  },
+  {
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules",
+    "OrdinanceName": "Speed limit for locomotives",
+    "OrdinanceNumber": "71.05",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-2980"
+  },
+  {
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules",
+    "OrdinanceName": "Duty of operator after accident",
+    "OrdinanceNumber": "71.15",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-2984"
+  },
+  {
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules",
+    "OrdinanceName": "Accident report",
+    "OrdinanceNumber": "71.16",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-2989"
+  },
+  {
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules",
+    "OrdinanceName": "Injury to street by vehicles",
+    "OrdinanceNumber": "71.25",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-2993"
+  },
+  {
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules",
+    "OrdinanceName": "Following emergency vehicles; driving over fire hose",
+    "OrdinanceNumber": "71.26",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-2996"
+  },
+  {
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules",
+    "OrdinanceName": "Smoke emission",
+    "OrdinanceNumber": "71.27",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3001"
+  },
+  {
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules",
+    "OrdinanceName": "Excessive tinting of windshields",
+    "OrdinanceNumber": "71.28",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3004"
+  },
+  {
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules",
+    "OrdinanceName": "Funeral processions",
+    "OrdinanceNumber": "71.30",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3010"
+  },
+  {
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules",
+    "OrdinanceName": "Parade permit required",
+    "OrdinanceNumber": "71.41",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3034"
+  },
+  {
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules",
+    "OrdinanceName": "Duties of permittee",
+    "OrdinanceNumber": "71.49",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3096"
+  },
+  {
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Traffic Rules",
+    "OrdinanceName": "Public conduct during parades",
+    "OrdinanceNumber": "71.50",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3099"
+  },
+  {
+    "Category": "Parking",
+    "Chapter": "Parking Regulations",
+    "OrdinanceName": "Obstructional parking; double parking",
+    "OrdinanceNumber": "72.01",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3156"
+  },
+  {
+    "Category": "Parking",
+    "Chapter": "Parking Regulations",
+    "OrdinanceName": "Manner of parking",
+    "OrdinanceNumber": "72.02",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3160"
+  },
+  {
+    "Category": "Parking",
+    "Chapter": "Parking Regulations",
+    "OrdinanceName": "Limitations of stopping and parking",
+    "OrdinanceNumber": "72.03",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3168"
+  },
+  {
+    "Category": "Parking",
+    "Chapter": "Parking Regulations",
+    "OrdinanceName": "Restrictions and prohibitions on designated streets",
+    "OrdinanceNumber": "72.04",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3180"
+  },
+  {
+    "Category": "Parking",
+    "Chapter": "Parking Regulations",
+    "OrdinanceName": "Parking restricted to allow street cleaning",
+    "OrdinanceNumber": "72.05",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3190"
+  },
+  {
+    "Category": "Parking",
+    "Chapter": "Parking Regulations",
+    "OrdinanceName": "All-night parking",
+    "OrdinanceNumber": "72.06",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3193"
+  },
+  {
+    "Category": "Parking",
+    "Chapter": "Parking Regulations",
+    "OrdinanceName": "Parking on parade route",
+    "OrdinanceNumber": "72.07",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3198"
+  },
+  {
+    "Category": "Parking",
+    "Chapter": "Parking Regulations",
+    "OrdinanceName": "Parking on off-street facility",
+    "OrdinanceNumber": "72.08",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3205"
+  },
+  {
+    "Category": "Parking",
+    "Chapter": "Parking Regulations",
+    "OrdinanceName": "Parking in parks",
+    "OrdinanceNumber": "72.10",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3211"
+  },
+  {
+    "Category": "Parking",
+    "Chapter": "Parking Regulations",
+    "OrdinanceName": "Display of parked vehicle for sale",
+    "OrdinanceNumber": "72.11",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3214"
+  },
+  {
+    "Category": "Parking",
+    "Chapter": "Parking Regulations",
+    "OrdinanceName": "Parking for persons with disabilities — permit requirements",
+    "OrdinanceNumber": "72.12",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3217"
+  },
+  {
+    "Category": "Parking",
+    "Chapter": "Parking Regulations",
+    "OrdinanceName": "Stopping, standing, parking on city street",
+    "OrdinanceNumber": "72.13",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3222"
+  },
+  {
+    "Category": "Parking",
+    "Chapter": "Parking Regulations",
+    "OrdinanceName": "Designated snow routes",
+    "OrdinanceNumber": "72.35",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3263"
+  },
+  {
+    "Category": "Parking",
+    "Chapter": "Parking Regulations",
+    "OrdinanceName": "Time limits; charges",
+    "OrdinanceNumber": "72.42",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3283"
+  },
+  {
+    "Category": "Parking",
+    "Chapter": "Parking Regulations",
+    "OrdinanceName": "Parking within designated areas",
+    "OrdinanceNumber": "72.44",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3306"
+  },
+  {
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Bicycles and Motorcycles",
+    "OrdinanceName": "Leaving bicycles unattended on public streets prohibited",
+    "OrdinanceNumber": "73.01",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3337"
+  },
+  {
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Bicycles and Motorcycles",
+    "OrdinanceName": "Riding on sidewalk prohibited in certain areas",
+    "OrdinanceNumber": "73.02",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3340"
+  },
+  {
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Bicycles and Motorcycles",
+    "OrdinanceName": "Operation of motorcycles and motorscooters",
+    "OrdinanceNumber": "73.03",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3343"
+  },
+  {
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Bicycles and Motorcycles",
+    "OrdinanceName": "Skating and coasting",
+    "OrdinanceNumber": "73.04",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3348"
+  },
+  {
+    "Category": "Traffic (Vehicles)",
+    "Chapter": "Bicycles and Motorcycles",
+    "OrdinanceName": "Skateboards prohibited on sidewalks in business districts",
+    "OrdinanceNumber": "73.05",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3351"
+  },
+  {
+    "Category": "Animals",
+    "Chapter": "Animals",
+    "OrdinanceName": "Animals running at large",
+    "OrdinanceNumber": "90.02",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3413"
+  },
+  {
+    "Category": "Animals",
+    "Chapter": "Animals",
+    "OrdinanceName": "Cruelty to animals in the second degree",
+    "OrdinanceNumber": "90.03",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3417"
+  },
+  {
+    "Category": "Animals",
+    "Chapter": "Animals",
+    "OrdinanceName": "Dyeing or selling dyed chicks or rabbits",
+    "OrdinanceNumber": "90.04",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3436"
+  },
+  {
+    "Category": "Animals",
+    "Chapter": "Animals",
+    "OrdinanceName": "Abandoning domestic animals prohibited",
+    "OrdinanceNumber": "90.05",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3439"
+  },
+  {
+    "Category": "Animals",
+    "Chapter": "Animals",
+    "OrdinanceName": "Destruction of abandoned and suffering animal",
+    "OrdinanceNumber": "90.06",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3442"
+  },
+  {
+    "Category": "Animals",
+    "Chapter": "Animals",
+    "OrdinanceName": "Lake Peewee; bird and wildlife sanctuary",
+    "OrdinanceNumber": "90.07",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3448"
+  },
+  {
+    "Category": "Animals",
+    "Chapter": "Animals",
+    "OrdinanceName": "Keeping bees",
+    "OrdinanceNumber": "90.08",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3453"
+  },
+  {
+    "Category": "Animals",
+    "Chapter": "Animals",
+    "OrdinanceName": "Trapping in city prohibited",
+    "OrdinanceNumber": "90.09",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3457"
+  },
+  {
+    "Category": "Animals",
+    "Chapter": "Animals",
+    "OrdinanceName": "Feeding, baiting or releasing waterfowl in city parks",
+    "OrdinanceNumber": "90.11",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-9663"
+  },
+  {
+    "Category": "Animals",
+    "Chapter": "Animals",
+    "OrdinanceName": "Nuisances created by animals",
+    "OrdinanceNumber": "90.14",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-11210"
+  },
+  {
+    "Category": "Animals",
+    "Chapter": "Animals",
+    "OrdinanceName": "Provision of necessities to animals",
+    "OrdinanceNumber": "90.15",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-11231"
+  },
+  {
+    "Category": "Animals",
+    "Chapter": "Animals",
+    "OrdinanceName": "Prohibition on ownership of wild animals",
+    "OrdinanceNumber": "90.16",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-11243"
+  },
+  {
+    "Category": "Animals",
+    "Chapter": "Animals",
+    "OrdinanceName": "Dogs running at large",
+    "OrdinanceNumber": "90.25",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-11250"
+  },
+  {
+    "Category": "Noise",
+    "Chapter": "Animals",
+    "OrdinanceName": "Noise disturbance caused by animals",
+    "OrdinanceNumber": "90.26",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-11255"
+  },
+  {
+    "Category": "Animals",
+    "Chapter": "Animals",
+    "OrdinanceName": "Keeping of dangerous or vicious dogs",
+    "OrdinanceNumber": "90.30",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-11284"
+  },
+  {
+    "Category": "Animals",
+    "Chapter": "Animals",
+    "OrdinanceName": "Number of dogs on residential property",
+    "OrdinanceNumber": "90.31",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-11324"
+  },
+  {
+    "Category": "Housing",
+    "Chapter": "Streets and Sidewalks",
+    "OrdinanceName": "House numbers",
+    "OrdinanceNumber": "91.02",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3548"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Streets and Sidewalks",
+    "OrdinanceName": "Unloading on street or sidewalk",
+    "OrdinanceNumber": "91.30",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3585"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Streets and Sidewalks",
+    "OrdinanceName": "Street and sidewalk obstruction",
+    "OrdinanceNumber": "91.31",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3588"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Streets and Sidewalks",
+    "OrdinanceName": "Materials on street or sidewalk",
+    "OrdinanceNumber": "91.32",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3592"
+  },
+  {
+    "Category": "Housing",
+    "Chapter": "Streets and Sidewalks",
+    "OrdinanceName": "Removal of ice and snow",
+    "OrdinanceNumber": "91.33",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3597"
+  },
+  {
+    "Category": "Housing",
+    "Chapter": "Nuisances",
+    "OrdinanceName": "Certain conditions declared a nuisance",
+    "OrdinanceNumber": "92.03",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3786"
+  },
+  {
+    "Category": "Housing",
+    "Chapter": "Nuisances",
+    "OrdinanceName": "Nuisance created by others",
+    "OrdinanceNumber": "92.05",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3812"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Fire Prevention, Fireworks, and Explosives",
+    "OrdinanceName": "Violating fire safety statutory provisions",
+    "OrdinanceNumber": "93.03",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3859"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Fire Prevention, Fireworks, and Explosives",
+    "OrdinanceName": "False fire alarms",
+    "OrdinanceNumber": "93.04",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3862"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Fire Prevention, Fireworks, and Explosives",
+    "OrdinanceName": "Open burning",
+    "OrdinanceNumber": "93.05",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3865"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Fire Prevention, Fireworks, and Explosives",
+    "OrdinanceName": "Fireworks within the city",
+    "OrdinanceNumber": "93.15",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3966"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Fire Prevention, Fireworks, and Explosives",
+    "OrdinanceName": "Blasting permits",
+    "OrdinanceNumber": "93.27",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3981"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Fire Prevention, Fireworks, and Explosives",
+    "OrdinanceName": "Manufacture and sale of explosives",
+    "OrdinanceNumber": "93.28",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-3994"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Littering",
+    "OrdinanceName": "Throwing litter from vehicle",
+    "OrdinanceNumber": "94.01",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-4015"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Littering",
+    "OrdinanceName": "Tracking foreign matter on streets",
+    "OrdinanceNumber": "94.02",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-4018"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Littering",
+    "OrdinanceName": "Hauling loose material",
+    "OrdinanceNumber": "94.03",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-4022"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Littering",
+    "OrdinanceName": "Sweeping litter into gutters",
+    "OrdinanceNumber": "94.04",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-4025"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Littering",
+    "OrdinanceName": "Merchants to keep sidewalks free of litter",
+    "OrdinanceNumber": "94.05",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-4028"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Littering",
+    "OrdinanceName": "Posting notices",
+    "OrdinanceNumber": "94.06",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-4034"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Littering",
+    "OrdinanceName": "Litter on private property",
+    "OrdinanceNumber": "94.07",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-4037"
+  },
+  {
+    "Category": "Parks",
+    "Chapter": "Parks and Recreation",
+    "OrdinanceName": "City park rules and after-hours access",
+    "OrdinanceNumber": "95.02",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-4060"
+  },
+  {
+    "Category": "Parks",
+    "Chapter": "Parks and Recreation",
+    "OrdinanceName": "Sale of food, beverages and other commodities in city parks and upon city property",
+    "OrdinanceNumber": "95.03",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-4065"
+  },
+  {
+    "Category": "Parks",
+    "Chapter": "Parks and Recreation",
+    "OrdinanceName": "Operation of motor vehicles on golf course",
+    "OrdinanceNumber": "95.05",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-4072"
+  },
+  {
+    "Category": "Housing",
+    "Chapter": "Garbage and Refuse",
+    "OrdinanceName": "Appropriate containers required",
+    "OrdinanceNumber": "97.04",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-4216"
+  },
+  {
+    "Category": "Housing",
+    "Chapter": "Garbage and Refuse",
+    "OrdinanceName": "Placement of containers for collection",
+    "OrdinanceNumber": "97.05",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-4219"
+  },
+  {
+    "Category": "Housing",
+    "Chapter": "Garbage and Refuse",
+    "OrdinanceName": "Garbage restrictions",
+    "OrdinanceNumber": "97.06",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-19151"
+  },
+  {
+    "Category": "Housing",
+    "Chapter": "Garbage and Refuse",
+    "OrdinanceName": "City’s responsibility; private collectors prohibited",
+    "OrdinanceNumber": "97.07",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-9714"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Trees",
+    "OrdinanceName": "Pruning, corner clearance",
+    "OrdinanceNumber": "100.12",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-4325"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Trees",
+    "OrdinanceName": "Dead or diseased tree removal on private property",
+    "OrdinanceNumber": "100.13",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-4328"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Trees",
+    "OrdinanceName": "Interference with city tree board",
+    "OrdinanceNumber": "100.14",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-4332"
+  },
+  {
+    "Category": "Housing",
+    "Chapter": "Inoperative or Abandoned Vehicles",
+    "OrdinanceName": "Storage of inoperative or abandoned motor vehicles",
+    "OrdinanceNumber": "103.02",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-9743"
+  },
+  {
+    "Category": "Housing",
+    "Chapter": "Inoperative or Abandoned Vehicles",
+    "OrdinanceName": "Junkyards to have suitable screen",
+    "OrdinanceNumber": "103.06",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-9791"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Charitable Solicitations",
+    "OrdinanceName": "Charitable solicitation permit required",
+    "OrdinanceNumber": "111.02",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5045"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Charitable Solicitations",
+    "OrdinanceName": "Solicitation registration form",
+    "OrdinanceNumber": "111.03",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5048"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Charitable Solicitations",
+    "OrdinanceName": "Nontransferable",
+    "OrdinanceNumber": "111.05",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5094"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Charitable Solicitations",
+    "OrdinanceName": "Solicitor credentials to be furnished",
+    "OrdinanceNumber": "111.06",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5097"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Charitable Solicitations",
+    "OrdinanceName": "Prohibited methods of solicitation",
+    "OrdinanceNumber": "111.10",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5109"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Junk, Scrap Metal and Secondhand Dealers, Secondhand Stores and Pawn Shops",
+    "OrdinanceName": "Junk, Scrap Metal and Secondhand Dealers, Secondhand Stores and Pawn Shops — license required",
+    "OrdinanceNumber": "112.02",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-15106"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Junk, Scrap Metal and Secondhand Dealers, Secondhand Stores and Pawn Shops",
+    "OrdinanceName": "Junk, secondhand and pawn dealers — daily reports to police department",
+    "OrdinanceNumber": "112.04",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-15116"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Junk, Scrap Metal and Secondhand Dealers, Secondhand Stores and Pawn Shops",
+    "OrdinanceName": "Junk, secondhand and pawn dealers — records",
+    "OrdinanceNumber": "112.05",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-15132"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Junk, Scrap Metal and Secondhand Dealers, Secondhand Stores and Pawn Shops",
+    "OrdinanceName": "Tagging of merchandise; restrictions on resale",
+    "OrdinanceNumber": "112.06",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-15166"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Junk, Scrap Metal and Secondhand Dealers, Secondhand Stores and Pawn Shops",
+    "OrdinanceName": "Junk, secondhand and pawn dealers — transactions with minors",
+    "OrdinanceNumber": "112.07",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-15177"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Precious Metal Dealers",
+    "OrdinanceName": "Precious metal dealers — daily register",
+    "OrdinanceNumber": "115.01",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5189"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Precious Metal Dealers",
+    "OrdinanceName": "Precious metal dealers — waiting period",
+    "OrdinanceNumber": "115.02",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5193"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Precious Metal Dealers",
+    "OrdinanceName": "Photographic identification of seller or exchanger",
+    "OrdinanceNumber": "115.03",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5197"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Precious Metal Dealers",
+    "OrdinanceName": "Purchasing from minors prohibited",
+    "OrdinanceNumber": "115.04",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5202"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Precious Metal Dealers",
+    "OrdinanceName": "Bond",
+    "OrdinanceNumber": "115.05",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5205"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Taxicabs",
+    "OrdinanceName": "Taxicab drivers’ hours limited",
+    "OrdinanceNumber": "116.02",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5230"
+  },
+  {
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic Beverages",
+    "OrdinanceName": "Incorporation of state law; compliance required",
+    "OrdinanceNumber": "118.02",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5344"
+  },
+  {
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic Beverages",
+    "OrdinanceName": "Location of business restricted",
+    "OrdinanceNumber": "118.37",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5419"
+  },
+  {
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic Beverages",
+    "OrdinanceName": "Posting of alcohol licenses",
+    "OrdinanceNumber": "118.41",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5436"
+  },
+  {
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic Beverages",
+    "OrdinanceName": "Licenses required for sale",
+    "OrdinanceNumber": "118.60",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5446"
+  },
+  {
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic Beverages",
+    "OrdinanceName": "Hours of alcohol sale",
+    "OrdinanceNumber": "118.61",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5450"
+  },
+  {
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic Beverages",
+    "OrdinanceName": "Hours of sale, exceptions; requirements",
+    "OrdinanceNumber": "118.62",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5460"
+  },
+  {
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic Beverages",
+    "OrdinanceName": "Advertising restrictions",
+    "OrdinanceNumber": "118.64",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5466"
+  },
+  {
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic Beverages",
+    "OrdinanceName": "Retail sales to certain persons prohibited",
+    "OrdinanceNumber": "118.65",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5472"
+  },
+  {
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic Beverages",
+    "OrdinanceName": "Minors not to possess or purchase alcoholic beverages nor to misrepresent age; use of fraudulent identification",
+    "OrdinanceNumber": "118.66",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5479"
+  },
+  {
+    "Category": "Alcohol",
+    "Chapter": "Alcoholic Beverages",
+    "OrdinanceName": "Licensee to display notice as to sale to minors",
+    "OrdinanceNumber": "118.67",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5499"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Sexually Oriented Businesses",
+    "OrdinanceName": "General restrictions, requirements, and conditions",
+    "OrdinanceNumber": "121.04",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5772"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Sexually Oriented Businesses",
+    "OrdinanceName": "Viewing room regulations",
+    "OrdinanceNumber": "121.05",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5783"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Sexually Oriented Businesses",
+    "OrdinanceName": "Licensing requirements",
+    "OrdinanceNumber": "121.06",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5800"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Sexually Oriented Businesses",
+    "OrdinanceName": "Inspection",
+    "OrdinanceNumber": "121.11",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5870"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Sexually Oriented Businesses",
+    "OrdinanceName": "Transfer of license",
+    "OrdinanceNumber": "121.12",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5873"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Sexually Oriented Businesses",
+    "OrdinanceName": "Name and location of business",
+    "OrdinanceNumber": "121.13",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5876"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Sexually Oriented Businesses",
+    "OrdinanceName": "Display of licenses",
+    "OrdinanceNumber": "121.14",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5879"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Sexually Oriented Businesses",
+    "OrdinanceName": "Sexually Oriented Businesses — regulations",
+    "OrdinanceNumber": "121.18",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5913"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Sexually Oriented Businesses",
+    "OrdinanceName": "Record keeping requirements",
+    "OrdinanceNumber": "121.19",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5920"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Mobile Food Vendors",
+    "OrdinanceName": "Subject to applicable ordinances, regulations and licenses",
+    "OrdinanceNumber": "124.03",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-16749"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Mobile Food Vendors",
+    "OrdinanceName": "Location and hours of mobile food vendors",
+    "OrdinanceNumber": "124.04",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-16758"
+  },
+  {
+    "Category": "Business",
+    "Chapter": "Mobile Food Vendors",
+    "OrdinanceName": "Regulation of mobile food vendors",
+    "OrdinanceNumber": "124.05",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-16770"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Miscellaneous Offenses",
+    "OrdinanceName": "Blocking crossings",
+    "OrdinanceNumber": "130.01",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5946"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Miscellaneous Offenses",
+    "OrdinanceName": "Disturbing public worship or assemblies",
+    "OrdinanceNumber": "130.02",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5951"
+  },
+  {
+    "Category": "Criminal Mischief",
+    "Chapter": "Miscellaneous Offenses",
+    "OrdinanceName": "Injury to shade trees",
+    "OrdinanceNumber": "130.03",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5954"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Miscellaneous Offenses",
+    "OrdinanceName": "Discharging firearms",
+    "OrdinanceNumber": "130.04",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5957"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Miscellaneous Offenses",
+    "OrdinanceName": "Discharge of air guns",
+    "OrdinanceNumber": "130.05",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5962"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Miscellaneous Offenses",
+    "OrdinanceName": "Spitting in public",
+    "OrdinanceNumber": "130.06",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5965"
+  },
+  {
+    "Category": "Criminal Mischief",
+    "Chapter": "Miscellaneous Offenses",
+    "OrdinanceName": "Injuring grass on public property",
+    "OrdinanceNumber": "130.07",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5968"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Miscellaneous Offenses",
+    "OrdinanceName": "Throwing objects",
+    "OrdinanceNumber": "130.08",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5971"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Miscellaneous Offenses",
+    "OrdinanceName": "Unused signs required to be removed",
+    "OrdinanceNumber": "130.09",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5974"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Miscellaneous Offenses",
+    "OrdinanceName": "Erection and maintenance of coal-loading tipples",
+    "OrdinanceNumber": "130.10",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5979"
+  },
+  {
+    "Category": "Noise",
+    "Chapter": "Miscellaneous Offenses",
+    "OrdinanceName": "Noise restrictions",
+    "OrdinanceNumber": "130.11",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5984"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Miscellaneous Offenses",
+    "OrdinanceName": "Public appearance in groups of three or more with identity-concealing masks",
+    "OrdinanceNumber": "130.12",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-5991"
+  },
+  {
+    "Category": "Miscellaneous Offenses",
+    "Chapter": "Miscellaneous Offenses",
+    "OrdinanceName": "Concealed deadly weapons",
+    "OrdinanceNumber": "130.14",
+    "OrdinanceURL": "https://codelibrary.amlegal.com/codes/madisonville/latest/madisonville_ky/0-0-0-6006"
+  }
+]
