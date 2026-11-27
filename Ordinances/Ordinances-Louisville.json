@@ -720,7 +720,7 @@
   },
   {
     "OrdinanceNumber": "96.99",
-    "OrdinanceName": "Penalty",
+    "OrdinanceName": "Health regulation and nuisance violations",
     "OrdinanceURL": "https://codelibrary.amlegal.com/codes/louisvillemetro/latest/loukymetro/0-0-0-8635",
     "Category": "Housing",
     "Chapter": "Health regulations and nuisances"
@@ -825,7 +825,7 @@
   },
   {
     "OrdinanceNumber": "111.99",
-    "OrdinanceName": "Penalty",
+    "OrdinanceName": "Adult entertainment establishment violations",
     "OrdinanceURL": "https://codelibrary.amlegal.com/codes/louisvillemetro/latest/loukymetro/0-0-0-10733",
     "Category": "Business",
     "Chapter": "Adult entertainment establishments"
@@ -930,7 +930,7 @@
   },
   {
     "OrdinanceNumber": "113.99",
-    "OrdinanceName": "Penalty",
+    "OrdinanceName": "Alcoholic beverage violations",
     "OrdinanceURL": "https://codelibrary.amlegal.com/codes/louisvillemetro/latest/loukymetro/0-0-0-11100",
     "Category": "Alcohol",
     "Chapter": "Alcoholic beverages"
@@ -979,7 +979,7 @@
   },
   {
     "OrdinanceNumber": "127.12",
-    "OrdinanceName": "Penalty; fines for false alarms",
+    "OrdinanceName": "False alarms—fines",
     "OrdinanceURL": "https://codelibrary.amlegal.com/codes/louisvillemetro/latest/loukymetro/0-0-0-26916",
     "Category": "Business",
     "Chapter": "Burglary and hold-up alarm systems"
@@ -1014,7 +1014,7 @@
   },
   {
     "OrdinanceNumber": "133.99",
-    "OrdinanceName": "Penalty",
+    "OrdinanceName": "Displaying sexually explicit material in a store (§ 133.12)",
     "OrdinanceURL": "https://codelibrary.amlegal.com/codes/louisvillemetro/latest/loukymetro/0-0-0-14228",
     "Category": "Miscellaneous Offenses",
     "Chapter": "Offenses against morals"
@@ -1035,7 +1035,7 @@
   },
   {
     "OrdinanceNumber": "134.99",
-    "OrdinanceName": "Penalty",
+    "OrdinanceName": "Strobe light warnings not posted (§ 134.03) and other violations",
     "OrdinanceURL": "https://codelibrary.amlegal.com/codes/louisvillemetro/latest/loukymetro/0-0-0-14265",
     "Category": "Miscellaneous Offenses",
     "Chapter": "Offenses against persons"
@@ -1049,7 +1049,7 @@
   },
   {
     "OrdinanceNumber": "135.99",
-    "OrdinanceName": "Penalty",
+    "OrdinanceName": "Discharging a firearm (§ 135.03) and other weapons violations",
     "OrdinanceURL": "https://codelibrary.amlegal.com/codes/louisvillemetro/latest/loukymetro/0-0-0-14441",
     "Category": "Miscellaneous Offenses",
     "Chapter": "Weapons control"
@@ -1063,7 +1063,7 @@
   },
   {
     "OrdinanceNumber": "137.99",
-    "OrdinanceName": "Penalty",
+    "OrdinanceName": "Allowing a minor to violate curfew or school attendance (§§ 137.02, 137.21)",
     "OrdinanceURL": "https://codelibrary.amlegal.com/codes/louisvillemetro/latest/loukymetro/0-0-0-14576",
     "Category": "Minors",
     "Chapter": "Juvenile offenses"
